@@ -1,2 +1,2 @@
 # AI Especialization USP
-Repo for keeping the AI Especialization code, projects and assigments
+Repo for keeping the AI Specialization code, projects and assigments
