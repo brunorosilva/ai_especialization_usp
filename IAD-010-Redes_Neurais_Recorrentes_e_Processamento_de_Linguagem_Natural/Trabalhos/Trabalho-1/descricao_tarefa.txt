@@ -1,0 +1,9 @@
+Sua tarefa é determinar a autoria do documento intitulado TextoSuspeito através da comparação com obras de três autores: O Guarani, de José de Alencar, Dom Casmurro, de Machado de Assis e O Abolicionismo, de Joaquim Nabuco. As três obras foram colocadas à disposição para download aqui, na Plataforma AlunoWeb, assim como o arquivo TextoSuspeito.
+
+Para isso, procure usar as técnicas brevemente descritas ao final do notebook sobre etiquetagem.
+
+Uma dica: pode ser uma boa ideia gerar um gráfico de pontos para mostrar as diferenças entre os autores pela distância. Nesse gráfico, o vetor mais curto identifica o suspeito.
+
+Como solução da tarefa, você pode optar por enviar o gráfico produzido ou, para facilitar, somente os valores das variáveis consideradas para cada autor e para o suspeito.
+
+A tarefa pode ser feita individualmente ou em grupos de até três pessoas.
