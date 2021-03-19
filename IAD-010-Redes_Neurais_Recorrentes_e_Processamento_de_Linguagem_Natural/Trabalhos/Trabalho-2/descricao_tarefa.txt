@@ -1,0 +1,9 @@
+Nesta tarefa, você deve implementar um algoritmo simples de geração de texto a partir de modelos de n-gramas. A fonte para modelização será o livro "Dom Casmurro" de Machado de Assis. Seu script em Python deve:
+
+Ler o arquivo, tokenizá-lo e limpá-lo;
+Gerar os modelos de n-gramas. Sugiro trabalhar somente com uni-, bi- e trigramas.
+Não deixe de marcar o início e o fim das sentenças.
+Com base nesses modelos, comece a gerar o "texto novo" de Machado de Assis encadeando os n-gramas. Algumas dicas:
+Você pode usar uma semente aleatória no início (através do módulo random do Python) ou simplesmente pegar a primeira tupla disponível, a seu critério. Fica mais interessante com o aleatório.
+As tuplas seguintes devem ser baseadas na última que foi colocada. Se o modelo for de bigramas, por exemplo, você deve escolher um novo bigrama que tenha como primeiro item a última palavra do bigrama anterior.
+Como inspiração, você pode considerar a figura colocada aqui nesta aula extraída do livro de Jurafsky & Martin (Speech and NLP) que mostra a geração de texto baseada nas obras completas de Shakespeare.
