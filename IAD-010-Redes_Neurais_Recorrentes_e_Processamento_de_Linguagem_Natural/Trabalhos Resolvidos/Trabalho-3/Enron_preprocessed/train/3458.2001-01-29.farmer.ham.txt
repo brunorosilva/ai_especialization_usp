@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'sept', 'nick', 'realloc', 'abov', 'referenc', 'meter', 'per', 'daren', 'clem', 'instruct', 'gas', 'mjg', 'deal', 'ticket', 'valid', 'octob', 'pleas', 'call', 'clem', 'ani', 'question', 'mari']

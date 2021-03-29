@@ -1,0 +1,2 @@
+0
+['subject', 'pennzenergi', 'properti', 'detail', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'dscottl', 'com', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'subject', 'pennzenergi', 'properti', 'detail', 'ami', 'attach', 'detail', 'devon', 'south', 'texa', 'properti', 'let', 'know', 'ani', 'question', 'david', 'devon', 'stx', 'xls']

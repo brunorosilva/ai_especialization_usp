@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'daren', 'new', 'dad', 'never', 'heard', 'back', 'staci', 'forward', 'tom', 'acton', 'corp', 'enron', 'tom', 'acton', 'stacey', 'neuweil', 'hou', 'ect', 'ect', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'vanc', 'l', 'taylor', 'hou', 'ect', 'ect', 'cc', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'subject', 'well', 'head', 'staci', 'bill', 'moor', 'texaco', 'call', 'well', 'meter', 'came', 'begin', 'month', 'day', 'drop', 'day', 'bill', 'would', 'like', 'chang', 'nom', 'balanc', 'month', 'let', 'know', 'think', 'get', 'back']

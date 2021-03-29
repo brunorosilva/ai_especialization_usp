@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'daren', 'shore', 'line', 'would', 'like', 'take', 'meter', 'th', 'gas', 'day', 'flow', 'nom', 'april', 'must', 'well', 'problem', 'month', 'meter', 'chang', 'flow', 'april', 'could', 'new', 'product', 'come', 'behind', 'meter', 'texaco', 'would', 'like', 'chang', 'meter', 'rest', 'month', 'april', 'flow']

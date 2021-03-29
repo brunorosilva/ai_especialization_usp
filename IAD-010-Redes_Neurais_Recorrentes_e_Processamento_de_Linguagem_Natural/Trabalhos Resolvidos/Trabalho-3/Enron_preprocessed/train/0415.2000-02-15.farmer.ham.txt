@@ -1,0 +1,2 @@
+0
+['subject', 'http', 'www', 'pge', 'texa', 'com', 'www', 'gtt', 'nsf', 'htmlmedia', 'oper', 'html']

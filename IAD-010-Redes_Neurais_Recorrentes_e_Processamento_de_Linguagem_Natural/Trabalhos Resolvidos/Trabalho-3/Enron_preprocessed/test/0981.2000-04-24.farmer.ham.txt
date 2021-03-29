@@ -1,0 +1,2 @@
+0
+['subject', 'bammel', 'easter', 'egg', 'hunt', 'pictur', 'thank', 'ram', 'tackett', 'mailto', 'rtackett', 'abacustech', 'net', 'owner', 'abacus', 'technolog', 'lore', 'lane', 'spring', 'tx', 'fax', 'web', 'http', 'www', 'abacustech', 'net', 'winmail', 'dat']

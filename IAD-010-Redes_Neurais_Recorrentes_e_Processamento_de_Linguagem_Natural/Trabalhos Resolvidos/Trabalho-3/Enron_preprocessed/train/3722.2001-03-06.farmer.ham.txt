@@ -1,0 +1,2 @@
+0
+['subject', 'updat', 'march', 'ad', 'swing', 'mobil', 'oil', 'move', 'sale', 'number', 'swing', 'column', 'equistar']

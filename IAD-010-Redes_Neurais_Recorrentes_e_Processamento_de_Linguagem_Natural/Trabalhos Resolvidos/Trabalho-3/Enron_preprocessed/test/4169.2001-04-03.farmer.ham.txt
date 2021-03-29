@@ -1,0 +1,2 @@
+0
+['subject', 'spot', 'purchas', 'follow', 'deal', 'enter', 'today', 'wellhead', 'purchas', 'deal', 'meter', 'counterparti', 'tr', 'zn', 'nom', 'price', 'swift', 'energi', 'ifhsc', 'less', 'vintag', 'gas', 'ifhsc', 'bob']

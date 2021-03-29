@@ -1,0 +1,2 @@
+0
+['subject', 'gas', 'manag', 'agreement', 'daren', 'ever', 'need', 'util', 'transport', 'get', 'suppli', 'plant', 'lone', 'star', 'agreement', 'would', 'use', 'tenaska', 'transport', 'agreement', 'ena']

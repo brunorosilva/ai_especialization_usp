@@ -1,0 +1,2 @@
+0
+['subject', 'eastran', 'nomin', 'chang', 'effect', 'pleas', 'decreas', 'deliveri', 'eastran', 'mmbtu', 'dy', 'redeliveri', 'well', 'deliveri', 'quantiti', 'fuel', 'cotton', 'valley', 'gas', 'valu', 'per', 'paragraph', 'contract', 'price', 'per', 'mmbtu', 'section', 'transact', 'agreement']

@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'comput', 'hey', 'check', 'new', 'machin', 'sent', 'cole', 'birthday', 'present', 'today', 'hope', 'get', 'time', 'let', 'know', 'get', 'messag', 'pleas']

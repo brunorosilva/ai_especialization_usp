@@ -1,0 +1,2 @@
+0
+['subject', 'interview', 'itinerari', 'daren', 'gari', 'juri', 'duti', 'monday', 'hope', 'back', 'time', 'never', 'know', 'thank', 'pat', 'gail', 'franci', 'ect', 'mmccoy', 'aol', 'com', 'cc', 'pat', 'clyne', 'corp', 'enron', 'enron', 'samantha', 'ray', 'hou', 'ect', 'ect', 'alexus', 'rhone', 'corp', 'enron', 'enron', 'subject', 'interview', 'itinerari', 'hi', 'mark', 'itinerari', 'monday', 'pleas', 'let', 'know', 'ani', 'question', 'conflict', 'look', 'forward', 'meet', 'thank', 'good', 'luck']

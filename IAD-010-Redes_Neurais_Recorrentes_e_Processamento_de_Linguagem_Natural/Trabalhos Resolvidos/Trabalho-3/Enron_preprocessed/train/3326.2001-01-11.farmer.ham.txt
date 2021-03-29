@@ -1,0 +1,2 @@
+0
+['subject', 'las', 'vega', 'pleas', 'read', 'respond', 'asap', 'person', 'budget', 'person', 'differ', 'show', 'golf', 'spa', 'etc', 'pleas', 'choos', 'list', 'let', 'know', 'choic', 'soon', 'possibl', 'today', 'reserv', 'everyth', 'friday', 'night', 'rio', 'de', 'playa', 'saturday', 'night', 'sigmund', 'freud', 'sunday', 'noon', 'golf', 'sunday', 'night', 'mystiqu', 'ani', 'question', 'pleas', 'feel', 'free', 'call', 'thank', 'laura', 'ext']

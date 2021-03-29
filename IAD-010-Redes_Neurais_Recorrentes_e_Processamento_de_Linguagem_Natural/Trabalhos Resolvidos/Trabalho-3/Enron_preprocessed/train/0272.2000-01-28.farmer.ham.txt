@@ -1,0 +1,2 @@
+0
+['subject', 'fri', 'feb', 'problem', 'take', 'vacat']

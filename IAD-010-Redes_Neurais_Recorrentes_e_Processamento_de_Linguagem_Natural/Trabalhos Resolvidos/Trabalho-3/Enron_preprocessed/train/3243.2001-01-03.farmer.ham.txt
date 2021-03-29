@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'hungerford', 'grain', 'compani', 'daren', 'hpl', 'record', 'flow', 'mmbtus', 'hpl', 'pipelin', 'gas', 'measur', 'dept', 'verifi', 'accuraci', 'flow', 'deal', 'place', 'month', 'prior', 'month', 'current', 'volum', 'record', 'hpl', 'stranger', 'gas', 'contract', 'logist', 'need', 'approv', 'write', 'volum', 'unaccount', 'gas', 'loss', 'pleas', 'print', 'sign', 'return', 'origin', 'clem', 'cernosek', 'approv', 'write', 'volum', 'unaccount', 'gas', 'loss', 'thank', 'clem']

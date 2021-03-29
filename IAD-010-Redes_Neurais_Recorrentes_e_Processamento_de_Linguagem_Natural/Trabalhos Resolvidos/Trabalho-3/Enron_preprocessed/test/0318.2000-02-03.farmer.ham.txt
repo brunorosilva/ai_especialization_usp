@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'nomin', 'sorri', 'bruce', 'mcmill', 'dfarmer', 'enron', 'com', 'briley', 'enron', 'com', 'chad', 'w', 'cass', 'gcs', 'cec', 'pec', 'pec', 'william', 'e', 'speckel', 'gcs', 'cec', 'pec', 'pec', 'cc', 'michael', 'r', 'cherri', 'easttexa', 'pef', 'pec', 'pec', 'subject', 'nomin', 'nomin', 'mmbtu', 'hpl', 'eastran', 'interconnect', 'equat', 'mcf', 'like', 'mmbtu', 'redeliv', 'fuel', 'cotton', 'valley', 'p', 'g', 'e', 'carthag', 'tailgat', 'mmbtu']

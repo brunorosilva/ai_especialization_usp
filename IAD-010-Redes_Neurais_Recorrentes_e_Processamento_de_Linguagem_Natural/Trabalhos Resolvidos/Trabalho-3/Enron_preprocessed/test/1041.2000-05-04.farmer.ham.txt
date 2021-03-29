@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'hpl', 'meter', 'vidor', 'citi', 'gate', 'check', 'meter', 'fyi', 'houston', 'pipe', 'line', 'meter', 'set', 'global', 'facil', 'meter', 'facil', 'number', 'name', 'vidor', 'citi', 'gate', 'check', 'type', 'check', 'system', 'texoma', 'pipelin', 'rate', 'zone', 'vidor', 'trade', 'zone', 'east', 'texa', 'flow', 'direct', 'deliveri', 'later', 'work', 'order', 'note', 'meter', 'check', 'meter', 'pleas', 'call', 'ext', 'ani', 'question', 'donna']

@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'gari', 'hank', 'ask', 'add', 'addit', 'nom', 'meter', 'make', 'total', 'ask', 'said', 'would', 'probabl', 'increas', 'reliant', 'energi', 'entex', 'nom', 'deal', 'meantim', 'ad', 'addit', 'volum', 'stranger', 'gas', 'gas', 'control', 'could', 'see', 'nom', 'alloc', 'gas', 'reliant', 'want', 'increas', 'nom', 'let', 'know']

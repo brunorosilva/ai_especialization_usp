@@ -1,0 +1,2 @@
+0
+['subject', 'fail', 'deal', 'hi', 'daren', 'per', 'phone', 'convers', 'sent', 'fax', 'also', 'want', 'let', 'electron', 'copi', 'fail', 'deal', 'need', 'book', 'sitara', 'attach', 'detail', 'six', 'trade', 'question', 'thank', 'torrey', 'moorer', 'x']

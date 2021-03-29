@@ -1,0 +1,2 @@
+0
+['subject', 'dure', 'hour', 'contact', 'inform', 'lisa', 'maillet', 'contact', 'inform', 'would', 'one', 'next', 'day', 'email', 'back', 'correct', 'contact', 'inform', 'busi', 'hour', 'hour', 'hand', 'prepar', 'gas', 'flow', 'thank', 'trey', 'lisa', 'maillet', 'work', 'home', 'mobil', 'trey', 'christensen', 'work', 'home', 'pager', 'pin', 'mobil']

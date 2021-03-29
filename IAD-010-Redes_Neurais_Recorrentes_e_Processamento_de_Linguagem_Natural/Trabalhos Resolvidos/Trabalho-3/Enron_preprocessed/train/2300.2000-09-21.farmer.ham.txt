@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'san', 'jacinto', 'low', 'pressur', 'del', 'def', 'fyi', 'duke', 'energi', 'field', 'servic', 'rework', 'wilcox', 'plant', 'f', 'rom', 'noon', 'requir', 'hpl', 'shut', 'del', 'time', 'frame', 'ani', 'question', 'pleas', 'call', 'mari']

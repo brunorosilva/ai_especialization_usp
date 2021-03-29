@@ -1,0 +1,2 @@
+0
+['subject', 'unit', 'oil', 'miner', 'inc', 'pleas', 'establish', 'spot', 'ticket', 'unit', 'oil', 'miner', 'inc', 'meter', 'januari', 'ticket', 'price', 'hsc', 'less', 'provid', 'mmbtu', 'spot', 'deal', 'execut', 'globla', 'contract', 'pleas', 'call', 'ani', 'addit', 'assist', 'thank', 'donald', 'x']

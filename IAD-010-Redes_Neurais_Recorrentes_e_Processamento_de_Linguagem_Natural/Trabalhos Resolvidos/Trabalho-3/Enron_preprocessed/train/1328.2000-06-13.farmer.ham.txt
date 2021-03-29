@@ -1,0 +1,2 @@
+0
+['subject', 'prior', 'month', 'misnomin', 'daren', 'deal', 'mmbtu', 'transwestern', 'oasi', 'northern', 'per', 'oasi', 'karen', 'lind', 'paper', 'nom', 'oasi', 'correct', 'sinc', 'deal', 'ticket', 'protect', 'thank', 'mark']

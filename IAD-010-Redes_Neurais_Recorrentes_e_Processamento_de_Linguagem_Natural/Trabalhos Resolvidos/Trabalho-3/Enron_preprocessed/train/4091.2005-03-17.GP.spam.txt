@@ -1,0 +1,2 @@
+1
+['subject', 'time', 'right', 'invest', 'euro', 'london', 'ap', 'worldstream', 'via', 'comtex', 'u', 'dollar', 'fallen', 'time', 'low', 'euro', 'euro', 'hit', 'new', 'high', 'us', 'exceed', 'record', 'us', 'set', 'european', 'trade', 'broker', 'say', 'noth', 'tempt', 'investor', 'buy', 'dollar', 'suffer', 'recent', 'week', 'fear', 'size', 'u', 'fiscal', 'budget', 'deficit', 'time', 'take', 'advantag', 'opportun', 'euro', 'offer', 'desk', 'estell', 'riva', 'get', 'report', 'today', 'world', 'currenc', 'market', 'http', 'marcusobjeto', 'com', 'foradditionalus', 'com', 'vu']

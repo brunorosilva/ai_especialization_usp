@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'avail', 'status', 'updat', 'still', 'experienc', 'problem', 'bring', 'hardwar', 'last', 'night', 'emerg', 'outag', 'access', 'applic', 'everi', 'attempt', 'made', 'rectifi', 'problem', 'onc', 'applic', 'avail', 'pleas', 'stay', 'posit', 'manag', 'use', 'cpr', 'posit', 'notifi', 'thank', 'cooper', 'scott', 'mill']

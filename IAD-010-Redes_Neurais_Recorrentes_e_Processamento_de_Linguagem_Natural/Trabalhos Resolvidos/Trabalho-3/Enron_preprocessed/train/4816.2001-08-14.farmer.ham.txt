@@ -1,0 +1,2 @@
+0
+['subject', 'guadalup', 'power', 'juneol', 'hi', 'daren', 'saw', 'volum', 'come', 'across', 'deal', 'thank', 'take', 'care', 'prompt', 'day', 'intent', 'enter', 'day', 'slip', 'finger', 'inform', 'conflict', 'jill', 'show', 'day', 'valeri', 'vela', 'enron', 'net', 'work', 'llc', 'gas', 'settlement', 'f']

@@ -1,0 +1,2 @@
+0
+['subject', 'mgi', 'suppli', 'jan', 'darren', 'price', 'issu', 'mgi', 'suppli', 'januari', 'deal', 'tier', 'price', 'day', 'first', 'everyth', 'agua', 'dulc', 'gdp', 'mgi', 'deal', 'price', 'gdp', 'onli', 'price', 'tier', 'mgi', 'would', 'owe', 'us', 'go', 'price', 'megan']

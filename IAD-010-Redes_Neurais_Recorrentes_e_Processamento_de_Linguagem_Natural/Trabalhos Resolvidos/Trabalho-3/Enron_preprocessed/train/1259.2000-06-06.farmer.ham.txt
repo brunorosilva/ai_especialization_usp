@@ -1,0 +1,2 @@
+0
+['subject', 'carthag', 'american', 'central', 'nomin', 'daren', 'thing', 'work', 'still', 'need', 'talk', 'ami', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'pm', 'cc', 'subject', 'carthag', 'american', 'central', 'nomin', 'chad', 'call', 'said', 'guy', 'requesti', 'approxim', 'mmbtu', 'effect', 'june', 'show', 'number', 'mmbtu', 'could', 'pleas', 'check', 'let', 'know', 'go', 'thank', 'steve']

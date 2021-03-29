@@ -1,0 +1,2 @@
+0
+['subject', 'amoco', 'energi', 'daren', 'put', 'clue', 'juli', 'forward', 'juli', 'meyer', 'hou', 'ect', 'pm', 'enron', 'north', 'america', 'corp', 'megan', 'parker', 'enron', 'pm', 'juli', 'meyer', 'hou', 'ect', 'ect', 'cc', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'subject', 'amoco', 'energi', 'purchas', 'deal', 'system', 'feb', 'product', 'amoco', 'doe', 'show', 'tell', 'trader', 'name', 'amoco', 'deal', 'done', 'megan']

@@ -1,0 +1,2 @@
+0
+['subject', 'path', 'question', 'daren', 'howard', 'set', 'shell', 'meter', 'one', 'buyback', 'ticket', 'path', 'shell', 'meter', 'befor', 'aime', 'set', 'individu', 'howard', 'said', 'tie', 'one', 'caus', 'problem', 'path', 'meter', 'go', 'back', 'path', 'deal', 'chang', 'thank', 'juli']

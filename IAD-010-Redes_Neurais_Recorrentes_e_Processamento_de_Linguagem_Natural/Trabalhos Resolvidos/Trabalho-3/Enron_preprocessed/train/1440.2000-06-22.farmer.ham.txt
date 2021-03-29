@@ -1,0 +1,2 @@
+0
+['subject', 'hl', 'p', 'get', 'chanc', 'would', 'like', 'go', 'alloc', 'day', 'aim', 'daren', 'j', 'farmer', 'pm', 'aime', 'lannou', 'hou', 'ect', 'ect', 'cc', 'subject', 'hl', 'p', 'extend', 'deal', 'aime', 'lannou', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'hl', 'p', 'daren', 'pat', 'gave', 'spreadsheet', 'show', 'alloc', 'green', 'bayou', 'check', 'deal', 'ticket', 'end', 'still', 'two', 'day', 'need', 'realloc', 'pleas', 'let', 'know', 'extend', 'deal', 'creat', 'new', 'one', 'thank', 'al']

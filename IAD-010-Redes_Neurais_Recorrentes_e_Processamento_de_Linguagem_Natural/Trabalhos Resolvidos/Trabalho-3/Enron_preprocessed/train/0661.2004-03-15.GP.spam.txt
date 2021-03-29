@@ -1,0 +1,2 @@
+1
+['subject', 'homeown', 'get', 'money', 'pocket', 'free', 'mortgag', 'quot', 'mortgag', 'compani', 'u', 'mean', 'process', 'find', 'best', 'loan', 'veri', 'difficult', 'one', 'let', 'us', 'hard', 'work', 'simpli', 'spend', 'minut', 'fill', 'short', 'form', 'press', 'submit', 'button', 'take', 'find', 'best', 'deal', 'possibl', 'get', 'lender', 'contact', 'short', 'simpl', 'free', 'save', 'thousand', 'dollar', 'click', 'free', 'quot', 'would', 'believ', 'receiv', 'email', 'error', 'never', 'subscrib', 'great', 'week', 'offer', 'may', 'unsubscrib', 'click']

@@ -1,0 +1,2 @@
+0
+['subject', 'texaco', 'bill', 'moor', 'call', 'morn', 'said', 'sent', 'nomin', 'chang', 'th', 'meter', 'would', 'like', 'go', 'daili', 'meter', 'volum', 'rang', 'month', 'bill', 'feel', 'avg', 'let', 'know', 'think', 'daren', 'thank']

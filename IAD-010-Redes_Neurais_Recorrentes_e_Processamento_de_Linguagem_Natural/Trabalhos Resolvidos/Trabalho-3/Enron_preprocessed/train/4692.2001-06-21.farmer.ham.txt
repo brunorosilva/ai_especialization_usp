@@ -1,0 +1,2 @@
+0
+['subject', 'txu', 'fuel', 'deal', 'pleas', 'verifi', 'price', 'txu', 'fuel', 'deal', 'sitara', 'current', 'show', 'txu', 'call', 'show', 'day', 'pleas', 'let', 'know', 'ani', 'question', 'thank', 'rebecca']

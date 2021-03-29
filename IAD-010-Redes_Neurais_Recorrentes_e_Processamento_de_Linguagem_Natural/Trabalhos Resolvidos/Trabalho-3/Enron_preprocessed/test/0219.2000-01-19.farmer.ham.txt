@@ -1,0 +1,2 @@
+0
+['subject', 'plan', 'alloc', 'given', 'spreadsheet', 'insert', 'column', 'alloc', 'would', 'pleas', 'updat', 'spreadsheet', 'chang', 'send', 'clean', 'copi', 'want', 'distribut', 'manag', 'team', 'record', 'thank']

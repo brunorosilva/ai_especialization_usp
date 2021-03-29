@@ -1,0 +1,2 @@
+0
+['subject', 'increas', 'mdq', 'contract', 'sharon', 'pleas', 'increas', 'hplc', 'mdq', 'contract', 'mmbtu', 'mmbtu', 'effect', 'decemb', 'believ', 'lauri', 'allen', 'alreadi', 'spoke', 'regard', 'matter', 'ani', 'inform', 'need', 'pleas', 'contact', 'ext', 'lauri', 'allen', 'ext', 'thank', 'help']

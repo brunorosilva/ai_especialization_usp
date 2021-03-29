@@ -1,0 +1,2 @@
+0
+['subject', 'kinder', 'morgan', 'net', 'aquila', 'header', 'meter', 'hpl', 'meter', 'pleas', 'make', 'note', 'aquila', 'header', 'wgr', 'pipe', 'system', 'meter', 'hpl', 'aquila', 'hdr', 'meter', 'net', 'purchas', 'deal', 'sale', 'kinder', 'morgan', 'deal', 'volum', 'let', 'know', 'ani', 'question', 'thank', 'mark', 'x']

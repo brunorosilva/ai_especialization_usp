@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'fyi', 'offic', 'actual', 'countri', 'start', 'nd', 'dec', 'th', 'jan', 'back', 'offic', 'st', 'jan', 'absenc', 'pleas', 'contact', 'follow', 'person', 'ani', 'pop', 'support', 'question', 'problem', 'christin', 'pham', 'ext', 'shawn', 'macphail', 'ext', 'pop', 'support', 'pager', 'page', 'oncal', 'personel', 'pop', 'support', 'cellular', 'oncal', 'person', 'carri', 'cell', 'phone', 'great', 'holiday', 'season', 'romeo', 'souza']

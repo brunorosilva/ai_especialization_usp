@@ -1,0 +1,2 @@
+0
+['subject', 'vanc', 'list', 'meter', 'sitara', 'well', 'head', 'portfolio', 'sheet', 'month', 'pleas', 'check', 'soon', 'possibl', 'get', 'best', 'number', 'daren', 'asap', 'thank', 'tom', 'acock', 'engin', 'blackhawk', 'oil', 'black', 'stone', 'conoco', 'dale', 'oper', 'co', 'dn', 'hugh', 'elpaso', 'eog', 'four', 'squar', 'lousi', 'dreyfus', 'muelller', 'explor', 'ph', 'explor', 'prime', 'energi', 'state', 'inc', 'tejon', 'titan', 'resourc', 'upstream', 'valenc', 'oper', 'vintag', 'wagner', 'oil', 'western', 'gulf', 'wilmar', 'piplin', 'total']

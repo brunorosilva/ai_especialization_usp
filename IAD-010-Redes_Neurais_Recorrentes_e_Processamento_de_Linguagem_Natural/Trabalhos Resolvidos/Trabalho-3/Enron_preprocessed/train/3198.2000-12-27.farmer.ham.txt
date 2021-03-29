@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'nom', 'revison', 'dec', 'note', 'exxon', 'kati', 'plant', 'oper', 'day', 'nomin', 'ls', 'exxon', 'kati', 'g', 'start', 'pm', 'hour', 'flow', 'rate', 'averag', 'flow', 'day', 'dec', 'see', 'attach', 'file', 'hplnl', 'xls', 'see', 'attach', 'file', 'hplnl', 'xls', 'hplnl', 'xls', 'hplnl', 'xls']

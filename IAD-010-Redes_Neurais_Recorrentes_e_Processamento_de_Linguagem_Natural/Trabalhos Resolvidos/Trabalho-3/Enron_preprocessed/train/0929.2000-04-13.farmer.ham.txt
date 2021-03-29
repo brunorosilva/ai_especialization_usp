@@ -1,0 +1,2 @@
+0
+['subject', 'aspect', 'resourc', 'meter', 'product', 'daren', 'sure', 'person', 'make', 'chang', 'could', 'pleas', 'let', 'know', 'need', 'speak', 'meter', 'product', 'forward', 'deal', 'set', 'wrong', 'sitara', 'therefor', 'volum', 'pull', 'sitara', 'sitara', 'current', 'attach', 'deal', 'onli', 'product', 'new', 'sitara', 'number', 'use', 'sitara', 'meter', 'sitara', 'meter', 'attach', 'exampl', 'help', 'see', 'talk', 'product', 'could', 'pleas', 'let', 'know', 'chang', 'made', 'someth', 'need', 'thank', 'stephani']

@@ -1,0 +1,2 @@
+0
+['subject', 'capac', 'may', 'help', 'w', 'stuff', 'work', 'redmond']

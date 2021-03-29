@@ -1,0 +1,2 @@
+0
+['subject', 'daren', 'call', 'mike', 'thursday', 'th', 'let', 'plan', 'hour', 'locat', 'confer', 'room', 'mike', 'origin', 'messag', 'daren', 'j', 'farmer', 'mailto', 'dfarmer', 'ect', 'enron', 'com', 'sent', 'friday', 'februari', 'pm', 'mam', 'teamlead', 'com', 'subject', 'michael', 'mike', 'like', 'call', 'schedul', 'open', 'thursday', 'afternoon', 'pm', 'friday', 'pm', 'let', 'know', 'work', 'best', 'earlier', 'afternoon', 'usual', 'best', 'daren']

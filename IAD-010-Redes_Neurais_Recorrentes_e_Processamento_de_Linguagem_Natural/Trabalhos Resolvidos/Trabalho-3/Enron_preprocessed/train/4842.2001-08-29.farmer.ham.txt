@@ -1,0 +1,2 @@
+0
+['subject', 'month', 'end', 'close', 'schedul', 'revis', 'chang', 'blue', 'last', 'month', 'confus', 'sever', 'schedul', 'spoke', 'chang', 'could', 'made', 'august', 'cut', 'note', 'tabl', 'friday', 'august', 'st', 'pm', 'chang', 'e', 'nomin', 'track', 'balanc', 'bridg', 'back', 'sitara', 'etc', 'made', 'august', 'product', 'wednesday', 'morn', 'septemb', 'th', 'pm', 'friday', 'befor', 'readi', 'pick', 'report', 'except', 'dialogu', 'thx', 'rp']

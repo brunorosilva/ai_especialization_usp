@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'fyi', 'ad', 'meter', 'abov', 'deal', 'august', 'clean', 'stranger', 'gas', 'issu', 'clem', 'deal', 'volum', 'put', 'need', 'point', 'show', 'unifi', 'volum', 'manag', 'assign', 'track', 'id', 'mike']

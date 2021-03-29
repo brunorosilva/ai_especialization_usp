@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'hpl', 'nom', 'novemb', 'see', 'attach', 'file', 'hplnl', 'xls', 'hplnl', 'xls']

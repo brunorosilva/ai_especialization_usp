@@ -1,0 +1,2 @@
+0
+['subject', 'note', 'initi', 'enom', 'use', 'case', 'meet', 'attach', 'note', 'captur', 'whiteboard', 'discuss', 'wednesday', 'best', 'deciph', 'pleas', 'note', 'next', 'step', 'discuss', 'commit', 'key', 'subject', 'expert', 'much', 'time', 'dedic', 'establish', 'project', 'steer', 'team', 'detail', 'high', 'level', 'use', 'case', 'thank', 'particip', 'meet', 'look', 'forward', 'work', 'creat', 'anoth', 'great', 'system', 'hal', 'x']

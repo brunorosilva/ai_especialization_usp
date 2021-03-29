@@ -1,0 +1,2 @@
+0
+['subject', 'miss', 'deal', 'may', 'follow', 'deal', 'creat', 'enter', 'sitara', 'baseload', 'price', 'ifhsc', 'bob', 'deal', 'counterparti', 'meter', 'zone', 'nomin', 'carrizo', 'oil', 'gas', 'comstock', 'oil', 'gas', 'p', 'oper', 'gulf', 'coast', 'ergon', 'explor', 'hesco', 'gather', 'hesco', 'gather', 'hesco', 'gather', 'loui', 'dreyfus', 'suemaur', 'explor', 'unit', 'oil', 'miner']

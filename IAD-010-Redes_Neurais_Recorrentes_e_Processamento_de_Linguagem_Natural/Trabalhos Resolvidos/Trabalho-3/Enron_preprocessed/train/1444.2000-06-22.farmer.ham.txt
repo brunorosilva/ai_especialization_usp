@@ -1,0 +1,2 @@
+0
+['subject', 'fuel', 'answer', 'system', 'process', 'handl', 'pleas', 'let', 'know', 'asap', 'thank', 'edward', 'gottlob', 'bherod', 'enron', 'com', 'cc', 'subject', 'fuel', 'brenda', 'know', 'fuel', 'big', 'risk', 'one', 'thing', 'tri', 'get', 'shipper', 'pay', 'fuel', 'would', 'mean', 'would', 'purchas', 'transport', 'possibl', 'sell', 'gas', 'fuel', 'percentag', 'part', 'price', 'downstream', 'system', 'schedul', 'etc', 'handl']

@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'alex', 'argueta', 'follow', 'resum', 'alex', 'argueta', 'current', 'revenu', 'account', 'eog', 'resourc', 'open', 'account', 'opportun', 'doe', 'want', 'restrict', 'revenu', 'account', 'salari', 'k']

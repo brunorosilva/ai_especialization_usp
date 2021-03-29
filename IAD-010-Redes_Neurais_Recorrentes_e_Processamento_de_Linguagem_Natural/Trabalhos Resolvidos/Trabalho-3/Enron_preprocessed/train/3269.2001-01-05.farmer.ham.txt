@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'freeport', 'offshor', 'rutherford', 'kim', 'effect', 'volum', 'gas', 'previous', 'purchas', 'cinergi', 'contract', 'alloc', 'purchas', 'fairway', 'contract', 'per', 'vanc', 'taylor', 'cinergi', 'contract', 'termin', 'ani', 'question', 'pleas', 'call', 'thank', 'clem']

@@ -1,0 +1,2 @@
+0
+['subject', 'record', 'line', 'request', 'stacey', 'neuweil', 'provid', 'trader', 'support', 'texa', 'gas', 'trade', 'group', 'current', 'occupi', 'eb', 'j', 'extens', 'pleas', 'give', 'access', 'record', 'line', 'ami', 'chokshi', 'also', 'provid', 'trader', 'support', 'texa', 'gas', 'trade', 'group', 'current', 'occupi', 'eb', 'h', 'phone', 'extens', 'pleas', 'give', 'access', 'record', 'phone', 'line', 'mani', 'thank', 'barbara', 'lewi']

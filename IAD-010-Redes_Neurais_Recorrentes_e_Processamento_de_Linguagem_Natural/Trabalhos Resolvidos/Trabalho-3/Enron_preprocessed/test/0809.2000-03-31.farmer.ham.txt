@@ -1,0 +1,2 @@
+0
+['subject', 'ray', 'call', 'tetco', 'told', 'today', 'put', 'oba', 'mail', 'either', 'tonight', 'first', 'thing', 'monday', 'thank', 'help', 'jacki', 'daren', 'j', 'farmer', 'jacki', 'young', 'hou', 'ect', 'ect', 'cc', 'subject', 'oba', 'point', 'jacki', 'young', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'daren', 'know', 'first', 'month', 'abov', 'meter', 'flow', 'dec', 'dec', 'deal', 'sitara', 'cover', 'two', 'day', 'see', 'feasibl', 'activ', 'two', 'day', 'sitara', 'clear', 'except', 'volum', 'manag', 'thank', 'jacki']

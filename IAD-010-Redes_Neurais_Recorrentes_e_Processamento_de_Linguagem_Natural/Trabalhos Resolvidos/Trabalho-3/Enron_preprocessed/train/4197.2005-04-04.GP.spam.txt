@@ -1,0 +1,2 @@
+1
+['subject', 'smart', 'ink', 'system', 'www', 'compusoft', 'gr']

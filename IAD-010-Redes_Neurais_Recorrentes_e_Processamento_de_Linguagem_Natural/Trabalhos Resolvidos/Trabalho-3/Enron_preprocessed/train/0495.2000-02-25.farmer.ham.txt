@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'hpl', 'deliveri', 'eastran', 'monday', 'tuesday', 'need', 'reduc', 'nomin', 'mmbtu', 'mmbtu', 'eastran', 'due', 'mainten', 'e', 'texa', 'plant', 'therefor', 'reduc', 'nom', 'pg', 'e', 'mmbtu', 'mmbtu', 'continu', 'come', 'fuel', 'cotton', 'valley', 'nom', 'eastran', 'increas', 'mmbtu', 'sale', 'hpl', 'continu', 'mmbtu', 'effect', 'pleas', 'increas', 'sale', 'mmbtu']

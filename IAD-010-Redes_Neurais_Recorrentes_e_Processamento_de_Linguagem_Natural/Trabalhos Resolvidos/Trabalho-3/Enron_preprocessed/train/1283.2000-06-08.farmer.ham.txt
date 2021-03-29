@@ -1,0 +1,2 @@
+0
+['subject', 'cp', 'l', 'daren', 'get', 'chanc', 'stop', 'visit', 'cp', 'l', 'need', 'chang', 'rank', 'pronto', 'thank', 'chawkin', 'enron', 'north', 'america', 'corp', 'pat', 'clyne', 'enron', 'charlott', 'hawkin', 'hou', 'ect', 'ect', 'cc', 'subject', 'cp', 'l', 'charlott', 'pleas', 'verifi', 'cp', 'l', 'back', 'first', 'june', 'darren', 'told', 'alloc', 'incorrect', 'caus', 'part', 'ua', 'problem', 'current', 'month', 'pleas', 'check', 'asap', 'thank', 'pat']

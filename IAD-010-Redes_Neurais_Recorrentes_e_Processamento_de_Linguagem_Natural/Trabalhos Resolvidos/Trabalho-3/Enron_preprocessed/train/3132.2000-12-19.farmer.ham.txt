@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'tram', 'hpl', 'transtexa', 'thompson', 'daren', 'abov', 'meter', 'record', 'flow', 'mmbtus', 'deal', 'meter', 'month', 'prior', 'logist', 'need', 'either', 'deal', 'record', 'volum', 'flow', 'hpl', 'pipelin', 'logist', 'need', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'pleas', 'print', 'sign', 'return', 'origin', 'clem', 'cernosek', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'loss', 'deal', 'deal', 'ticket', 'custom', 'buyer', 'seller', 'thank', 'clem']

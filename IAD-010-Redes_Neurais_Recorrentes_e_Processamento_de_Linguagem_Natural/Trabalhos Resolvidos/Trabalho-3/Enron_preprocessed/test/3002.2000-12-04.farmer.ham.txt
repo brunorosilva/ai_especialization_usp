@@ -1,0 +1,2 @@
+0
+['subject', 'actual', 'decemb', 'number', 'late', 'afternoon', 'david', 'offic', 'today', 'charli', 'call', 'emerg', 'meet', 'sorri', 'ani', 'inconveni']

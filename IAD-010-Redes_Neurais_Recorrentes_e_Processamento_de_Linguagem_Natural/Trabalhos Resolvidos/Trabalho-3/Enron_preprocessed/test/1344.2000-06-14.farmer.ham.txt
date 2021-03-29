@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'number', 'darren', 'understand', 'tell', 'deal', 'number', 'spot', 'deal', 'set', 'meter', 'janet', 'walli', 'let', 'know', 'need', 'ani', 'addit', 'inform', 'thank', 'karen']

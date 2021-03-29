@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'extens', 'jacki', 'deal', 'ena', 'hpl', 'zone', 'tennesse', 'sale', 'ena', 'third', 'parti', 'thank', 'jacki', 'young', 'victor', 'lamadrid', 'hou', 'ect', 'ect', 'meredith', 'mitchel', 'hou', 'ect', 'ect', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'clem', 'cernosek', 'hou', 'ect', 'ect', 'howard', 'b', 'camp', 'hou', 'ect', 'ect', 'sherlyn', 'schumack', 'hou', 'ect', 'ect', 'subject', 'deal', 'extens', 'victor', 'extend', 'deal', 'cover', 'flow', 'volum', 'dec', 'daren', 'extend', 'deal', 'cover', 'flow', 'volum', 'dec', 'thank', 'jacki']

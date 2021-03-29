@@ -1,0 +1,2 @@
+0
+['subject', 'mobil', 'beaumont', 'fyi', 'fyi', 'enter', 'estim', 'vol', 'sitara', 'base', 'follow', 'info', 'mobil', 'jan', 'take', 'current', 'take', 'due', 'one', 'crude', 'unit', 'come', 'jan', 'take', 'adiit', 'top', 'due', 'coker', 'come', 'febo', 'estim', 'follow', 'vol', 'feb', 'feb', 'feb', 'feb', 'feb', 'feb', 'feb', 'feb', 'base', 'assum', 'centana', 'deliveri', 'point', 'zero', 'feb', 'high', 'pressur', 'deliveri', 'meter', 'feb', 'eog', 'transport', 'meter', 'feb', 'enter', 'remain', 'daili', 'vol', 'meter', 'lee']

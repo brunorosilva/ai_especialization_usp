@@ -1,0 +1,2 @@
+0
+['subject', 'class', 'confirm', 'stacey', 'neuweil', 'stacey', 'neuweil', 'enrol', 'communic', 'effect', 'class', 'day', 'time', 'pm', 'pm', 'particip', 'fee', 'thank', 'support', 'provid', 'qualiti', 'cost', 'effect', 'develop', 'opportunit', 'enron', 'compani', 'rc', 'charg', 'ani', 'question', 'pleas', 'call', 'develop', 'center', 'team', 'thank']

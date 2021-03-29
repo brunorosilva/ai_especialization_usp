@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'liz', 'bellami', 'would', 'like', 'liz', 'interview', 'daren', 'j', 'farmer', 'ect', 'pm', 'toni', 'graham', 'corp', 'enron', 'enron', 'cc', 'subject', 'resum', 'liz', 'bellami', 'would', 'interest', 'talk', 'liz', 'pleas', 'set', 'interview', 'one', 'afternoon', 'dure', 'next', 'coupl', 'week', 'thank']

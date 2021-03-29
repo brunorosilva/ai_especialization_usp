@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'check', 'gas', 'control', 'whi', 'gas', 'flow', 'whether', 'valid', 'read', 'gari', 'jame', 'let', 'us', 'know', 'thank', 'lee', 'aime', 'lannou', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'lee', 'l', 'papayoti', 'hou', 'ect', 'ect', 'subject', 'meter', 'daren', 'meter', 'beaumont', 'methanol', 'shut', 'decemb', 'flow', 'day', 'swing', 'ticket', 'put', 'meter', 'last', 'swing', 'deal', 'thank', 'aime']

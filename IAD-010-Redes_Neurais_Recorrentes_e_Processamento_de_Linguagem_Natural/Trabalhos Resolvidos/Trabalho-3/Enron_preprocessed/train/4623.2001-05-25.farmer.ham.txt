@@ -1,0 +1,2 @@
+0
+['subject', 'mtr', 'deal', 'manual', 'enter', 'pop', 'realloc', 'well', 'mark']

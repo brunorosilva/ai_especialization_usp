@@ -1,0 +1,2 @@
+0
+['subject', 'physic', 'gas', 'summari', 'desk', 'jeff', 'inform', 'request', 'decemb', 'th', 'pleas', 'note', 'snapshot', 'situat', 'veri', 'fluid', 'bob', 'superti']

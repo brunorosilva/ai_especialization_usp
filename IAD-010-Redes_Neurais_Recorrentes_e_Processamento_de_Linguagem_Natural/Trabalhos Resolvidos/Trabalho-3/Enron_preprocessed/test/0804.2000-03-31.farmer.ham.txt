@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'per', 'discuss', 'eff', 'nom', 'eastran', 'mmbtu', 'go', 'pg', 'e', 'hpl', 'cartwheel', 'carthag', 'fuel', 'cotton', 'valley', 'hpl', 'eff', 'hope', 'deliv', 'hpl', 'lone', 'star', 'hpl', 'interconnect', 'rusk', 'counti', 'formal', 'nomin', 'th', 'monday', 'morn', 'price', 'sell', 'addit', 'gas', 'hsc']

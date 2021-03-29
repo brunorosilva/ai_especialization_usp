@@ -1,0 +1,2 @@
+0
+['subject', 'loan', 'midcon', 'kati', 'tailgat', 'fyi', 'spoke', 'patsi', 'per', 'daren', 'request', 'regard', 'swap', 'midcon', 'texa', 'patsi', 'agre', 'lend', 'us', 'gas', 'need', 'meter', 'rather', 'swap', 'us', 'net', 'effect', 'pay', 'back', 'hpl', 'park', 'accord', 'patsi', 'lend', 'mmbtu', 'mtp', 'go', 'confirm', 'addit', 'total', 'hpl', 'pleas', 'let', 'know', 'ani', 'question', 'mari']

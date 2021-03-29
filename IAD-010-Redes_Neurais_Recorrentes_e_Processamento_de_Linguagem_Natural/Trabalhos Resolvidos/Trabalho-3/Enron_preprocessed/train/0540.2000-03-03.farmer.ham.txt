@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'deal', 'extend', 'new', 'deal', 'replac', 'one', 'indic', 'thank', 'stella', 'forward', 'stella', 'l', 'morri', 'hou', 'ect', 'pm', 'anita', 'luong', 'pm', 'stella', 'l', 'morri', 'hou', 'ect', 'ect', 'cc', 'megan', 'parker', 'corp', 'enron', 'enron', 'subject', 'meter', 'stella', 'fred', 'meter', 'help', 'pleas', 'extend', 'deal', 'meter', 'hpl', 'resourc', 'liquid', 'divis', 'onli', 'cactus', 'swift', 'let', 'know', 'question', 'thank']

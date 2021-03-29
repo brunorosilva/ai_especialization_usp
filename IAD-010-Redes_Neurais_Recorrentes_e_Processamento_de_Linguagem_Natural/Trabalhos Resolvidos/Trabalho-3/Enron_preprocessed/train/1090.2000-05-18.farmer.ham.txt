@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'adjust', 'review', 'entex', 'actual', 'adjust', 'gas', 'control', 'entex', 'factor', 'month', 'may', 'found', 'entex', 'estim', 'overst', 'approxim', 'mmcf', 'day', 'romeo', 'make', 'sure', 'estim', 'pop', 'correct', 'reflect', 'new', 'volum', 'help', 'reduc', 'ua', 'daren', 'pat', 'tri', 'locat', 'attach', 'file', 'chang', 'need', 'made', 'pleas', 'let', 'everyon', 'mail', 'list', 'know', 'onc', 'chang', 'made', 'ani', 'question', 'pleas', 'call', 'thank', 'gari', 'h']

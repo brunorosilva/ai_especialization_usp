@@ -1,0 +1,2 @@
+0
+['subject', 'cynergi', 'apach', 'stacey', 'daren', 'lisa', 'hugh', 'cynergi', 'agent', 'apach', 'request', 'forc', 'majur', 'letter', 'nov', 'th', 'due', 'cornhusk', 'plant', 'come', 'get', 'one', 'type', 'send', 'apach', 'thank', 'mark']

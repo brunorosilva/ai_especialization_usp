@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'chang', 'pleas', 'increas', 'deliveri', 'eastran', 'hpl', 'mmbtu', 'eff', 'redeliveri', 'occur', 'follow', 'fcv', 'pg', 'e', 'hpl', 'cartwheel', 'agreement', 'carthag', 'mobil', 'beaumont', 'detm', 'addit', 'sell']

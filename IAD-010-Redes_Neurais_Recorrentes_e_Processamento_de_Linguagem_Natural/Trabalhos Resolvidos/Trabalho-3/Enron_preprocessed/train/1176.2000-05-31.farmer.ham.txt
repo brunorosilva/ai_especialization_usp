@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'buy', 'sell', 'report', 'fyi', 'provid', 'two', 'report', 'david', 'baumbach', 'report', 'download', 'excel', 'save', 'logist', 'buy', 'sell', 'hpl', 'may', 'buy', 'sell', 'hpl', 'may', 'first', 'report', 'reflect', 'buy', 'sell', 'hpl', 'across', 'pipe', 'entir', 'month', 'may', 'second', 'report', 'reflect', 'buy', 'sell', 'hpl', 'across', 'pipe', 'may', 'onli', 'report', 'deriv', 'volum', 'manag', 'modul', 'unifi', 'pleas', 'advis', 'need', 'addit', 'inform', 'bob']

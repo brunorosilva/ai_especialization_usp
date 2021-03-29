@@ -1,0 +1,2 @@
+0
+['subject', 'union', 'carbid', 'seadrift', 'hpl', 'meter', 'union', 'carbid', 'month', 'onli', 'seadrift', 'meter', 'onli', 'volum', 'sitara', 'instead', 'overflow', 'swing', 'ticket', 'gas', 'daili', 'price', 'deal', 'ani', 'question', 'thank']

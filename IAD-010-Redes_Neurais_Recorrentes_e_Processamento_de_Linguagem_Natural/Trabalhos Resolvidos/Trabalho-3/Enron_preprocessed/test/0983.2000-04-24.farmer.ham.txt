@@ -1,0 +1,2 @@
+0
+['subject', 'forward', 'tom', 'acton', 'corp', 'enron', 'pm', 'vanc', 'l', 'taylor', 'ect', 'pm', 'tom', 'acton', 'corp', 'enron', 'enron', 'cc', 'susan', 'smith', 'hou', 'ect', 'ect', 'donald', 'p', 'reinhardt', 'hou', 'ect', 'ect', 'melissa', 'grave', 'hou', 'ect', 'ect', 'subject', 'tom', 'pleas', 'see', 'attach', 'file', 'estim', 'wellhead', 'product', 'month', 'may', 'pleas', 'advis', 'preliminari', 'estim', 'date', 'onli', 'receiv', 'paper', 'nom', 'may', 'updat', 'ani', 'revis', 'occur', 'thank', 'vlt', 'x']

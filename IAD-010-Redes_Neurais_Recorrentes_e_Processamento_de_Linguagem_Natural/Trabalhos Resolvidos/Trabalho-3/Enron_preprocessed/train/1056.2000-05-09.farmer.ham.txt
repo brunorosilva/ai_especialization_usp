@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'shorelin', 'want', 'increas', 'volum', 'meter', 'th', 'gas', 'day', 'new', 'meter', 'much', 'histori', 'want', 'go', 'last', 'month', 'flow', 'upper', 'come', 'till', 'st', 'month']

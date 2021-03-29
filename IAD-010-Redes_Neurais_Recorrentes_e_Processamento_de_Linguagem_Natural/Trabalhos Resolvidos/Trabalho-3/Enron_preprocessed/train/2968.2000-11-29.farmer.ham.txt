@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'nov', 'flow', 'first', 'prior', 'shut', 'work', 'need', 'deal', 'pick', 'chang', 'squeak', 'meter', 'pleas', 'except', 'need', 'clear', 'pretti', 'quick', 'thank', 'mari']

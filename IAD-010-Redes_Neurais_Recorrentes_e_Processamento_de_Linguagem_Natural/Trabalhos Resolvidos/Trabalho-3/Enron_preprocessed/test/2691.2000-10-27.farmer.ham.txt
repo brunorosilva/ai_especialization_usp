@@ -1,0 +1,2 @@
+0
+['subject', 'nov', 'st', 'entex', 'nom', 'forward', 'liz', 'bellami', 'na', 'enron', 'royal', 'b', 'edmondson', 'reliantenergi', 'com', 'lbellami', 'enron', 'com', 'cc', 'janet', 'h', 'walli', 'enron', 'com', 'troy', 'benoit', 'reliantenergi', 'com', 'subject', 'nov', 'st', 'entex', 'nom', 'promis', 'nov', 'nom', 'attach', 'let', 'us', 'know', 'need', 'anyth', 'let', 'hope', 'weather', 'see', 'attach', 'file', 'hpl', 'nov', 'xls', 'hpl', 'nov', 'xls']

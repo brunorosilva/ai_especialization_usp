@@ -1,0 +1,2 @@
+1
+['subject', 'account', 'summari', 'thu', 'feb', 'review', 'case', 'save', 'month', 'mortgeg', 'payment', 'refina', 'program', 'close', 'hour', 'interest', 'pleas', 'start', 'process', 'thank', 'immedi', 'attent', 'regard', 'ivori', 'r', 'cherri', 'account']

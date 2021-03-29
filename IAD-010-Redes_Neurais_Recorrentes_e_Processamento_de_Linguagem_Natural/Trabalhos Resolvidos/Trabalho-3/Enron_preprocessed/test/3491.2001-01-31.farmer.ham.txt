@@ -1,0 +1,2 @@
+0
+['subject', 'north', 'central', 'oil', 'corp', 'vanc', 'follow', 'deal', 'chang', 'effect', 'deal', 'meter', 'trade', 'zone', 'origin', 'volum', 'revis', 'volum', 'price', 'ifhsc', 'less', 'ifhsc', 'less', 'bob']

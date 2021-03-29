@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'actual', 'dec', 'teco', 'tap', 'enron', 'hpl', 'gas', 'daili', 'dec', 'teco', 'tap', 'enron', 'hpl', 'gas', 'daili', 'dec', 'teco', 'tap', 'enron', 'hpl', 'gas', 'daili', 'dec', 'teco', 'tap', 'enron', 'hpl', 'gas', 'daili', 'dec', 'teco', 'tap', 'enron', 'hpl', 'gas', 'daili']

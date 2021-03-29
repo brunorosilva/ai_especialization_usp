@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'pan', 'energi', 'exchang', 'deal', 'meet', 'daren', 'pleas', 'let', 'know', 'time', 'meet', 'megan', 'new', 'exchang', 'deal', 'prior', 'settl', 'feb', 'product', 'issu', 'need', 'clarifi', 'sale', 'suppli', 'side', 'thank', 'katherin']

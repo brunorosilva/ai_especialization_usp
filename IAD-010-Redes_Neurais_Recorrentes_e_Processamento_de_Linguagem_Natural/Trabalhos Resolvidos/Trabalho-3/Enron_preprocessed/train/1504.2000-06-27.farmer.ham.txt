@@ -1,0 +1,2 @@
+0
+['subject', 'ami', 'per', 'convers', 'would', 'perfer', 'differ', 'place', 'oba', 'lsp', 'teco', 'becaus', 'request', 'cut', 'flow', 'thank', 'forward', 'tim', 'powel', 'lsp', 'enserch', 'us', 'ami', 'chokshi', 'enron', 'com', 'tim', 'powel', 'lsp', 'enserch', 'us', 'tu', 'cc', 'charli', 'stone', 'texa', 'util', 'tu', 'daren', 'j', 'farmer', 'enron', 'com', 'subject', 'hey', 'tim', 'may', 'suppli', 'show', 'flow', 'even', 'though', 'cut', 'flow', 'let', 'know', 'want', 'handl', 'situat', 'sorri', 'inconveni', 'ami']

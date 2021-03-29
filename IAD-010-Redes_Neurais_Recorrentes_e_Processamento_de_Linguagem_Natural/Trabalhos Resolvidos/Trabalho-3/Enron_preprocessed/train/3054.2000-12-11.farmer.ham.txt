@@ -1,0 +1,2 @@
+0
+['subject', 'christma', 'lunch', 'texa', 'logist', 'texa', 'logist', 'desk', 'reserv', 'stabl', 'main', 'greenbriar', 'wed', 'th', 'christma', 'luncheon', 'plan', 'christma', 'gift', 'fight', 'point', 'dure', 'lunch', 'pleas', 'plan', 'bring', 'present', 'net', 'present', 'valu', 'alot', 'fun', 'hope', 'see', 'everyon', 'arrang', 'carpool', 'tuesday', 'wednesday', 'take', 'four', 'pleas', 'let', 'know', 'thank', 'mari']

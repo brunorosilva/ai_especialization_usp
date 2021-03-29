@@ -1,0 +1,2 @@
+0
+['subject', 'game', 'uniform', 'team', 'game', 'week', 'let', 'know', 'go', 'would', 'assum', 'everyon', 'leav', 'come', 'back', 'run', 'book', 'jersey', 'done', 'cost', 'tri', 'bring', 'cash', 'wed', 'shirt', 'black', 'red', 'number', 'everyon', 'pleas', 'tri', 'wear', 'black', 'short', 'play', 'like', 'shit', 'least', 'look', 'good', 'bryan']

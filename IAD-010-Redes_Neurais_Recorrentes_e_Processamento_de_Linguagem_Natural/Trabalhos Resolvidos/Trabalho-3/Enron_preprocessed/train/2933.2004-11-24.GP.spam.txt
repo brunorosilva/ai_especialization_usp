@@ -1,0 +1,2 @@
+1
+['subject', 'answer', 'phone', 'know', 'high', 'normal', 'cost', 'dicat', 'whi', 'help', 'best', 'price', 'need', 'go', 'doctor', 'qualiti', 'medic', 'qualiti', 'price', 'save', 'onlin', 'rx', 'program', 'thank', 'happi', 'holiday', 'dicat', 'network', 'http', 'librettist', 'edkha', 'biz', 'wid']

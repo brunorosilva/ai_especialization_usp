@@ -1,0 +1,2 @@
+0
+['subject', 'month', 'manang', 'lunch', 'pleas', 'clear', 'calendar', 'lunch', 'wednesday', 'march', 'th', 'lunch', 'manag', 'team', 'onli', 'mean', 'brenda', 'take', 'suggest', 'monday', 'make', 'reserv', 'ani', 'question', 'pleas', 'call', 'thank', 'yvett', 'x']

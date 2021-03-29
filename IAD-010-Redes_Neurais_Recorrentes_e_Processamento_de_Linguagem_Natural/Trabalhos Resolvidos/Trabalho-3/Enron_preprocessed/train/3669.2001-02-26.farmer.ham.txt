@@ -1,0 +1,2 @@
+0
+['subject', 'metter', 'daren', 'meter', 'flow', 'nom', 'day', 'day', 'hpl', 'current', 'start', 'day', 'deal', 'could', 'add', 'day', 'deal', 'let', 'know', 'al']

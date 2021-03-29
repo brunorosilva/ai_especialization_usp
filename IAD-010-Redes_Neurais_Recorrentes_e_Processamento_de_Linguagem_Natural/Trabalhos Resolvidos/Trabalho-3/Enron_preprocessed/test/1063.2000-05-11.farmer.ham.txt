@@ -1,0 +1,2 @@
+0
+['subject', 'mid', 'year', 'prc', 'meet', 'would', 'like', 'prc', 'meet', 'thursday', 'becaus', 'trade', 'abl', 'start', 'noon', 'pleas', 'confirm', 'asap', 'end', 'day', 'today', 'avail', 'pleas', 'keep', 'mind', 'went', 'last', 'time', 'pm', 'almost', 'midnight', 'commit', 'date', 'includ', 'even', 'hour', 'unless', 'cours', 'work', 'quick', 'effici', 'salli', 'meet', 'schedul', 'tuesday', 'plan', 'vacat', 'friday', 'therefor', 'lastest', 'date', 'meet', 'pleas', 'make', 'everi', 'effort', 'make', 'work', 'thank']

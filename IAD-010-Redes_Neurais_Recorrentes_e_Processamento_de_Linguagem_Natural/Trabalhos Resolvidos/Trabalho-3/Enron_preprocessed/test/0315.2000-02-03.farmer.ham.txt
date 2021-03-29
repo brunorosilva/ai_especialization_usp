@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'thompsonvill', 'receiv', 'nom', 'jacki', 'talk', 'daren', 'would', 'like', 'wait', 'littl', 'earli', 'month', 'well', 'may', 'get', 'revv', 'well', 'tend', 'move', 'around', 'bit', 'month', 'usual', 'even', 'end', 'thank', 'bring', 'attent', 'pleas', 'feel', 'free', 'inform', 'ani', 'might', 'see', 'eye', 'better', 'thank', 'jacki']

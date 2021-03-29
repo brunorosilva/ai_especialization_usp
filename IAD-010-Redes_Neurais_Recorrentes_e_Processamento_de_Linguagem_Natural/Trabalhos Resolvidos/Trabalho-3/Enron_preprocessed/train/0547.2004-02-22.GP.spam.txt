@@ -1,0 +1,2 @@
+1
+['subject', 'supris', 'spous', 'vi', 'agra']

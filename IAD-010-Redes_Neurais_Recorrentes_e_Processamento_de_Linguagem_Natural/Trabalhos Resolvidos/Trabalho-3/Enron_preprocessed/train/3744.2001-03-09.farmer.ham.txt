@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'nom', 'lone', 'star', 'kati', 'tom', 'given', 'difficulti', 'get', 'gas', 'lone', 'star', 'kati', 'pleas', 'give', 'entex', 'call', 'monday', 'ask', 'remain', 'current', 'level', 'lower', 'notic', 'thank']

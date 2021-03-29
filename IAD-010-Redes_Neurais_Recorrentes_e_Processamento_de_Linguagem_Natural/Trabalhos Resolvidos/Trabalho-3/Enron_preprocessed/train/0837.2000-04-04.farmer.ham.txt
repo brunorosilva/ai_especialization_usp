@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'abov', 'meter', 'current', 'nom', 'pleas', 'take', 'look', 'see', 'nom', 'adjust', 'might', 'solut', 'thank', 'jacki']

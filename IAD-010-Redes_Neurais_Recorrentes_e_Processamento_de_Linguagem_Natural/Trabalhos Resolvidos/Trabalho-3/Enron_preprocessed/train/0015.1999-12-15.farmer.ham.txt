@@ -1,0 +1,2 @@
+0
+['subject', 'nd', 'rev', 'dec', 'josey', 'ranch', 'nom', 'forward', 'susan', 'trevino', 'hou', 'ect', 'bob', 'wither', 'susan', 'trevino', 'hou', 'ect', 'ect', 'cc', 'stretch', 'brennan', 'kevin', 'mclarney', 'taylor', 'vanc', 'e', 'mail', 'subject', 'nd', 'rev', 'dec', 'josey', 'ranch', 'nom', 'revis', 'decemb', 'effect', 'setup', 'josey', 'use', 'btu', 'mcf', 'gas', 'deliveri', 'hpl', 'mmbtu', 'kri', 'net', 'reduct', 'mmbtu', 'mmbtu', 'hpl', 'bob', 'wither', 'kcs', 'energi', 'san', 'felip', 'suit', 'houston', 'tx', 'voic', 'mail', 'page']

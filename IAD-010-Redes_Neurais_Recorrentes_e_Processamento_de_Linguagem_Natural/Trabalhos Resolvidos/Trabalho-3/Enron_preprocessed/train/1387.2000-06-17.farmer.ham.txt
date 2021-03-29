@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'gloria', 'davi', 'candid', 'recruit', 'fee', 'pleas', 'review', 'resum', 'gloria', 'davi', 'gloria', 'great', 'experi', 'would', 'immedi', 'asset', 'compani', 'cours', 'career', 'obtain', 'experi', 'pipelin', 'reconcili', 'analysi', 'revenu', 'account', 'invoic', 'transport', 'career', 'highlight', 'ba', 'account', 'gpa', 'pipelin', 'account', 'experi', 'revenu', 'account', 'experi', 'interfac', 'aspect', 'organ', 'trader', 'custom', 'financi', 'report', 'schedul', 'strong', 'pc', 'skill', 'effect', 'communic', 'davi', 'gloria', 'origin', 'doc']

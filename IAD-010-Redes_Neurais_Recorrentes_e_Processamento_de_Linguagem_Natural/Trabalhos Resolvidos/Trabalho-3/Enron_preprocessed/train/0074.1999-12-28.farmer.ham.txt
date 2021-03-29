@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'januari', 'nomin', 'calpin', 'month', 'gas', 'nomin', 'doc']

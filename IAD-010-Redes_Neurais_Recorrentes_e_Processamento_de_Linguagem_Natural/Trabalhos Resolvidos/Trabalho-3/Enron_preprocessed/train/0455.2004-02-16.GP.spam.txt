@@ -1,0 +1,2 @@
+1
+['subject', 'applic', 'declin', 'drown', 'debt', 'termin', 'credit', 'card', 'debt', 'allow', 'stop', 'make', 'payment', 'immedi', 'obtain', 'zero', 'balanc', 'statement', 'creditor', 'unlik', 'bankruptci', 'complet', 'privat', 'damag', 'credit', 'report', 'request', 'free', 'consult', 'http', 'www', 'goodoff', 'u', 'biz', 'stop', 'http', 'www', 'goodoff', 'u', 'biz', 'htm', 'zhx', 'mzay']

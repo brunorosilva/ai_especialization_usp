@@ -1,0 +1,2 @@
+0
+['subject', 'jan', 'sale', 'texa', 'general', 'land', 'offic', 'deal', 'texa', 'general', 'land', 'offic', 'call', 'disput', 'sale', 'part', 'month', 'exchang', 'deal', 'transport', 'name', 'trader', 'texa', 'general', 'land', 'offic', 'deal', 'us', 'sale', 'mmbtus', 'thank', 'katherin']

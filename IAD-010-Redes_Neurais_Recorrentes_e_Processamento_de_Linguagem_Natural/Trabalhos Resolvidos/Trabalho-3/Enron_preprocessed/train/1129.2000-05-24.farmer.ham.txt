@@ -1,0 +1,2 @@
+0
+['subject', 'work', 'distribut', 'logist', 'made', 'follow', 'chang', 'bob', 'cotten', 'handl', 'wellhead', 'portfolio', 'current', 'handl', 'tom', 'acton', 'tom', 'acton', 'handl', 'gulf', 'energi', 'entex', 'copano', 'sempra', 'rest', 'georg', 'grant', 'desk', 'mark', 'mccoy', 'handl', 'oasi', 'activ', 'midcon', 'wgr', 'lonestar', 'trunklin', 'jacki', 'young', 'handl', 'exxon', 'kati', 'susan', 'sabra', 'zajac', 'anadarko', 'conoco', 'teja', 'coral', 'corpus', 'christi', 'dynegi', 'imbal', 'report', 'thank', 'pat']

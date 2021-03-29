@@ -1,0 +1,2 @@
+0
+['subject', 'duke', 'exchang', 'deal', 'feb', 'prod', 'cashout', 'pleas', 'add', 'follow', 'fee', 'feb', 'fee', 'type', 'natur', 'gas', 'physic', 'forward', 'penalti', 'take', 'sale', 'ticket', 'dollar', 'due', 'hplc', 'purchas', 'ticket', 'dollar', 'due', 'duke', 'thank', 'katherin']

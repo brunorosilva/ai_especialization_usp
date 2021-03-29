@@ -1,0 +1,2 @@
+0
+['subject', 'buyback', 'deal', 'januari', 'attach', 'current', 'buyback', 'deal', 'awar', 'inform', 'pleas', 'let', 'know', 'thank', 'ken']

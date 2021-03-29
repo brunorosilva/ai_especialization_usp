@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'sept', 'daren', 'get', 'deal', 'set', 'meter', 'sept', 'flow', 'day', 'day', 'chart', 'aug', 'deal', 'deal', 'heatherloch', 'municip', 'util', 'pleas', 'let', 'know', 'enter', 'deal', 'thank', 'al']

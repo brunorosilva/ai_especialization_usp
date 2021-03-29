@@ -1,0 +1,2 @@
+1
+['subject', 'buy', 'home', 'today', 'bad', 'credit', 'problem', 'mortgag', 'finder', 'help', 'find', 'right', 'lender', 'also', 'self', 'taken', 'group']

@@ -1,0 +1,2 @@
+0
+['subject', 'republ', 'royalti', 'deal', 'termin', 'nelson', 'ferri', 'ami', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'megan', 'parker', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'neal', 'winfre', 'hou', 'ect', 'ect', 'cc', 'subject', 'republ', 'royalti', 'republ', 'royalti', 'one', 'ces', 'deal', 'sent', 'invoic', 'may', 'product', 'see', 'deal', 'may', 'doe', 'either', 'know', 'deal', 'extend', 'new', 'deal', 'number', 'megan']

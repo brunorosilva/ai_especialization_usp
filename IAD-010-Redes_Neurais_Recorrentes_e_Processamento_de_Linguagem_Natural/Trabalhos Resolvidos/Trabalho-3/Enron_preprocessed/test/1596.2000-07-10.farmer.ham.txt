@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'account', 'pleas', 'let', 'know', 'interest', 'interview', 'local', 'houston', 'melani', 'current', 'around', 'k', 'el', 'paso', 'bachelor', 'account', 'work', 'toward', 'master', 'year', 'experi', 'fariba', 'current', 'k', 'el', 'paso', 'bachelor', 'account', 'year', 'experi', 'stephen', 'eott', 'energi', 'bachelor', 'financ', 'local', 'need', 'reloc']

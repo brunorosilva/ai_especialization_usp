@@ -1,0 +1,2 @@
+0
+['subject', 'reliant', 'energi', 'entex', 'transact', 'fyi', 'follow', 'transact', 'expir', 'februari', 'transact', 'day', 'price', 'fix', 'note', 'volum', 'roll', 'transact', 'excess', 'volum', 'price', 'index', 'thank']

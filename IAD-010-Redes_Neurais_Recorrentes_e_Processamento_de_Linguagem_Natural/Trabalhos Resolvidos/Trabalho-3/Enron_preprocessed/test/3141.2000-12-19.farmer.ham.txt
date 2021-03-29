@@ -1,0 +1,2 @@
+0
+['subject', 'union', 'carbid', 'texa', 'citi', 'chang', 'safeti', 'net', 'gas', 'effect', 'pm', 'today', 'increas', 'total', 'flow', 'hpl', 'meter', 'would', 'effect', 'tomorrow', 'decreas', 'safeti', 'net', 'gas', 'total', 'flow', 'hpl', 'meter', 'would']

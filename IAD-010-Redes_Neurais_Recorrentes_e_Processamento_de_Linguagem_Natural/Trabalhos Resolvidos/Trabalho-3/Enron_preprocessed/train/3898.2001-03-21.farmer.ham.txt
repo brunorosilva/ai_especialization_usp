@@ -1,0 +1,2 @@
+0
+['subject', 'boat', 'check', 'boat', 'ft', 'long', 'capri', 'model', 'ch', 'fm', 'cass', 'motor', 'l', 'mercruis', 'alpha', 'sterndriv', 'hp']

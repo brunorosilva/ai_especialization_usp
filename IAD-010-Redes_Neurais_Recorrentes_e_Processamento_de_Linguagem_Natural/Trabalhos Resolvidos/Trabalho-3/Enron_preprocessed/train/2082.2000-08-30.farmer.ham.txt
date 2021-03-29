@@ -1,0 +1,2 @@
+0
+['subject', 'discrep', 'price', 'gas', 'redeliv', 'mobil', 'beaumont', 'thank', 'darren']

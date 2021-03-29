@@ -1,0 +1,2 @@
+1
+['subject', 'deliveri', 'failur', 'ao', 'coa', 'e', 'c', 'ao', 'coa', 'e', 'c', 'marinfonet', 'com', 'messag', 'subject', 'text', 'deliv', 'ao', 'coa', 'e', 'c', 'marinfonet', 'com', 'becaus', 'b', 'f']

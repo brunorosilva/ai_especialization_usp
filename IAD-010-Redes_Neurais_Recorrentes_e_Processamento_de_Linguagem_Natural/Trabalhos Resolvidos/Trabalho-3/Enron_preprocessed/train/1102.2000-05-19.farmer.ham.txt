@@ -1,0 +1,2 @@
+0
+['subject', 'pre', 'bid', 'come', 'handl', 'ces', 'respons', 'june', 'info', 'also', 'trade', 'floor', 'devon', 'contact', 'bob', 'superti', 'ask', 'point', 'person', 'initi', 'mayb', 'anoth', 'person', 'mind', 'ed', 'terri', 'kathi', 'kelli', 'secondari', 'contact', 'would', 'like', 'handl', 'besid', 'someon', 'texa', 'desk', 'way', 'could', 'free', 'group', 'task', 'part', 'reason', 'handl', 'becaus', 'want', 'make', 'sure', 'noth', 'affect', 'texa', 'slip', 'crack', 'especi', 'begin', 'pleas', 'advis', 'ami']

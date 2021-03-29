@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'tuesday', 'nomin', 'mmbtu', 'eastran', 'mmbtu', 'redeliv', 'pg', 'e', 'rest', 'hpl', 'fuel', 'cotton', 'valley', 'plan', 'begin', 'receiv', 'gas', 'pm', 'take', 'volum', 'averag', 'nomin', 'quantiti', 'day', 'indic', 'phone', 'also', 'necessari', 'deliv', 'pg', 'e', 'flow', 'start', 'averag', 'nomin', 'quantiti', 'thank']

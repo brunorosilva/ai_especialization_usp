@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'marcia', 'curri', 'job', 'post', 'respons', 'talk', 'person', 'resumel', 'doc']

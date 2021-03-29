@@ -1,0 +1,2 @@
+0
+['subject', 'cannon', 'interest', 'may', 'purchas', 'storag', 'book', 'book', 'purchas', 'mmbtu', 'cannon', 'interest', 'may', 'daren', 'pleas', 'enter', 'texa', 'purchas', 'cannon', 'interest', 'texa', 'sale', 'storag', 'book', 'sitara', 'georg', 'aime', 'pleas', 'coordin', 'daren', 'entri', 'enter', 'day', 'mari', 'contract', 'agreement', 'assum', 'alreadi', 'place', 'lisa', 'rita', 'stephani', 'pleas', 'sure', 'payment', 'wire', 'cannon', 'interest', 'correct', 'aba', 'may', 'th', 'miss', 'anyon', 'need', 'inform', 'pleas', 'forward', 'thank', 'kenni']

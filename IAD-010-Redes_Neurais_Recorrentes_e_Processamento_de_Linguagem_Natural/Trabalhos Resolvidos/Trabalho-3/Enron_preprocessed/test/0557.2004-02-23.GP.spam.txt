@@ -1,0 +1,2 @@
+1
+['subject', 'dine', 'great', 'restaur', 'unsubscrib', 'mail', 'list', 'click', 'send', 'blank', 'messag', 'r', 'esalesl', 'f', 'b', 'e', 'iit', 'demokrito', 'gr', 'paliourg', 'moosq', 'com', 'offer', 'sent', 'optinrealbig', 'com', 'llc', 'w', 'th', 'ave', 'suit', 'westminst', 'co']

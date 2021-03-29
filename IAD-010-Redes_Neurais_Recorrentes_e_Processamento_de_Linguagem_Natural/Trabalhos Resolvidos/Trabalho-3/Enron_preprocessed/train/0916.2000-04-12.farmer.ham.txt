@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'list', 'meter', 'move', 'lst', 'gather', 'nome', 'gather', 'contract', 'next', 'month', 'also', 'jacki', 'renom', 'first', 'releas', 'edi', 'held']

@@ -1,0 +1,2 @@
+0
+['subject', 'blue', 'dolphin', 'pipe', 'line', 'compani', 'contract', 'daren', 'inquir', 'status', 'contract', 'contract', 'forward', 'april', 'review', 'initi', 'need', 'know', 'still', 'possess', 'contract', 'possess', 'contract', 'need', 'contract', 'rout', 'signatur', 'return', 'counterparti', 'thank', 'marlen', 'hilliard', 'forward', 'marlen', 'hilliard', 'hou', 'ect', 'pm', 'marlen', 'hilliard', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject']

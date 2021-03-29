@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'nat', 'gas', 'deliveri', 'locat', 'pursuant', 'recent', 'confirm', 'draft', 'suggest', 'languag', 'houston', 'ship', 'channel', 'pool', 'point', 'abbrevi', 'hpl', 'hsc', 'sort', 'code', 'tbd', 'descript', 'transact', 'deliveri', 'via', 'houston', 'pipe', 'line', 'compani', 'houston', 'ship', 'channel', 'zone', 'elsa', 'darren', 'pleas', 'approv', 'offer', 'comment', 'regard', 'content', 'descript']

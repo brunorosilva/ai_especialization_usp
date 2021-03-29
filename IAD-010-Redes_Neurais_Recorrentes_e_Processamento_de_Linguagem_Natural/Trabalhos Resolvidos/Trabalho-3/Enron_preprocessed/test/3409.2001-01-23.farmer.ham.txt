@@ -1,0 +1,2 @@
+0
+['subject', 'fyi', 'union', 'carbid', 'union', 'carbid', 'reduc', 'take', 'texa', 'citi', 'deal', 'ticket', 'alreadi', 'chang', 'ticket', 'price', 'gas', 'daili', 'term', 'sale', 'remain', 'unchang']

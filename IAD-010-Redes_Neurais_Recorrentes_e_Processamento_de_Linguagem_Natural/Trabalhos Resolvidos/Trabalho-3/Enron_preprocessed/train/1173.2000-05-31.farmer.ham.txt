@@ -1,0 +1,2 @@
+0
+['subject', 'spill', 'decatherm', 'pleas', 'extend', 'deal', 'ticket', 'cover', 'thank', 'jacki']

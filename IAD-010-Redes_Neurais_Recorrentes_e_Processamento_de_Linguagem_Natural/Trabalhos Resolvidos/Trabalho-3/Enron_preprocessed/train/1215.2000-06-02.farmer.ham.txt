@@ -1,0 +1,2 @@
+0
+['subject', 'bammel', 'pma', 'revis', 'schedul', 'jan', 'mar', 'apr', 'estim', 'schedul', 'volum', 'may', 'price', 'revis', 'captur', 'texa', 'general', 'storag', 'revenu', 'fuel', 'retent', 'jan', 'mar', 'apr', 'fuel', 'volum', 'shown', 'zero', 'buy', 'price', 'storag', 'book', 'april', 'also', 'volum', 'true', 'due', 'actual', 'meter', 'volum', 'schedul', 'anoth', 'adjust', 'made', 'april', 'true', 'cumul', 'facil', 'balanc', 'mmbtu', 'thank', 'kenni']

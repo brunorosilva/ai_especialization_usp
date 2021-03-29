@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'well', 'goof', 'email', 'date', 'reduc', 'nom', 'call', 'wednesday', 'thursday', 'number']

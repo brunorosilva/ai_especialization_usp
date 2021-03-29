@@ -1,0 +1,2 @@
+0
+['subject', 'account', 'arrang', 'meter', 'june', 'stella', 'pleas', 'put', 'hplc', 'transport', 'contract', 'pop', 'meter', 'june', 'track', 'id', 'chang', 'swing', 'rank', 'gas', 'flow', 'alloc', 'contract', 'abov', 'referenc', 'track', 'id', 'would', 'first', 'thing', 'juli', 'th', 'let', 'know', 'complet', 'would', 'appreci', 'thank', 'fred']

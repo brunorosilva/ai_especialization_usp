@@ -1,0 +1,2 @@
+0
+['subject', 'hi', 'daren', 'attempt', 'clear', 'abov', 'mention', 'meter', 'error', 'report', 'revenu', 'volum', 'comparison', 'report', 'howard', 'appris', 'meet', 'last', 'week', 'reason', 'meter', 'appear', 'aforement', 'report', 'due', 'volum', 'schedul', 'pop', 'volum', 'appear', 'mop', 'volum', 'meter', 'sitara', 'deal', 'ticket', 'due', 'check', 'meter', 'volum', 'bridg', 'pop', 'mop', 'like', 'request', 'revis', 'nome', 'show', 'instead', 'approv', 'modif', 'thank', 'jacki']

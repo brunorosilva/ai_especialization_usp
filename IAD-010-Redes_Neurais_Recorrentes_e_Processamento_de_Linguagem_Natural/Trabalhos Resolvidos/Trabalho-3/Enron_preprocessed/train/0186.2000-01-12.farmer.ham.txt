@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'forc', 'majeur', 'dec', 'hi', 'daren', 'spoke', 'ricki', 'archer', 'calpin', 'penalti', 'charg', 'bill', 'undertak', 'dec', 'said', 'forc', 'majeur', 'letter', 'sent', 'attent', 'would', 'someon', 'fax', 'copi', 'letter', 'met', 'ani', 'inform', 'forc', 'majur', 'speak', 'jennif', 'thank', 'help']

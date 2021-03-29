@@ -1,0 +1,2 @@
+0
+['subject', 'valero', 'market', 'suppli', 'pasadena', 'meter', 'sitara', 'fyi', 'onli', 'present', 'schedul', 'buyback', 'interconnect', 'due', 'plant', 'status', 'day', 'day', 'buyback', 'begun', 'wednesday', 'april', 'th', 'gari', 'pleas', 'let', 'know', 'want', 'interconnect', 'alloc', 'ie', 'forc', 'majeur', 'sitara']

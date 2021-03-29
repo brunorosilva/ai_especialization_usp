@@ -1,0 +1,2 @@
+0
+['subject', 'assign', 'termin', 'expir', 'report', 'asset', 'group', 'attach', 'octob', 'assign', 'termin', 'expir', 'report', 'asset', 'group', 'contract', 'fyi', 'contain', 'entri', 'made', 'group', 'sinc', 'distribut', 'last', 'report', 'regardless', 'effect', 'date', 'need', 'receiv', 'report', 'know', 'someon', 'els', 'receiv', 'pleas', 'let', 'know', 'e', 'mail', 'phone', 'x', 'either', 'remov', 'name', 'add', 'name', 'distribut', 'list']

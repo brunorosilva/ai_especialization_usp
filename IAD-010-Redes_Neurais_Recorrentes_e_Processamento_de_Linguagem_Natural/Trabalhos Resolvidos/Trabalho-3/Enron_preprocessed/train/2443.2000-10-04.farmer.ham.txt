@@ -1,0 +1,2 @@
+0
+['subject', 'duke', 'cashout', 'entri', 'cashout', 'amount', 'duke', 'energi', 'field', 'servic', 'also', 'need', 'enter', 'demand', 'fee', 'account', 'excess', 'charg', 'sale', 'side', 'amount', 'let', 'know', 'ani', 'question', 'may', 'deal', 'excess', 'charg', 'cashout', 'deal', 'cashout', 'june', 'deal', 'excess', 'charg', 'cashout', 'purchas', 'cashout', 'thank', 'megan']

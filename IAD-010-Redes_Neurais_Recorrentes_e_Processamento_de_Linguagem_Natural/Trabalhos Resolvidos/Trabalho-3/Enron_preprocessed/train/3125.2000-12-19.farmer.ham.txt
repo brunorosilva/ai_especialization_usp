@@ -1,0 +1,2 @@
+0
+['subject', 'deliveri', 'channel', 'gulf', 'plain', 'updat', 'deal', 'ticket', 'hpl', 'sale', 'el', 'paso', 'merchant', 'move', 'sale', 'meter', 'effect', 'today', 'gas', 'day']

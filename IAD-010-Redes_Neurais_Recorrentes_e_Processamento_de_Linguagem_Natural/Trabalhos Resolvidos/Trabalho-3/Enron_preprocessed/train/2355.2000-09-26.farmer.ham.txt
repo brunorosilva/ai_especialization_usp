@@ -1,0 +1,2 @@
+0
+['subject', 'union', 'carbid', 'seadrift', 'fyi', 'baseload', 'deal', 'union', 'carbid', 'seadrift', 'hpl', 'meter', 'octo', 'requir', 'coordin', 'terri', 'calvert', 'union', 'carbid', 'reach', 'want', 'pass', 'detail', 'case', 'call', 'go', 'pass', 'phone', 'terri', 'deal', 'ifhsc', 'gd', 'hsc', 'mid', 'plus', 'swing', 'nomin', 'day', 'befor', 'gd', 'hsc', 'mid', 'terri', 'know', 'suppos', 'call', 'us', 'want', 'gas', 'take', 'ani', 'last', 'tier', 'abov', 'sitara', 'thank', 'lee']

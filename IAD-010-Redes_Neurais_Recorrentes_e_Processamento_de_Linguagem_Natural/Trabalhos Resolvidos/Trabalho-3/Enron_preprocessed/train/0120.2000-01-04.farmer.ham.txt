@@ -1,0 +1,2 @@
+0
+['subject', 'thank', 'ken', 'walther', 'begin', 'express', 'heart', 'fill', 'thank', 'time', 'effort', 'everyon', 'put', 'success', 'k', 'effort', 'truli', 'great', 'see', 'everyon', 'work', 'togeth', 'ensur', 'enron', 'continu', 'win', 'way', 'best', 'truli', 'bless', 'group', 'individu', 'list', 'abov', 'staff', 'put', 'heart', 'soul', 'process', 'outstand', 'team', 'individu', 'opinion', 'alway', 'go', 'extra', 'mile', 'enron', 'thank', 'everyon', 'lot', 'proud', 'success', 'surviv', 'k', 'event']

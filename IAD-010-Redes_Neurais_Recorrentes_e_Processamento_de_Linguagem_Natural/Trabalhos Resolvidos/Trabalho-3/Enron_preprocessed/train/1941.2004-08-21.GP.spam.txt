@@ -1,0 +1,2 @@
+1
+['subject', 'local', 'wife', 'area', 'click', 'remov']

@@ -1,0 +1,2 @@
+0
+['subject', 'tenaska', 'iv', 'receiv', 'money', 'spot', 'sale', 'tenaska', 'iv', 'octob', 'except', 'tenaska', 'iv', 'sale', 'fee', 'megan']

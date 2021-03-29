@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'hubco', 'origin', 'messag', 'redmond', 'brian', 'sent', 'wednesday', 'septemb', 'pm', 'higgin', 'ned', 'hilgert', 'chris', 'mrha', 'jean', 'subject', 'hubco', 'follow', 'discuss', 'yesterday', 'inform', 'use', 'describ', 'waha', 'hubco', 'project', 'relat', 'compress', 'servic', 'deal', 'unoc', 'know', 'discuss', 'nng', 'manag', 'storag', 'agreement', 'sid', 'richardson', 'transco', 'develop', 'intrast', 'header', 'system', 'sid', 'richardson', 'gas', 'also', 'connect', 'unoc', 'plant', 'need', 'keep', 'coordin', 'discuss', 'regard', 'brian']

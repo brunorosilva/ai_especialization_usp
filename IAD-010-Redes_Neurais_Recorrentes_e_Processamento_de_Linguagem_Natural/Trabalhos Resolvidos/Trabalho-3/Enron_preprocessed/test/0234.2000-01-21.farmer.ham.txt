@@ -1,0 +1,2 @@
+0
+['subject', 'gmt', 'inc', 'tom', 'pleas', 'creat', 'spot', 'ticket', 'gas', 'commenc', 'flow', 'pertin', 'inform', 'follow', 'counterparti', 'mtr', 'volum', 'price', 'gmt', 'inc', 'mmbtu', 'hsc', 'ani', 'question', 'pleas', 'give', 'call', 'thank', 'vlt', 'x']

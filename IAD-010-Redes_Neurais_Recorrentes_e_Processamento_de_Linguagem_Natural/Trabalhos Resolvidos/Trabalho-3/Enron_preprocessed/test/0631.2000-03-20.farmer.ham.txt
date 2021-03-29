@@ -1,0 +1,2 @@
+0
+['subject', 'lst', 'rev', 'mar', 'josey', 'ranch', 'nom', 'start', 'first', 'slowli', 'drope', 'th', 'pretti', 'steadi', 'drop']

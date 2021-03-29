@@ -1,0 +1,2 @@
+0
+['subject', 'miss', 'deal', 'may', 'georg', 'follow', 'volum', 'includ', 'may', 'spreadsheet', 'deal', 'exist', 'sitara', 'daren', 'request', 'advis', 'noon', 'today', 'inform', 'price', 'e', 'gas', 'daili', 'ifhsc', 'thank', 'counterparti', 'meter', 'zone', 'nomin', 'carrizo', 'oil', 'gas', 'comstock', 'oil', 'gas', 'p', 'oper', 'gulf', 'coast', 'ergon', 'explor', 'hesco', 'gather', 'hesco', 'gather', 'hesco', 'gather', 'loui', 'dreyfus', 'suemaur', 'explor', 'unit', 'oil', 'miner']

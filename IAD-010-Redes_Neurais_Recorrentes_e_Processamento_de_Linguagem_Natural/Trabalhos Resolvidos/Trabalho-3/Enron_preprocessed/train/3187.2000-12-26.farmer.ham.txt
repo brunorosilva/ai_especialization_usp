@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'forest', 'oil', 'januari', 'gas', 'volum', 'forward', 'elsa', 'villarr', 'hou', 'ect', 'pm', 'joan', 'quick', 'sent', 'joan', 'quick', 'mari', 'poorman', 'na', 'enron', 'enron', 'jacki', 'young', 'hou', 'ect', 'ect', 'cc', 'elsa', 'villarr', 'hou', 'ect', 'ect', 'subject', 'revis', 'forest', 'oil', 'januari', 'gas', 'volum', 'forest', 'first', 'month', 'nom', 'deliveri', 'point', 'mmbtu', 'mcallen', 'ranch', 'kati', 'plant', 'term', 'nov', 'mar', 'revis', 'per', 'john', 'kjelmyr']

@@ -1,0 +1,2 @@
+0
+['subject', 'texaco', 'price', 'discrep', 'one', 'stacey', 'deal', 'texaco', 'natur', 'gas', 'april', 'deal', 'day', 'price', 'waha', 'gas', 'daili', 'texaco', 'say', 'waha', 'rick', 'bannion', 'trader', 'texaco', 'confirm', 'price', 'check', 'let', 'know', 'correct', 'thank', 'megan']

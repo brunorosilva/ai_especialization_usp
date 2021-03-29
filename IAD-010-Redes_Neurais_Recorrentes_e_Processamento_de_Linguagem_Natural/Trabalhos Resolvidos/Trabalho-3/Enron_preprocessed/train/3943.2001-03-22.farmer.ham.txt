@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'mike', 'gas', 'control', 'call', 'said', 'meter', 'flood', 'flow', 'coupl', 'day', 'field', 'tech', 'said', 'probabl', 'day', 'befor', 'resum', 'want', 'nom', 'adjust', 'deal', 'bob']

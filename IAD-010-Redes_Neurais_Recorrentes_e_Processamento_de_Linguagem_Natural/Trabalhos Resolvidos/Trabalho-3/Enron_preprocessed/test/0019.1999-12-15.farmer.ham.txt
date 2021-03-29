@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'nov', 'aime', 'sitara', 'deal', 'meter', 'expir', 'oct', 'settlement', 'unabl', 'draft', 'invoic', 'deal', 'deal', 'either', 'need', 'extend', 'new', 'deal', 'need', 'set', 'pleas', 'let', 'know', 'resolv', 'need', 'resolv', 'friday', 'dec', 'hc']

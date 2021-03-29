@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'oct', 'daren', 'two', 'purchas', 'abov', 'referenc', 'meter', 'th', 'oct', 'gas', 'flow', 'without', 'purchas', 'th', 'st', 'pleas', 'let', 'know', 'pay', 'swing', 'parti', 'deal', 'ticketsl', 'alloc', 'volum', 'thank', 'time', 'patienc', 'mari', 'jane', 'ext']

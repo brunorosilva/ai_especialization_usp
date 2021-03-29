@@ -1,0 +1,2 @@
+0
+['subject', 'wc', 'revis', 'effect', 'stingray', 'p', 'l', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'wc', 'revis', 'effect', 'stingray', 'p', 'l', 'pleas', 'see', 'attach', 'revis', 'wc', 'send', 'formal', 'notic', 'cancel', 'forc', 'majeur', 'later', 'afternoon', 'steve', 'wc', 'reveffo', 'xls']

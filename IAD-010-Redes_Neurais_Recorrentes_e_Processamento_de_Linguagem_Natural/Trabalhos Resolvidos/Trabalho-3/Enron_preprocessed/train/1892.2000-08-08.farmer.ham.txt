@@ -1,0 +1,2 @@
+0
+['subject', 'august', 'activ', 'fyi', 'forward', 'lee', 'l', 'papayoti', 'hou', 'ect', 'robert', 'e', 'lloyd', 'pm', 'lee', 'l', 'papayoti', 'hou', 'ect', 'ect', 'cc', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'subject', 'august', 'activ', 'buyback', 'deal', 'shell', 'oil', 'compani', 'aug', 'deal', 'expir', 'juli', 'st']

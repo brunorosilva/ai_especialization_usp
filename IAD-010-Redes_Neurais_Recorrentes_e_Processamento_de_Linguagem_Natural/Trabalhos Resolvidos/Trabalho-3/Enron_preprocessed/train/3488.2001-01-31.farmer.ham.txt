@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'per', 'gas', 'control', 'meter', 'valv', 'shut', 'next', 'day', 'al']

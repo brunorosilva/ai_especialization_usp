@@ -1,0 +1,2 @@
+1
+['subject', 'vi', 'agra', 'valllum', 'c', 'alli', 'hello', 'would', 'like', 'spend', 'less', 'medlcatlon', 'visit', 'ppharmacybymail', 'shop', 'save', 'v', 'gr', 'ia', 'piil', 'ci', 'li', 'pili', 'va', 'iu', 'l', 'piil', 'le', 'vi', 'ra', 'pili', 'x', 'x', 'piii', 'mani', 'nice', 'day', 'p', 'pleasant', 'ssurpris', 'price']

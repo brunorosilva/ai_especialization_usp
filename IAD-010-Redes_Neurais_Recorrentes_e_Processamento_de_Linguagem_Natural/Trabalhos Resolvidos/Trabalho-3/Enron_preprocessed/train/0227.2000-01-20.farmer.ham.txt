@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'transact', 'decemb', 'sinc', 'volum', 'transact', 'contract', 'actual', 'greater', 'max', 'month', 'pleas', 'realloc', 'excess', 'volum', 'transact', 'contract', 'ami']

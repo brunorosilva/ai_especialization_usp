@@ -1,0 +1,2 @@
+0
+['subject', 'mtbe', 'plant', 'lightn', 'strike', 'mtbe', 'plant', 'took', 'anoth', 'lightn', 'strike', 'p', 'saturday', 'june', 'plant', 'come', 'back', 'expect', 'reach', 'temperatur', 'start', 'make', 'product', 'midnight', 'tonight', 'june']

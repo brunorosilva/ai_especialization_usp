@@ -1,0 +1,2 @@
+1
+['subject', 'get', 'back', 'pleas', 'onc', 'south', 'came', 'flat', 'tabl', 'twenti', 'wait', 'check', 'citi', 'sea', 'symbol', 'three', 'reason', 'use', 'law', 'hard', 'visit', 'fast', 'play', 'home', 'dog', 'skin', 'us', 'togeth', 'put', 'like', 'expect', 'case', 'whi', 'space', 'place', 'heat', 'done', 'high', 'keep', 'phone', 'mobil', 'email', 'freddi', 'wilson', 'inod']

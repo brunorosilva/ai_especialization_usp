@@ -1,0 +1,2 @@
+0
+['subject', 'global', 'octan', 'two', 'firm', 'deal', 'hpl', 'meter', 'global', 'octan', 'sepo', 'octo', 'need', 'make', 'sure', 'deal', 'first', 'meter', 'second', 'meter', 'pleas', 'check', 'correct', 'necessari', 'thank', 'lee', 'x']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'meter', 'abov', 'deal', 'system', 'continu', 'flow', 'follow', 'date', 'total', 'flow', 'deal', 'extend', 'cover', 'januari', 'februari', 'flow']

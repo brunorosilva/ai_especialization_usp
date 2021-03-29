@@ -1,0 +1,2 @@
+0
+['subject', 'mip', 'cheryl', 'jone', 'left', 'messag', 'let', 'know', 'programm', 'work', 'fix', 'problem', 'speak', 'cheryl', 'postpon', 'meet', 'tomorrow', 'till', 'inform', 'programm', 'mike', 'cheryl', 'said', 'boss', 'gari', 'anderson', 'sent', 'respons', 'concern', 'problem', 'could', 'let', 'us', 'know', 'respons', 'mean', 'time', 'georg', 'could', 'give', 'us', 'list', 'known', 'meter', 'problem', 'give', 'cheryl', 'tri', 'get', 'kind', 'time', 'frame', 'cheryl', 'expect', 'hear', 'someth', 'back', 'thank']

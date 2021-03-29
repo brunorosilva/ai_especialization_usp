@@ -1,0 +1,2 @@
+0
+['subject', 'cleburn', 'cleburn', 'desk', 'rick', 'hill', 'set', 'trader', 'head', 'desk', 'let', 'know', 'question', 'dave']

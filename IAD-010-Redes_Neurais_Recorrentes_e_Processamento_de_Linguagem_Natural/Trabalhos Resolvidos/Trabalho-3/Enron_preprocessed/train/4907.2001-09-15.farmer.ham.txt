@@ -1,0 +1,2 @@
+0
+['subject', 'attack', 'powerpoint', 'instal', 'go', 'http', 'offic', 'microsoft', 'com', 'download', 'ppview', 'aspx', 'download', 'powerpoint', 'viewer', 'abl', 'view', 'link', 'squeemish', 'bother', 'look', 'slide', 'show', 'peopl', 'fall', 'wtc', 'ram', 'easi', 'unsubscrib', 'click', 'http', 'topica', 'com', 'u', 'vnf', 'ivhm', 'send', 'email', 'brcc', 'yf', 'unsubscrib', 'topica', 'com', 'email', 'sent', 'dfarmer', 'enron', 'com', 'p', 'c', 'regist', 'manag', 'mail', 'http', 'www', 'topica', 'com', 'partner', 'tago', 'regist']

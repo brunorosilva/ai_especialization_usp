@@ -1,0 +1,2 @@
+0
+['subject', 'octob', 'avail', 'appear', 'first', 'one', 'thank', 'bev', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'steve', 'holm', 'pm', 'cc', 'subject', 'octob', 'avail', 'attach', 'octob', 'avail', 'devon', 'energi', 'notifi', 'ani', 'updat', 'soon', 'becom', 'availabili', 'thank', 'steve', 'enronavailsl', 'xls']

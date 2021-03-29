@@ -1,0 +1,2 @@
+0
+['subject', 'k', 'pbas', 'k', 'pbas', 'avail', 'distribut', 'februari', 'th']

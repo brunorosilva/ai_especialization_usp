@@ -1,0 +1,2 @@
+0
+['subject', 'swift', 'octob', 'vol', 'f', 'forward', 'carlo', 'j', 'rodriguez', 'hou', 'ect', 'joan', 'quick', 'pm', 'sent', 'joan', 'quick', 'carlo', 'j', 'rodriguez', 'hou', 'ect', 'ect', 'susan', 'trevino', 'hou', 'ect', 'ect', 'stella', 'l', 'morri', 'hou', 'ect', 'ect', 'cc', 'subject', 'swift', 'octob', 'vol', 'last', 'month', 'buy', 'gas', 'vpp', 'mmbtu', 'xs', 'mmbtu', 'mmbtu']

@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'cellular', 'phone', 'number', 'ani', 'question', 'weekend', 'holiday', 'hesit', 'give', 'call', 'thank']

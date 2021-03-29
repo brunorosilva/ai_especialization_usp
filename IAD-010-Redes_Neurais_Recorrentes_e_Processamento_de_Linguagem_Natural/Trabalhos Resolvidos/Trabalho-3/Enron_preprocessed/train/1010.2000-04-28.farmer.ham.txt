@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'revis', 'estim', 'guess', 'better', 'attach', 'file', 'gari', 'forward', 'gari', 'hank', 'hou', 'ect', 'enron', 'north', 'america', 'corp', 'gari', 'hank', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'subject', 'entex', 'revis', 'estim', 'attach', 'spreadsheet', 'revis', 'estim', 'entex', 'cityg', 'load', 'april', 'need', 'get', 'pop', 'unifi', 'correct', 'chang', 'estim', 'pleas', 'give', 'call', 'thank', 'gari']

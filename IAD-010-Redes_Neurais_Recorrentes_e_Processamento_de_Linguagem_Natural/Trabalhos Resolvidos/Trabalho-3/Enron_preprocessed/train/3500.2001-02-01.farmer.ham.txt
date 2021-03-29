@@ -1,0 +1,2 @@
+0
+['subject', 'point', 'chang', 'deal', 'fyi', 'chang', 'point', 'deal', 'pgtt', 'teco', 'waha', 'pgtt', 'teco', 'kati', 'nd', 'let', 'know', 'agre', 'suppli', 'duke', 'field', 'svs', 'origin', 'tri', 'deliv', 'hpl', 'midtex', 'deal', 'also', 'chang', 'meter', 'thank', 'mark']

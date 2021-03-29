@@ -1,0 +1,2 @@
+0
+['subject', 'project', 'miracl', 'may', 'know', 'generat', 'invest', 'group', 'discuss', 'el', 'paso', 'sale', 'upstream', 'equiti', 'interest', 'cleburn', 'tx', 'generat', 'facil', 'part', 'el', 'paso', 'dilig', 'ask', 'meet', 'expert', 'tax', 'insur', 'gas', 'manag', 'matter', 'pertain', 'facil', 'thursday', 'june', 'friday', 'june', 'intend', 'schedul', 'three', 'separ', 'meet', 'either', 'enron', 'build', 'ac', 'pleas', 'let', 'know', 'avail', 'meet', 'area', 'expertis', 'either', 'two', 'day', 'thank', 'rick', 'hill', 'generat', 'invest', 'group']

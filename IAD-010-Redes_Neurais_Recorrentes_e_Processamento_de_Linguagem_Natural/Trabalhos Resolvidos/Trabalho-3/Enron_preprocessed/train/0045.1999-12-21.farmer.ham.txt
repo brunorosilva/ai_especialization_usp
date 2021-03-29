@@ -1,0 +1,2 @@
+0
+['subject', 'pasadena', 'plant', 'phillip', 'lehrer', 'c', 'del', 'meter', 'flow', 'maxey', 'walter', 'field', 'guy', 'inform', 'rec', 'call', 'mktg', 'peopl', 'ask', 'flow', 'gas', 'two', 'day', 'due', 'problem', 'ocur', 'phillip', 'two', 'day', 'pleas', 'look', 'see', 'provid', 'k', 'assess', 'busi', 'thank', 'rec', 'meter', 'flow', 'everi', 'day', 'month', 'k', 'last', 'month', 'k', 'sitara', 'start', 'date', 'deal', 'stop', 'date', 'sitara', 'start', 'stop', 'date', 'expect', 'vol', 'look', 'tell', 'expect', 'vol', 'differ', 'thank', 'jacki']

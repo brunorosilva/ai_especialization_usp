@@ -1,0 +1,2 @@
+0
+['subject', 'work', 'pg', 'e', 'meter', 'riversid', 'agua', 'dulc', 'per', 'convers', 'today', 'lorrain', 'ibrom', 'pg', 'e', 'inform', 'mainten', 'work', 'done', 'yeari', 'midway', 'affect', 'meter', 'pg', 'e', 'riversid', 'pg', 'e', 'agua', 'dulc', 'begin', 'sunday', 'sept', 'end', 'thursday', 'sept', 'inform', 'time', 'period', 'nomin', 'point', 'thank']

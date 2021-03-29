@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'nomin', 'sent', 'behalf', 'bruce', 'mcmill', 'nom', 'eastran', 'mmbtu', 'mcf', 'btu', 'pleas', 'increas', 'nom', 'pg', 'e', 'mmbtu', 'come', 'fuel', 'cotton', 'valley', 'sale', 'mmbtu', 'remain', 'place', 'ani', 'problem', 'pleas', 'contact', 'bruce', 'mcmill', 'chad', 'cass', 'thank']

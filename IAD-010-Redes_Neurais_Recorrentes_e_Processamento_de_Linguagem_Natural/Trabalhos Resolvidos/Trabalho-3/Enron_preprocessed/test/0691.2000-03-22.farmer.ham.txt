@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'turn', 'tom', 'product', 'commenc', 'flow', 'state', 'pleas', 'creat', 'base', 'load', 'ticket', 'sitara', 'base', 'upon', 'follow', 'inform', 'counterparti', 'meter', 'volum', 'price', 'period', 'union', 'gas', 'corp', 'mmbtu', 'gas', 'daili', 'less', 'cico', 'oil', 'gas', 'co', 'mmbtu', 'gas', 'daili', 'less', 'thank', 'vlt', 'x']

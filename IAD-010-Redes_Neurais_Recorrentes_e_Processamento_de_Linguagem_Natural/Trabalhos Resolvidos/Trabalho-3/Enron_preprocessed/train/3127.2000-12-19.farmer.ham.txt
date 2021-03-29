@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'extens', 'victor', 'extend', 'deal', 'cover', 'flow', 'volum', 'dec', 'daren', 'extend', 'deal', 'cover', 'flow', 'volum', 'dec', 'thank', 'jacki']

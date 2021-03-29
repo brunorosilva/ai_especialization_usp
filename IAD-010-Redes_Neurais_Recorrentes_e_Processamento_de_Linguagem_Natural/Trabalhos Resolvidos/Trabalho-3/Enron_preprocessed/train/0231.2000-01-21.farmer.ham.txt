@@ -1,0 +1,2 @@
+0
+['subject', 'valero', 'meter', 'plant', 'went', 'hrs', 'morn', 'inform', 'move', 'turnaround', 'long', 'week', 'pleas', 'let', 'us', 'know', 'econom', 'handl', 'buyback', 'forc', 'majur', 'deal', 'thank', 'ken']

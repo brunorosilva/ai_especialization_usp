@@ -1,0 +1,2 @@
+0
+['subject', 'announc', 'februari', 'pleas', 'talk', 'senior', 'high', 'night', 'wednesday', 'friday', 'night', 'pm', 'bowl', 'broombal', 'stuff', 'cost', 'even', 'though', 'kid', 'event', 'befor', 'broombal', 'expect', 'neon', 'leader', 'broombal', 'portion', 'even', 'need', 'show', 'aerodrom', 'short', 'ice', 'go', 'home', 'kid', 'go', 'stuff', 'till', 'see', 'aerodrom', 'bobbi']

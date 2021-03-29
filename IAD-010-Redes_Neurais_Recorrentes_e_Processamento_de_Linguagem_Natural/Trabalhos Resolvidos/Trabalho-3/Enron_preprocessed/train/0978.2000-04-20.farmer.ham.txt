@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'may', 'total', 'nom', 'apr', 'mar', 'feb', 'averag', 'doe', 'averag', 'repres', 'good', 'estim', 'calpin', 'may', 'nom', 'ami']

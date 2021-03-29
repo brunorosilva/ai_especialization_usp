@@ -1,0 +1,2 @@
+0
+['subject', 'cp', 'l', 'verifi', 'gas', 'flow', 'bill', 'term', 'deal', 'one', 'place', 'gas', 'flow', 'invoic', 'term', 'let', 'know', 'put', 'janet', 'h', 'walli', 'pm', 'gari', 'w', 'lamphier', 'hou', 'ect', 'ect', 'cc', 'katherin', 'herrera', 'corp', 'enron', 'enron', 'subject', 'cp', 'l', 'bob', 'say', 'bill', 'purchas', 'made', 'k', 'feb', 'st', 'check', 'get', 'bob', 'katherin', 'herrera', 'jw']

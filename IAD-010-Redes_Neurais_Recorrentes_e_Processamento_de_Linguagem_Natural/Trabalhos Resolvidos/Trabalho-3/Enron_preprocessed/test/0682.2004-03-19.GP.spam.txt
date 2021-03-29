@@ -1,0 +1,2 @@
+1
+['subject', 'smoker', 'cheap', 'cigarett', 'pleas', 'click', 'want', 'hear', 'ani', 'great', 'offer', 'unsubscrib', 'mail', 'list', 'click', 'send', 'blank', 'messag', 'r', 'superd', 'ae', 'ccb', 'iit', 'demokrito', 'gr', 'paliourg', 'moosq', 'com', 'optinrealbig', 'com', 'llc', 'w', 'th', 'ave', 'suit', 'westminst', 'colorado']

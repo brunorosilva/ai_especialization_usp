@@ -1,0 +1,2 @@
+0
+['subject', 'unifi', 'close', 'schedul', 'follow', 'close', 'schedul', 'come', 'month', 'year', 'end', 'pleas', 'keep', 'mind', 'follow', 'key', 'time', 'unifi', 'sitara', 'bridg', 'back', 'p', 'thursday', 'dec', 'th', 'error', 'must', 'clear', 'time', 'mass', 'draft', 'p', 'thursday', 'even', 'dec', 'th', 'accrual', 'process', 'begin', 'friday', 'morn', 'dec', 'st', 'group', 'impact', 'accrual', 'pleas', 'ensur', 'necessari', 'peopl', 'avail', 'support', 'need', 'enron', 'holiday', 'pleas', 'feel', 'free', 'contact', 'ani', 'question', 'thank', 'melissa', 'x']

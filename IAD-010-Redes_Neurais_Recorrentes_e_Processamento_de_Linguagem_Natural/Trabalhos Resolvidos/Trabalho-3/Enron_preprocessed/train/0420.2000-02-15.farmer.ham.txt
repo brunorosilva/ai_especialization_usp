@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'increas', 'volum', 'deliv', 'hpl', 'eastran', 'mmbtu', 'increas', 'deliveri', 'pg', 'e', 'leav', 'fuel', 'cotton', 'valley', 'redeliveri', 'sale', 'enron', 'mmbtu', 'remain', 'place']

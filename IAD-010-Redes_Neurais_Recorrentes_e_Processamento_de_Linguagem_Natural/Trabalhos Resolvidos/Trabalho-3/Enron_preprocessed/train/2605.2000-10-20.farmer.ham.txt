@@ -1,0 +1,2 @@
+0
+['subject', 'neon', 'discuss', 'octob', 'discuss', 'outlin', 'come', 'week', 'put', 'veri', 'end', 'document', 'breakdown', 'remain', 'topic', 'fall', 'semest', 'incred', 'onli', 'meet', 'time', 'befor', 'christma', 'break', 'see', 'ya', 'bobbi', 'neon', 'roar', 'doc']

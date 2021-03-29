@@ -1,0 +1,2 @@
+0
+['subject', 'instal', 'equip', 'order', 'complet', 'automat', 'notif', 'system', 'request', 'nchs', 'bjs', 'request', 'daren', 'j', 'farmer', 'request', 'daren', 'j', 'farmer', 'instal', 'equip', 'see', 'complet', 'en', 'desktop', 'p', 'gb', 'mb', 'x', 'nt', 'en', 'mb', 'instal', 'desktop']

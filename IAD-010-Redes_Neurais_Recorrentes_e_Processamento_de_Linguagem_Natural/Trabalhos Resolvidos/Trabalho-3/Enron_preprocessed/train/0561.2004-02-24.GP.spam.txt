@@ -1,0 +1,2 @@
+1
+['subject', 'holiday', 'voucher', 'tropic', 'travel', 'packag', 'receiv', 'email', 'becaus', 'opt', 'one', 'associ', 'pleas', 'repli', 'email', 'address', 'doe', 'accept', 'mail', 'remov', 'list', 'receiv', 'futur', 'offerspleas', 'click', 'send', 'request', 'includ', 'email', 'address', 'voucher', 'fulfillmentl', 'cypress', 'creek', 'road', 'suit', 'fort', 'lauderdal', 'fl']

@@ -1,0 +1,2 @@
+0
+['subject', 'cowtrap', 'alloc', 'receiv', 'abov', 'alloc', 'deal', 'purchas', 'spinnak', 'sale', 'dow', 'volum', 'actual', 'noth', 'volum', 'manag', 'one', 'look', 'get', 'back', 'thank', 'joyc']

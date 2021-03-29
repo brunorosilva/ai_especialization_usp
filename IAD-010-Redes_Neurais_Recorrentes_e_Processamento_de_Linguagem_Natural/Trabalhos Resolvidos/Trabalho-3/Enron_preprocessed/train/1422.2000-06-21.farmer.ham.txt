@@ -1,0 +1,2 @@
+0
+['subject', 'hl', 'p', 'daren', 'pat', 'gave', 'spreadsheet', 'show', 'alloc', 'green', 'bayou', 'check', 'deal', 'ticket', 'end', 'still', 'two', 'day', 'need', 'realloc', 'pleas', 'let', 'know', 'extend', 'deal', 'creat', 'new', 'one', 'thank', 'al']

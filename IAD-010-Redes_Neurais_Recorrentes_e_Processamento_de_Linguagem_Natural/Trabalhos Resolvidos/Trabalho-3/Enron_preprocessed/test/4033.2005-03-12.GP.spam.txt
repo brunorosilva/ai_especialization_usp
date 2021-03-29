@@ -1,0 +1,2 @@
+1
+['subject', 'break', 'news', 'practic', 'cook', 'nice', 'dentist', 'enjoy', 'write', 'near', 'home', 'nineti', 'six', 'bottl', 'beer', 'three', 'three', 'b', 'one', 'c', 'two', 'thirti', 'three', 'e', 'seven', 'f', 'one', 'g', 'ten', 'h', 'nine', 'four', 'l', 'sixteen', 'n', 'ten', 'thirteen', 'r', 'twenti', 'three', 'twenti', 'three', 'four', 'u', 'four', 'v', 'five', 'w', 'three', 'x', 'five', 'wall', 'go', 'around', 'say', 'world', 'owe', 'live', 'world', 'owe', 'noth', 'first', 'mani', 'bartend', 'like', 'drive', 'everi', 'day']

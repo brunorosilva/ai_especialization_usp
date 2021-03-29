@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'su', 'bridg', 'peopl', 'problem', 'get', 'new', 'monitor', 'may', 'su', 'bridg', 'start', 'program', 'trade', 'sitara', 'su', 'bridg', 'monitor', 'resolv', 'need', 'fill', 'secur', 'request', 'get', 'ad', 'start', 'profil', 'also', 'use', 'old', 'shortcut', 'may', 'longer', 'work', 'need', 'trash', 'old', 'short', 'cut']

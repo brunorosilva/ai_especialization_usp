@@ -1,0 +1,2 @@
+0
+['subject', 'activ', 'alloc', 'nome', 'daren', 'want', 'let', 'know', 'still', 'two', 'sitara', 'deal', 'need', 'expect', 'volum', 'brought', 'list', 'previous', 'sent', 'appreci', 'revis', 'one', 'probabl', 'go', 'handl', 'abov', 'two', 'today', 'case', 'pleas', 'disregard', 'notic', 'fogotten', 'serv', 'remind', 'usual', 'thank', 'help', 'jacki']

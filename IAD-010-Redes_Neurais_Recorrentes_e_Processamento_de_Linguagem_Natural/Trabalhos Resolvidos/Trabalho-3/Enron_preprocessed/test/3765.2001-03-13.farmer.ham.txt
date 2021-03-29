@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'contact', 'devon', 'pleas', 'note', 'leav', 'enron', 'march', 'pleas', 'send', 'futur', 'e', 'mail', 'regard', 'devon', 'chang', 'kathi', 'kelli', 'clarissa', 'garcia', 'well', 'schedul', 'alreadi', 'send', 'chang', 'coordin', 'futur', 'devon', 'inquiri', 'chang', 'question', 'befor', 'pleas', 'call', 'thank', 'bever', 'beati']

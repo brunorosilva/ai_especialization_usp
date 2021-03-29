@@ -1,0 +1,2 @@
+0
+['subject', 'shell', 'meter', 'effect', 'per', 'gas', 'control', 'shell', 'request', 'lower', 'meter', 'increas', 'net', 'effect', 'zero', 'pleas', 'let', 'know', 'deal', 'need', 'adjust', 'reflect', 'chang', 'mari']

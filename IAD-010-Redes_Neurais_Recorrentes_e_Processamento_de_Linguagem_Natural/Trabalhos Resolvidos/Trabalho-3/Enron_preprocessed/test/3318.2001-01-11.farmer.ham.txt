@@ -1,0 +1,2 @@
+0
+['subject', 'shipment', 'confirm', 'thank', 'shop', 'radioshack', 'com', 'order', 'schedul', 'shipment', 'follow', 'address', 'daren', 'farmer', 'clarkston', 'spring', 'tx', 'inquiri', 'regard', 'shipment', 'pleas', 'use', 'packag', 'track', 'number', 'visit', 'web', 'site', 'upsn', 'contact', 'telephon', 'order', 'center', 'order', 'number', 'trk', 'lz', 'appreci', 'busi', 'look', 'forward', 'serv', 'futur', 'sincer', 'radioshack', 'com', 'custom', 'servic', 'contact', 'email', 'ordercent', 'radioshack', 'com', 'phone']

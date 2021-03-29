@@ -1,0 +1,2 @@
+1
+['subject', 'encrypt', 'mail', 'detail', 'see', 'attach', 'attach', 'virus', 'found', 'bitdefend', 'antivirus', 'www', 'bitdefend', 'com']

@@ -1,0 +1,2 @@
+0
+['subject', 'second', 'revis', 'spreadsheet', 'chang', 'previous', 'one', 'note', 'rev', 'revis', 'devon', 'bever', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'victor', 'haley', 'cc', 'subject', 'second', 'revis', 'spreadsheet', 'chang', 'previous', 'one', 'note', 'rev', 'second', 'revis', 'spreadsheet', 'chang', 'previous', 'one', 'note', 'rev', 'enronavailsl', 'pool', 'xls']

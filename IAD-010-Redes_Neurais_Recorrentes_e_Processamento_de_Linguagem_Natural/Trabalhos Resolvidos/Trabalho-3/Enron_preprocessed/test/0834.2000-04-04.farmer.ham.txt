@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'abov', 'meter', 'current', 'nom', 'pleas', 'take', 'look', 'see', 'nom', 'adjust', 'might', 'solut', 'look', 'deal', 'term', 'indic', 'hplc', 'buy', 'saxet', 'volum', 'assum', 'take', 'total', 'flow', 'amount', 'per', 'day', 'deal', 'ticket', 'adjust', 'expect', 'volum', 'reflect', 'nom', 'daili', 'flow', 'versus', 'current', 'nome', 'h', 'e', 'l', 'p', 'thank', 'jacki']

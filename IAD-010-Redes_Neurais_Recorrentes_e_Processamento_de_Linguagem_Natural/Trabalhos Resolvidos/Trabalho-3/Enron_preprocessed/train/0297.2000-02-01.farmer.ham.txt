@@ -1,0 +1,2 @@
+0
+['subject', 'activ', 'alloc', 'nome', 'daren', 'pleas', 'activ', 'sitara', 'deal', 'ticket', 'relat', 'activ', 'nome', 'think', 'referenc', 'deal', 'ticket', 'meter', 'thank', 'jacki']

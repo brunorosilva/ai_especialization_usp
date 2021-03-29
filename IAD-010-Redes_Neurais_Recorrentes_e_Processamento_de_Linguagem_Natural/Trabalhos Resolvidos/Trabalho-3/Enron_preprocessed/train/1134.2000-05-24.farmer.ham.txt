@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'follow', 'eastran', 'nomin', 'eastran', 'mmbtu', 'redeliveri', 'hpl', 'carthag', 'hpl', 'cartwheel', 'fuel', 'cotton', 'valley', 'mmbtu', 'mobil', 'beaumont', 'plan', 'maintian', 'volum', 'duke', 'residu', 'sale', 'follow', 'th', 'mmbtu', 'th', 'th']

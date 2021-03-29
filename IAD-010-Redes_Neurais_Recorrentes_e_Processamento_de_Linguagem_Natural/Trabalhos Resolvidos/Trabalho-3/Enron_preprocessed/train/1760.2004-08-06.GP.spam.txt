@@ -1,0 +1,2 @@
+1
+['subject', 'vlc', 'dln', 'sale', 'prior', 'pres', 'crip', 'tion', 'need', 'enjoy', 'buy', 'vlc', 'dln', 'onlin', 'get', 'vla', 'gra', 'cla', 'lls', 'buy', 'val', 'lum', 'cheap', 'get', 'x', 'x', 'x', 'onlin', 'onlin', 'pha', 'rmaci', 'mani', 'also', 'avail', 'p', 'r', 'e', 'c', 'r', 'p', 'n', 'requir', 'discreet', 'fast', 'ship', 'plus', 'ship', 'charg', 'alway', 'money', 'back', 'guarante', 'click', 'info']

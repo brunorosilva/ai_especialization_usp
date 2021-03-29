@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'nom', 'kcs', 'resourc', 'daren', 'bob', 'forward', 'robert', 'cotten', 'hou', 'ect', 'pm', 'enron', 'north', 'america', 'corp', 'robert', 'cotten', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'revis', 'nom', 'kcs', 'resourc', 'daren', 'kcs', 'orig', 'nom', 'meter', 'revis', 'kcs', 'want', 'revis', 'want', 'adjust', 'bob']

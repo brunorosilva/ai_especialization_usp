@@ -1,0 +1,2 @@
+0
+['subject', 'alloc', 'attach', 'alloc', 'texa', 'oper', 'let', 'know', 'ani', 'question']

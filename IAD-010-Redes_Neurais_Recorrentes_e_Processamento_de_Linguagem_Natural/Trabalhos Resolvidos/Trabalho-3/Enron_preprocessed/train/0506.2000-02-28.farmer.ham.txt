@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'pool', 'point', 'two', 'new', 'pool', 'point', 'follow', 'aqua', 'dulc', 'pool', 'corpus', 'christi', 'pool']

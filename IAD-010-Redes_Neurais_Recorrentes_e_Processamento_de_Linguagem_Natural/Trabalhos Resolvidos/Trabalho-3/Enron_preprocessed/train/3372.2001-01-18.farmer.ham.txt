@@ -1,0 +1,2 @@
+0
+['subject', 'adjust', 'deal', 'ticket', 'daren', 'neal', 'effect', 'deal', 'ticket', 'adjust', 'daili', 'volum', 'meter', 'trade', 'zone', 'bob']

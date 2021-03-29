@@ -1,0 +1,2 @@
+0
+['subject', 'holiday', 'parti', 'save', 'date', 'pleas', 'click', 'link', 'save', 'date']

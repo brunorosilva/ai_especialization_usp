@@ -1,0 +1,2 @@
+0
+['subject', 'see', 'attach', 'memo', 'pleas', 'read', 'follow', 'attach', 'thank', 'kathi', 'benedict']

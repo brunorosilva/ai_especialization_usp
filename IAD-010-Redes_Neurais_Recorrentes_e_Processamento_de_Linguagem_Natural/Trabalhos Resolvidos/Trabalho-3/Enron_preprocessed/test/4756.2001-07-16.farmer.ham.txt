@@ -1,0 +1,2 @@
+0
+['subject', 'rfp', 'date', 'june', 'dick', 'enron', 'would', 'extend', 'offer', 'respons', 'rfp', 'date', 'june', 'pleas', 'see', 'attach', 'document', 'outlin', 'term', 'volum', 'price', 'enron', 'provid', 'flexibl', 'exchang', 'float', 'price', 'fix', 'price', 'appropri', 'contractu', 'agreement', 'thank', 'give', 'us', 'opportun', 'suppli', 'gas', 'need', 'look', 'forward', 'discuss', 'offer', 'pleas', 'feel', 'free', 'contact', 'ani', 'question', 'comment', 'daren', 'farmer', 'enron', 'north', 'america', 'ph', 'fax', 'e', 'mail', 'dfarmer', 'enron', 'com']

@@ -1,0 +1,2 @@
+0
+['subject', 'copano', 'p', 'l', 'daren', 'look', 'mmbtu', 'schedul', 'copano', 'p', 'l', 'counterparti', 'paid', 'volum', 'revers', 'deal', 'would', 'abl', 'tell', 'whi', 'revers', 'tri', 'determin', 'valid', 'recover', 'item', 'thank']

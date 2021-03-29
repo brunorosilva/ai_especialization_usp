@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'get', 'deal', 'set', 'meter', 'last', 'deal', 'number', 'associ', 'meter', 'juli', 'counterparti', 'gsf', 'energi', 'llc', 'let', 'know', 'ani', 'question', 'al']

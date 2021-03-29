@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'tyler', 'cutshal', 'friend', 'mine', 'known', 'sinc', 'colleg', 'hard', 'look', 'job', 'consult', 'last', 'stint', 'senior', 'system', 'engin', 'compaq', 'sap', 'solut', 'center', 'stellar', 'guy', 'veri', 'smart', 'tell', 'resum', 'know', 'ani', 'opportun', 'pleas', 'pass', 'along', 'thank', 'ram', 'tackett', 'owner', 'abacus', 'technolog', 'lore', 'lane', 'spring', 'tx', 'mailto', 'rtackett', 'abacustech', 'net', 'v', 'f', 'web', 'http', 'www', 'abacustech', 'net', 'resum', 'doc']

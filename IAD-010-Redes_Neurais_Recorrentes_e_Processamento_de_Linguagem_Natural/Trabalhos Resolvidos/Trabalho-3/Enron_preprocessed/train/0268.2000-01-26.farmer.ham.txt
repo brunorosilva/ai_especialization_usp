@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'koch', 'midstream', 'ces', 'system', 'term', 'sale', 'howev', 'deal', 'termin', 'ces', 'ani', 'volum', 'kmid', 'sold', 'midcon', 'texa', 'p', 'l', 'oper', 'purchas', 'price', 'base', 'volum', 'swing', 'volum', 'feb', 'zero', 'volum', 'deal', 'sitara', 'volum', 'deal', 'neal', 'need', 'risk', 'assign', 'new', 'deal', 'juli', 'evergreen', 'deal', 'mtpl', 'take', 'whatev', 'produc', 'point', 'let', 'know', 'help', 'anyth', 'els', 'thank', 'ac']

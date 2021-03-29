@@ -1,0 +1,2 @@
+0
+['subject', 'albert', 'trevino', 'teja', 'pipelin', 'trevino', 'plant', 'gas', 'sale', 'fyi', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'evelyn', 'daniel', 'pm', 'cc', 'subject', 'albert', 'trevino', 'teja', 'pipelin', 'trevino', 'plant', 'gas', 'sale', 'hello', 'steve', 'holm', 'said', 'e', 'mail', 'let', 'know', 'abov', 'well', 'avail', 'chang', 'mmbtu', 'mmbtu', 'effect', 'process', 'fraction', 'pleas', 'call', 'ani', 'question', 'thank', 'evelyn', 'daniel', 'devon', 'energi']

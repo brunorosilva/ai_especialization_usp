@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'schedul', 'vacat', 'friday', 'march', 'th', 'th', 'th', 'mayb', 'th', 'absenc', 'pleas', 'call', 'jacki', 'young', 'susan', 'back', 'jacki', 'dure', 'absenc', 'industri', 'activ']

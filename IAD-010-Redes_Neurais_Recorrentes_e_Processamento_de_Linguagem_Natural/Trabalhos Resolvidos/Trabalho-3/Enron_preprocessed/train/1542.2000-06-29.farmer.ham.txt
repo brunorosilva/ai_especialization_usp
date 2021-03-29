@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'vacat', 'week', 'juli', 'back', 'offic', 'juli', 'th', 'main', 'contact', 'stella', 'morri', 'ext', 'desk', 'split', 'follow', 'stella', 'nng', 'blackmarlin', 'onshor', 'black', 'marlin', 'offshor', 'amoco', 'third', 'parti', 'centana', 'system', 'storag', 'eastran', 'aime', 'carthag', 'tufco', 'updat', 'bridg', 'back', 'mark', 'mccoy', 'kati', 'lonestar', 'offsystem', 'tom', 'acton', 'send', 'nomin', 'mop', 'pop', 'pleas', 'pass', 'member', 'group', 'thank', 'carlo']

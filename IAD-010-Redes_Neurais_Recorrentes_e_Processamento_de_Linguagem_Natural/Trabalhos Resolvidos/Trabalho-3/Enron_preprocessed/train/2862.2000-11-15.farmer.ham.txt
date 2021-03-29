@@ -1,0 +1,2 @@
+0
+['subject', 'valero', 'forward', 'gari', 'w', 'lamphier', 'hou', 'ect', 'pm', 'rebecca', 'griffin', 'enron', 'pm', 'gari', 'w', 'lamphier', 'hou', 'ect', 'ect', 'cc', 'subject', 'valero', 'notic', 'new', 'octob', 'deal', 'valero', 'includ', 'base', 'index', 'price', 'swing', 'gas', 'daili', 'price', 'howev', 'old', 'swing', 'deal', 'still', 'valid', 'octob', 'deal', 'effect', 'octob', 'thank', 'help', 'rebecca']

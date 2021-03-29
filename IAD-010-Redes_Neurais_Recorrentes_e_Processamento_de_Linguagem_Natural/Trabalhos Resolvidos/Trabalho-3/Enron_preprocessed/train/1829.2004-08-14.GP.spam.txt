@@ -1,0 +1,2 @@
+1
+['subject', 'solv', 'health', 'problem', 'includ', 'free', 'medic', 'consult', 'http', 'www', 'authoris', 'rned', 'us', 'f', 'p', 'http', 'www', 'authoris', 'rned', 'us']

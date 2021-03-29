@@ -1,0 +1,2 @@
+0
+['subject', 'tenaska', 'pleas', 'adjust', 'follow', 'demand', 'fee', 'tenaska', 'deal', 'day', 'chang', 'deal', 'day', 'chang', 'deal', 'day', 'chang', 'deal', 'chang', 'demand', 'volum', 'thank', 'megan']

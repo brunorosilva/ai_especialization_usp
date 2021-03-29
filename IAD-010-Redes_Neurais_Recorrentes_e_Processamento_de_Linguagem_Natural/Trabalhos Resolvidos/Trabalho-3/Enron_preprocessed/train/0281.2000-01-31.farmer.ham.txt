@@ -1,0 +1,2 @@
+0
+['subject', 'lyondel', 'citgo', 'sitara', 'tier', 'price', 'want', 'nom', 'whatev', 'volum', 'deal', 'ticket', 'econom', 'work', 'correct', 'keep', 'thing', 'balanc', 'bit', 'better', 'go', 'either', 'way', 'feb', 'base', 'deal', 'day', 'term', 'deal', 'day', 'onli', 'path']

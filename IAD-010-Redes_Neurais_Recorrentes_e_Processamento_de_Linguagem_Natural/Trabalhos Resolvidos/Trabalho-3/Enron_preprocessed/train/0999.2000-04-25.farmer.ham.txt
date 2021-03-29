@@ -1,0 +1,2 @@
+0
+['subject', 'februari', 'product', 'pg', 'e', 'discrep', 'pan', 'energi', 'exchang', 'deal', 'stacey', 'per', 'earlier', 'voic', 'mail', 'messag', 'need', 'confirm', 'actual', 'flow', 'gas', 'pg', 'e', 'februari', 'th', 'servic', 'summari', 'report', 'pg', 'e', 'indic', 'flow', 'mmbtus', 'th', 'howev', 'swamp', 'rat', 'fuel', 'alloc', 'hpl', 'indic', 'flow', 'mmbtus', 'ask', 'pg', 'e', 'confirm', 'volum', 'correct', 'februari', 'alloc', 'final', 'pleas', 'let', 'know', 'ani', 'addit', 'inform', 'need', 'provid', 'thank', 'help', 'katherin']

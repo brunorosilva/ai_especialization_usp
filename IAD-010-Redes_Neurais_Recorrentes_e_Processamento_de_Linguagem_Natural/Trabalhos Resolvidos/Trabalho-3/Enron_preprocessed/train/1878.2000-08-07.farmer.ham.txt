@@ -1,0 +1,2 @@
+0
+['subject', 'tabl', 'buffet', 'veri', 'dark', 'color', 'big', 'around']

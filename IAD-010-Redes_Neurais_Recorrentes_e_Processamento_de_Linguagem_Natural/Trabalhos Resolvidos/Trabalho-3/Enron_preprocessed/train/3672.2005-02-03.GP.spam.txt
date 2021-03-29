@@ -1,0 +1,2 @@
+1
+['subject', 'best', 'softwar', 'price', 'inclos', 'promot', 'note', 'stead', 'make', 'metal', 'abov', 'fall', 'catch', 'song', 'slow', 'line', 'well', 'mile', 'big', 'scienc', 'test', 'nine', 'think', 'studi', 'tree', 'result', 'fact', 'prepar', 'surpris', 'year', 'solv', 'gave', 'pay', 'singl', 'number', 'hurri', 'bell', 'paint', 'care', 'heard', 'citi', 'push', 'fear', 'often', 'sing']

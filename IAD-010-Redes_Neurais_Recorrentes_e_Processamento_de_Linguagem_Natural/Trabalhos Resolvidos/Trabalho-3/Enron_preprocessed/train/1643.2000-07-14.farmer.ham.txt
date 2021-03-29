@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'vacat', 'week', 'juli', 'th', 'juli', 'st', 'ani', 'risk', 'question', 'pleas', 'refer', 'dave', 'baumbach', 'need', 'get', 'touch', 'tri', 'cell', 'phone']

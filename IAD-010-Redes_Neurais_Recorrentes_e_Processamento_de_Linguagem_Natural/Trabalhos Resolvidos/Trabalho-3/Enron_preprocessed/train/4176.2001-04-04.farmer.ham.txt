@@ -1,0 +1,2 @@
+0
+['subject', 'feb', 'prod', 'sale', 'teco', 'gas', 'process', 'sale', 'deal', 'expir', 'juli', 'deal', 'expir', 'teco', 'gas', 'process', 'sale', 'deal', 'extend', 'pls', 'let', 'know', 'redraft', 'sale', 'unifi', 'katherin', 'unabl', 'draft', 'volum', 'unifi', 'due', 'expir', 'deal', 'ticket']

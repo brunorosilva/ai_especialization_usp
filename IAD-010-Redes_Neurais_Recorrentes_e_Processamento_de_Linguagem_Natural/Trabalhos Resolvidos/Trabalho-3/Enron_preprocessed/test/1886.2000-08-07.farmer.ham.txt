@@ -1,0 +1,2 @@
+0
+['subject', 'august', 'activ', 'buyback', 'deal', 'shell', 'oil', 'compani', 'aug', 'deal', 'expir', 'juli', 'st']

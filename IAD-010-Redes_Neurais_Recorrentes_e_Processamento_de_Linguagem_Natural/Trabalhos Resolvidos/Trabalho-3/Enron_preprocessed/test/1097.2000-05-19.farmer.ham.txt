@@ -1,0 +1,2 @@
+0
+['subject', 'custom', 'meet', 'invit', 'good', 'afternoon', 'attach', 'invit', 'th', 'annual', 'enron', 'custom', 'meet', 'held', 'ce', 'sar', 'st', 'pete', 'beach', 'fl', 'pleas', 'feel', 'free', 'fax', 'email', 'custom', 'see', 'necessari', 'pleas', 'use', 'rsvp', 'form', 'trip', 'attend', 'juli', 'august', 'invit', 'attach', 'generic', 'use', 'rsvp', 'form', 'origin', 'invit', 'go', 'mail', 'even', 'request', 'return', 'date', 'june', 'ani', 'question', 'need', 'assist', 'pleas', 'call', 'x', 'thank', 'heather', 'choat']

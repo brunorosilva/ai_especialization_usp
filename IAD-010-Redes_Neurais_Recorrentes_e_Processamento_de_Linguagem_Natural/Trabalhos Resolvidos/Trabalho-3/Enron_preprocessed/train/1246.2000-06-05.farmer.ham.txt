@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'chang', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'jan', 'svajian', 'pm', 'cc', 'subject', 'nomin', 'chang', 'monday', 'june', 'th', 'thru', 'june', 'th', 'quinduno', 'field', 'connect', 'oneok', 'stinnett', 'plant', 'shut', 'oneok', 'mainten', 'product', 'back', 'afternoon', 'june', 'th', 'nomin', 'place', 'th', 'sorri', 'short', 'notic', 'confirm', 'oneok', 'go', 'happen', 'rl', 'xls']

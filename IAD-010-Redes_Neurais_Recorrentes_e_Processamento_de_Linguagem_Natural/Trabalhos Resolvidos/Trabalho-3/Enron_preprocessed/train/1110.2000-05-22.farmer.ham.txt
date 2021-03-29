@@ -1,0 +1,2 @@
+0
+['subject', 'final', 'name', 'chang', 'merger', 'spreadsheet', 'name', 'chang', 'legal', 'name', 'erm', 'sn', 'updat', 'gcp', 'receiv', 'kinder', 'morgan', 'inc', 'merger', 'document', 'abl', 'take', 'care', 'time', 'around', 'note', 'particular', 'comment', 'regard', 'kinder', 'morgan', 'enichem', 'america', 'inc', 'merger', 'name', 'chang', 'call', 'question']

@@ -1,0 +1,2 @@
+0
+['subject', 'rough', 'list', 'spoke', 'sabra', 'cumul', 'balanc', 'pge', 'cumul', 'want', 'anyth', 'volumetr', 'either', 'meter', 'nng', 'oba', 'reconcil', 'realli', 'hesit', 'reluct', 'balanc', 'current', 'month', 'florida', 'paid', 'back', 'reconcil', 'sabra', 'okay', 'pay', 'back', 'mark', 'mccoy', 'oasi', 'oba', 'flat', 'today', 'gas', 'day', 'hit', 'imb', 'report', 'next', 'week', 'mari']

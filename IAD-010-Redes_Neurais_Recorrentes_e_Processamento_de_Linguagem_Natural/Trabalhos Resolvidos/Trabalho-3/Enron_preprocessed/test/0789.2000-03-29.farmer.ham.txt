@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'gas', 'day', 'behalf', 'bruce', 'mcmill', 'gas', 'day', 'nomin', 'eastran', 'mmbtu', 'redeliveri', 'pg', 'e', 'fuel', 'cotton', 'valley', 'mobil', 'beaumont', 'hpl', 'cw', 'carthag', 'gas', 'day', 'nomin', 'eastran', 'mmbtu', 'redeliveri', 'pg', 'e', 'fuel', 'cotton', 'valley', 'mobil', 'beaumont', 'hpl', 'cw', 'cartag']

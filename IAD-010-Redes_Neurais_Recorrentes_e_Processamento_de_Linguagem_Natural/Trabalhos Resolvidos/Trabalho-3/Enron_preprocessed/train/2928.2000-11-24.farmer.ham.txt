@@ -1,0 +1,2 @@
+0
+['subject', 'neon', 'discuss', 'novemb', 'idea', 'come', 'wednesday', 'rememb', 'follow', 'week', 'last', 'neon', 'semest', 'call', 'want', 'group', 'end', 'semest', 'e', 'parti', 'dinner', 'etc', 'hope', 'plenti', 'turkey', 'bobbi', 'neon', 'christma', 'doc']

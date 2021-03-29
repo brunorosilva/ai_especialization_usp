@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'arriv', 'hi', 'welllllllll', 'word', 'assum', 'babi', 'kick', 'back', 'noth', 'go', 'chuckl', 'time', 'give', 'call', 'chuckl', 'ken', 'attl', 'htm']

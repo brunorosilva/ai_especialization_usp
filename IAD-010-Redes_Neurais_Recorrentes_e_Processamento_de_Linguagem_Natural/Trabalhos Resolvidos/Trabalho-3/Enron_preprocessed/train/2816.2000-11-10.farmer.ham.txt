@@ -1,0 +1,2 @@
+0
+['subject', 'flow', 'w', 'nom', 'meter', 'last', 'deal', 'flow', 'meter', 'last', 'deal', 'flow']

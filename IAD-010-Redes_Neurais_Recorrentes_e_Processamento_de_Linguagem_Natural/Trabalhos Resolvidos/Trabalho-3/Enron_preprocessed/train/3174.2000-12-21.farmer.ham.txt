@@ -1,0 +1,2 @@
+0
+['subject', 'global', 'octan', 'finish', 'visit', 'counsel', 'need', 'start', 'buyback', 'global', 'octan', 'tomorrow']

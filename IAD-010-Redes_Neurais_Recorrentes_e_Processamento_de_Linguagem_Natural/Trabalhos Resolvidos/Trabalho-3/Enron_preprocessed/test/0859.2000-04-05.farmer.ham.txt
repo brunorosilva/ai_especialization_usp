@@ -1,0 +1,2 @@
+0
+['subject', 'buyback', 'defici', 'deal', 'worksheet', 'pleas', 'make', 'follow', 'chang', 'redistribut', 'worksheet', 'thank', 'pleas', 'updat', 'equistar', 'swing', 'sitara', 'ticket', 'equistar', 'sale', 'reflect', 'various', 'due', 'differ', 'deal', 'associ', 'counterparti', 'valero', 'market', 'suppli', 'undertak', 'sitara', 'ticket', 'follow', 'mtr', 'mtr', 'mtr', 'valero', 'market']

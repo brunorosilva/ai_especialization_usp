@@ -1,0 +1,2 @@
+0
+['subject', 'sale', 'hpl', 'propos', 'sale', 'hpl', 'american', 'electr', 'power', 'aep', 'sign', 'condit', 'acquisit', 'complet', 'within', 'come', 'month', 'next', 'day', 'forward', 'detail', 'transit', 'process', 'detail', 'outlin', 'employ', 'opportun', 'transfer', 'process', 'aep', 'aep', 'eager', 'complet', 'arrang', 'pipelin', 'onli', 'valuabl', 'peopl', 'oper', 'dure', 'transit', 'period', 'import', 'keep', 'pipe', 'line', 'oper', 'histor', 'level', 'reliabl', 'order', 'meet', 'energi', 'need', 'custom', 'regard', 'brian']

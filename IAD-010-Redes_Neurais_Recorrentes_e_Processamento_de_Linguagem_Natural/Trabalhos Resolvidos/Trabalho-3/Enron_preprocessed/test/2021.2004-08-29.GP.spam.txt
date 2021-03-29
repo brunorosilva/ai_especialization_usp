@@ -1,0 +1,2 @@
+1
+['subject', 'fw', 'slutti', 'ladi', 'dvd', 'qualiti', 'movi', 'rise', 'shine', 'good', 'luck', 'woman', 'pic', 'characetr', 'copeemlt', 'fashioend', 'nakemiin', 'q', 'w']

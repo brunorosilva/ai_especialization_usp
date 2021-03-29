@@ -1,0 +1,2 @@
+0
+['subject', 'receiv', 'fax', 'cp', 'l', 'june', 'nomin', 'k', 'day']

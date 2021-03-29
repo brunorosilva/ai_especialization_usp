@@ -1,0 +1,2 @@
+0
+['subject', 'urgent', 'ed', 'request', 'compil', 'list', 'morn', 'parti', 'point', 'owe', 'gas', 'event', 'need', 'find', 'home', 'excess', 'volum', 'today', 'pleas', 'email', 'list', 'ani', 'meter', 'contract', 'awar', 'compil', 'interim', 'list', 'base', 'upon', 'rtu', 'varianc', 'report', 'march', 'howev', 'want', 'reli', 'list', 'may', 'engag', 'balanc', 'meter', 'varianc', 'thank', 'mari']

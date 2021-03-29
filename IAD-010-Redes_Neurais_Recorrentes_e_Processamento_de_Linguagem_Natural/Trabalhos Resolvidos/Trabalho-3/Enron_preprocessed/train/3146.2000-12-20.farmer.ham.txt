@@ -1,0 +1,2 @@
+0
+['subject', 'stacey', 'cqg', 'daren', 'complet', 'forgot', 'stacey', 'cqg', 'suppos', 'send', 'anoth', 'request', 'put', 'tom', 'cost', 'center', 'go', 'wait', 'tom', 'okay', 'first']

@@ -1,0 +1,2 @@
+0
+['subject', 'ua', 'daren', 'current', 'work', 'clear', 'ua', 'issu', 'look', 'valid', 'contract', 'meter', 'meter', 'deal', 'current', 'k', 'volum', 'month', 'sept', 'deadlin', 'tuesday', 'jan', 'pleas', 'advis', 'contract', 'volum', 'belong', 'thank', 'aime']

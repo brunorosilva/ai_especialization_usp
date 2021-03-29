@@ -1,0 +1,2 @@
+0
+['subject', 'look', 'import', 'ok', 'hope', 'got', 'attent', 'want', 'confirm', 'vacat', 'day', 'april', 'may', 'august', 'pleas', 'let', 'know', 'calendar', 'thank']

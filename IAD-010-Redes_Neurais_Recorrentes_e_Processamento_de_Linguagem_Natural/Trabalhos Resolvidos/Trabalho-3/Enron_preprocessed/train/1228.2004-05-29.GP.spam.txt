@@ -1,0 +1,2 @@
+1
+['subject', 'nurs', 'militari', 'cop', 'women', 'uniform', 'click', 'remov']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'expect', 'volum', 'subject', 'deal', 'chang', 'effect', 'meter', 'trade', 'zone', 'counterparti', 'kcs', 'resourc', 'bob']

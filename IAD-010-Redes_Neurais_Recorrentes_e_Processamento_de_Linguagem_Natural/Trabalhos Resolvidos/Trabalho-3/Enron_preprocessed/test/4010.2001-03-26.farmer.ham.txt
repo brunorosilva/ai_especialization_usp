@@ -1,0 +1,2 @@
+0
+['subject', 'spot', 'deal', 'april', 'follow', 'enter', 'spot', 'deal', 'april', 'deal', 'counterparti', 'meter', 'trade', 'zone', 'volum', 'amerada', 'hess', 'anadarko', 'apach', 'corp', 'barrett', 'res', 'stone', 'energi', 'cima', 'energi', 'crosstex', 'crosstex', 'crosstex', 'comstock', 'duke', 'energi', 'embassi', 'el', 'paso', 'mer', 'el', 'paso', 'mer', 'four', 'squar', 'helmerich', 'p', 'hesco', 'hurd', 'ent', 'ocean', 'en', 'phillip', 'ranger', 'oil', 'seneca', 'res', 'houston', 'ex', 'pure', 'res', 'tri', 'union', 'white', 'petr', 'bob']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'ces', 'lila', 'allen', 'yes', 'confirm', 'fw', 'rabalai', 'agent', 'dalla', 'aka', 'sam', 'allen', 'put', 'lila', 'allen', 'name', 'pleas', 'chang', 'deal', 'sam', 'allen', 'dalla', 'explor', 'ami', 'megan', 'parker', 'juli', 'meyer', 'hou', 'ect', 'ect', 'cc', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'subject', 'deal', 'ces', 'lila', 'allen', 'look', 'global', 'dalla', 'explor', 'put', 'deal', 'dalla', 'explor', 'set', 'columbia', 'letter', 'gisb', 'contract', 'sam', 'allen', 'pay', 'dalla', 'explor', 'megan']

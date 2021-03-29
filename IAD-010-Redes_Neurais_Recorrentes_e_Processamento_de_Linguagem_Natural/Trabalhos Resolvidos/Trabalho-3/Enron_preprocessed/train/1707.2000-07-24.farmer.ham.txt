@@ -1,0 +1,2 @@
+0
+['subject', 'meoh', 'plant', 'status', 'methanol', 'plant', 'still', 'target', 'begin', 'make', 'spec', 'methanol', 'friday', 'juli', 'plant', 'may', 'start', 'take', 'natur', 'gas', 'late', 'tuesday', 'juli', 'becaus', 'dredg', 'oxi', 'dock', 'barg', 'load', 'juli', 'august']

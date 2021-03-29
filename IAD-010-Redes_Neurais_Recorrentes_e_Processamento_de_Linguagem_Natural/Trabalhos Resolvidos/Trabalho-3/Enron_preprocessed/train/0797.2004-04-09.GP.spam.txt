@@ -1,0 +1,2 @@
+1
+['subject', 'doctor', 'aipprov', 'cia', 'lls', 'lev', 'itra', 'e', 'nlarg', 'p', 'e', 'n', 'week', 'use', 'internet', 'obtain', 'p', 'rescript', 'edic', 'straight', 'door', 'never', 'easi', 'v', 'e', 'r', 'e', 'r', 'h', 'e', 'r', 'e']

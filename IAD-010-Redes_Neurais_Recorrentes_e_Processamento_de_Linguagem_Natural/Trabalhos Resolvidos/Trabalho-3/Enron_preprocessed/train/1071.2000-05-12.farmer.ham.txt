@@ -1,0 +1,2 @@
+0
+['subject', 'dave', 'n', 'pocket', 'next', 'week', 'beyond', 'class', 'next', 'week', 'hyatt', 'unifi', 'perform', 'issu', 'need', 'immedi', 'attent', 'pleas', 'call', 'jim', 'ogg', 'kishor', 'b', 'russ', 'whitton', 'alreadi', 'pager', 'number', 'also', 'next', 'month', 'offic', 'space', 'gut', 'built', 'locat', 'allen', 'center', 'th', 'floor', 'conveni', 'phone', 'number', 'feel', 'free', 'send', 'postcard', 'n']

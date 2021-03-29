@@ -1,0 +1,2 @@
+0
+['subject', 'guadalup', 'intraday', 'fyi', 'guadalup', 'plant', 'go', 'today', 'therefor', 'get', 'gas', 'oasi', 'took', 'aec', 'back', 'aquila', 'header', 'move', 'deal', 'reflect', 'wgr', 'aquila', 'header', 'guadalup', 'deal', 'said', 'chanc', 'tomorrow', 'let', 'know', 'ani', 'question', 'mark']

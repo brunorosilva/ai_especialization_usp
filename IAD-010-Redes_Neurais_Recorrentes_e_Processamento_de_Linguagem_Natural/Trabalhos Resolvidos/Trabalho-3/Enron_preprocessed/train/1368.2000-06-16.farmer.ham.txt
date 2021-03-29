@@ -1,0 +1,2 @@
+0
+['subject', 'ei', 'revis', 'avail', 'effect', 'tennesse', 'p', 'l', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'steve', 'holm', 'cc', 'subject', 'ei', 'revis', 'avail', 'effect', 'tennesse', 'p', 'l', 'receiv', 'notif', 'eugen', 'island', 'platform', 'shut', 'day', 'drill', 'rig', 'move', 'locat', 'notifi', 'monday', 'morn', 'status', 'thank', 'steve', 'ei', 'reveffo', 'xls']

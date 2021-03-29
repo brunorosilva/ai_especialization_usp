@@ -1,0 +1,2 @@
+1
+['subject', 'hello', 'sent', 'email', 'day', 'ago', 'becaus', 'qualifi', 'new', 'mortgag', 'could', 'get', 'littl', 'month', 'bad', 'credit', 'problem', 'pull', 'cash', 'refin', 'best', 'regard', 'candi', 'hast', 'thank', 'snail', 'mail', 'rua', 'dcoa', 'imstprens', 'l', 'r', 'c', 'bloco', 'lk', 'map', 'utou', 'oz', 'aambiqu']

@@ -1,0 +1,2 @@
+0
+['subject', 'central', 'power', 'light', 'daren', 'deal', 'cp', 'l', 'feb', 'cp', 'l', 'show', 'look', 'mop', 'deal', 'verifi', 'whether', 'deal', 'day', 'thank', 'aime', 'forward', 'aime', 'lannou', 'hou', 'ect', 'pm', 'rebecca', 'griffin', 'enron', 'pm', 'aime', 'lannou', 'hou', 'ect', 'ect', 'cc', 'subject', 'central', 'power', 'light', 'aime', 'receiv', 'call', 'cp', 'l', 'februari', 'product', 'invoic', 'show', 'mmbtu', 'februari', 'hpl', 'show', 'anyth', 'hpl', 'day', 'could', 'verifi', 'correct', 'thank', 'help', 'rebecca']

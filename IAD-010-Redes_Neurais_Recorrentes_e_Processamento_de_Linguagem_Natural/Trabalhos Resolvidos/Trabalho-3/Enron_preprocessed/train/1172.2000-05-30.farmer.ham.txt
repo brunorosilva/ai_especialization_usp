@@ -1,0 +1,2 @@
+0
+['subject', 'smi', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'jacquelin', 'blanchard', 'cc', 'subject', 'smi', 'ami', 'pleas', 'advis', 'revis', 'avail', 'smi', 'pleas', 'see', 'attach', 'sheet', 'thank', 'jacquelin', 'blanchard', 'contract', 'analyst', 'devon', 'energi', 'corpor', 'jacquelin', 'blanchard', 'dvn', 'com', 'text', 'htm', 'smi', 'xls']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'extend', 'meter', 'accord', 'meter', 'statement', 'overflow', 'novemb', 'meter', 'follow', 'deal', 'need', 'extend', 'onli', 'thank', 'need', 'inform', 'pleas', 'let', 'know', 'karen']

@@ -1,0 +1,2 @@
+0
+['subject', 'dow', 'trspt', 'assum', 'yes', 'realli', 'anyth', 'one', 'ani', 'insight', 'gari', 'daren', 'mari', 'smith', 'pm', 'lauri', 'allen', 'hou', 'ect', 'ect', 'cc', 'subject', 'dow', 'trspt', 'dow', 'k', 'termin', 'therefor', 'new', 'k', 'setup', 'question', 'doe', 'rate', 'remain', 'oasi', 'kati', 'dow', 'stratton', 'let', 'know', 'thank', 'mari']

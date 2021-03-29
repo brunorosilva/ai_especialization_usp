@@ -1,0 +1,2 @@
+0
+['subject', 'firm', 'transport', 'propos', 'lone', 'star', 'kerrvill', 'daren', 'per', 'request', 'attach', 'year', 'propos', 'firm', 'transport', 'oasi', 'deliv', 'gas', 'lone', 'star', 'kerrvill', 'ani', 'question', 'pleas', 'feel', 'free', 'give', 'call', 'john', 'lopez', 'enakervill', 'doc']

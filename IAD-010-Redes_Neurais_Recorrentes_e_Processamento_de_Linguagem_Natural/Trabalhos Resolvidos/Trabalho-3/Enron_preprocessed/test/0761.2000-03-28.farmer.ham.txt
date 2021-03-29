@@ -1,0 +1,2 @@
+0
+['subject', 'mtbe', 'upset', 'mtbe', 'plant', 'determin', 'full', 'product', 'attain', 'sooner', 'first', 'forecast', 'product', 'mtbe', 'plant', 'remain', 'approxim', 'mbd', 'today', 'tomorrow', 'mbd', 'thursday', 'march', 'mbd', 'start', 'friday', 'march']

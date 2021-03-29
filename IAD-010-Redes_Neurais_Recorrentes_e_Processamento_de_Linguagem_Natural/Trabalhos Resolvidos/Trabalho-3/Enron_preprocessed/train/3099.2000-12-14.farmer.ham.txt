@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'hpl', 'kmid', 'seven', 'oak', 'daren', 'abov', 'meter', 'record', 'flow', 'mmbtus', 'deal', 'meter', 'dure', 'novemb', 'decemb', 'logist', 'need', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'pleas', 'print', 'sign', 'return', 'origin', 'clem', 'cernosek', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'loss', 'thank', 'clem', 'cernosek']

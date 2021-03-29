@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'canal', 'king', 'ranch', 'balanc', 'issu', 'sis', 'averag', 'day', 'big', 'cowboy', 'pretti', 'dead', 'carol', 'would', 'like', 'us', 'gross', 'saxet', 'base', 'number', 'flow', 'day', 'left', 'nomin', 'plant', 'take', 'payback', 'account', 'mari']

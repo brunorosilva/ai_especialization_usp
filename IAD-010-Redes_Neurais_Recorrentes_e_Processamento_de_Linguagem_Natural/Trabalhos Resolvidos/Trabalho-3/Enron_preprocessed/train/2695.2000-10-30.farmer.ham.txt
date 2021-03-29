@@ -1,0 +1,2 @@
+0
+['subject', 'octob', 'deal', 'daren', 'alloc', 'except', 'requir', 'deal', 'extend', 'meter', 'tenaska', 'show', 'small', 'volum', 'flow', 'day', 'deal', 'extend', 'deal', 'throughout', 'month', 'volum', 'deal', 'link', 'situat', 'meter', 'ani', 'question', 'pleas', 'let', 'know', 'thank', 'susan']

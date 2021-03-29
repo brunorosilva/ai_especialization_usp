@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'deal', 'commit', 'reserv', 'long', 'term', 'gas', 'total', 'mm', 'per', 'day', 'good', 'deal', 'howev', 'deal', 'duplic', 'deal', 'overst', 'zero', 'bad', 'deal', 'vanc', 'respons', 'inquiri', 'made', 'bob', 'daren', 'want', 'zero', 'deal']

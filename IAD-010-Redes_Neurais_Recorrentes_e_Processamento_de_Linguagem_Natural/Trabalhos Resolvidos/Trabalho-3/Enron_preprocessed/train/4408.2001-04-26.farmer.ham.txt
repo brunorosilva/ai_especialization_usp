@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'crosstex', 'energi', 'driscol', 'ranch', 'meter', 'reinhardt', 'donald', 'p', 'riley', 'brian', 'smith', 'susan', 'walker', 'robert', 'weissman', 'georg', 'subject', 'crosstex', 'energi', 'driscol', 'ranch', 'meter', 'may', 'per', 'section', 'gpa', 'crosstex', 'elect', 'sell', 'gas', 'approxim', 'baseload', 'month', 'may', 'hsc', 'thank', 'jab']

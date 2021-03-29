@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'liquid', 'exxon', 'deal', 'number', 'hpl', 'liquid', 'exxon', 'mobil']

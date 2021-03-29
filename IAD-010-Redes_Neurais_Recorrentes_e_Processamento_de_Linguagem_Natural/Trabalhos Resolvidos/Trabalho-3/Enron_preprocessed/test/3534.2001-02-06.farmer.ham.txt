@@ -1,0 +1,2 @@
+0
+['subject', 'cleburn', 'plant', 'mainten', 'updat', 'fyi', 'check', 'ken', 'reisz', 'tenaska', 'iv', 'afternoon', 'mainten', 'complet', 'point', 'still', 'track', 'come', 'back', 'th', 'sometim', 'howev', 'say', 'gotten', 'look', 'everyth', 'yet', 'expect', 'better', 'idea', 'downtim', 'morn', 'said', 'would', 'call', 'mari', 'latest', 'news', 'mari', 'pleas', 'check', 'thursday', 'see', 'need', 'nom', 'gas', 'lonestar', 'thank', 'mark']

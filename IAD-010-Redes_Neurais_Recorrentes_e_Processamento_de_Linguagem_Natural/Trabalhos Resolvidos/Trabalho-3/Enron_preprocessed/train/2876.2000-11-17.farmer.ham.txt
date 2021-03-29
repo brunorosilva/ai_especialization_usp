@@ -1,0 +1,2 @@
+0
+['subject', 'tx', 'gen', 'land', 'offic', 'oct', 'prod', 'daren', 'deal', 'sale', 'deal', 'purchas', 'settlement', 'show', 'sale', 'purchas', 'texa', 'general', 'land', 'offic', 'state', 'bill', 'paid', 'anyth', 'deal', 'suppos', 'washout', 'net', 'togeth', 'volum', 'match', 'sale', 'hpl', 'mmbtus', 'deal', 'purchas', 'midtx', 'mmbtus', 'let', 'know', 'type', 'deal', 'intend', 'fyi', 'told', 'tom', 'acton', 'handl', 'deal', 'believ', 'thanksgiv']

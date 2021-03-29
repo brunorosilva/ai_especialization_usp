@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'methanol', 'maro', 'siatar', 'need', 'make', 'adjust', 'risk', 'assign', 'etc', 'made', 'chang', 'book', 'deal', 'march', 'enron', 'methanol', 'take', 'zero', 'volum', 'mainten', 'forc', 'majeur', 'situat', 'march', 'take', 'price', 'gas', 'daili', 'hsc', 'mid', 'flat', 'thank', 'lee']

@@ -1,0 +1,2 @@
+0
+['subject', 'union', 'carbid', 'fax', 'contract', 'follow', 'aa']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'daren', 'stacey', 'offic', 'today', 'hope', 'help', 'deal', 'origin', 'set', 'nom', 'chang', 'show', 'purchas', 'conoco', 'hplc', 'get', 'addit', 'sitara', 'show', 'hplc', 'im', 'wellhead', 'joani', 'ngo', 'say', 'txu', 'say', 'bought', 'tri', 'back', 'track', 'purchas', 'invoic', 'see', 'invoic']

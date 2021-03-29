@@ -1,0 +1,2 @@
+1
+['subject', 'hello', 'sent', 'email', 'day', 'ago', 'becaus', 'qualifi', 'new', 'mortgag', 'could', 'get', 'littl', 'month', 'credit', 'problem', 'pull', 'cash', 'refin', 'best', 'regard', 'bret', 'thompson', 'thank']

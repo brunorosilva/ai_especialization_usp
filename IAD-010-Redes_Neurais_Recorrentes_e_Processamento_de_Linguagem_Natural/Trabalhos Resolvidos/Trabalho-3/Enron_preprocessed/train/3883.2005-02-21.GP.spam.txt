@@ -1,0 +1,2 @@
+1
+['subject', 'use', 'link', 'get', 'inform', 'rx', 'meed', 'deliv', 'speedi', 'parcel', 'post', 'costless', 'profession', 'prescriiptt', 'attach', 'low', 'price', 'med', 'asthma', 'allergi', 'paain', 'relief', 'xieti', 'relief', 'depres', 'relief', 'hypertens', 'alzheim', 'heart', 'diseas', 'http', 'jf', 'com', 'apostategood', 'com', 'grade', 'way', 'behind', 'histori', 'flimbot', 'bppms', 'eidd', 'cnrm', 'algaz', 'landscap', 'burn', 'red', 'titl', 'channel', 'z', 'get', 'noth', 'static', 'get', 'noth', 'static']

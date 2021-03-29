@@ -1,0 +1,2 @@
+0
+['subject', 'cross', 'train', 'attempt', 'continu', 'cross', 'train', 'desk', 'jacki', 'susan', 'switch', 'duti', 'jacki', 'start', 'train', 'susan', 'desk', 'susan', 'jacki', 'transit', 'last', 'march', 'final', 'april', 'busi', 'import', 'start', 'communic', 'chang', 'custom', 'make', 'smooth', 'possibl', 'thank', 'pat']

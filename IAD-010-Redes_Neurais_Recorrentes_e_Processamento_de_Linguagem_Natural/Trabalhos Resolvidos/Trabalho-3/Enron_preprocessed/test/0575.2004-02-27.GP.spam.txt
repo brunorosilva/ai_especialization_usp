@@ -1,0 +1,2 @@
+1
+['subject', 'fwd', 'need', 'xianax', 'vl', 'gra', 'v', 'lium', 'fioric', 'pnte', 'r', 'min', 'oiv', 'give', 'power', 'make', 'educ', 'choic', 'treatment', 'approach', 'medic', 'go', 'take', 'highest', 'qualiti', 'drug', 'offer', 'x', 'nax', 'plus', 'acyc', 'vir', 'pr', 'z', 'c', 'p', 'xi', 'l', 'bus', 'p', 'r', 'ad', 'pex', 'ionam', 'n', 'ri', 'dia', 'x', 'ni', 'ca', 'mbi', 'n', 'sona', 'ta', 'f', 'l', 'xeril', 'ce', 'br', 'ex', 'fi', 'ric', 'tram', 'u', 'tr', 'l', 'vit', 'ra', 'prop', 'ci', 'requir', 'ani', 'prescript', 'comfort', 'conveni', 'prime', 'concern']

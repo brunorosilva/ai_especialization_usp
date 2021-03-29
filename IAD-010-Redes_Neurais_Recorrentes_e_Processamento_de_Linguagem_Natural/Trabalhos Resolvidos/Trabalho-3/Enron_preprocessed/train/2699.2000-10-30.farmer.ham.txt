@@ -1,0 +1,2 @@
+0
+['subject', 'sale', 'rhone', 'poul', 'meter', 'sale', 'abov', 'referenc', 'meter', 'begin', 'th', 'octob', 'gas', 'flow', 'first', 'four', 'day', 'without', 'deal', 'pleas', 'input', 'deal', 'cover', 'thank', 'mari']

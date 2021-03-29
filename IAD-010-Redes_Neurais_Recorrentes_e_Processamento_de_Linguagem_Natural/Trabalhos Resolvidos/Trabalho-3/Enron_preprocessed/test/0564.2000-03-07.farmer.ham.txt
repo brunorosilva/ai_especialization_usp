@@ -1,0 +1,2 @@
+0
+['subject', 'would', 'object', 'map', 'east', 'texa', 'gas', 'system', 'carthag', 'curv', 'oppos', 'texoma', 'curv']

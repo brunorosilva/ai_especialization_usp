@@ -1,0 +1,2 @@
+0
+['subject', 'ei', 'revis', 'avail', 'effect', 'columbia', 'gulf', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'ei', 'revis', 'avail', 'effect', 'columbia', 'gulf', 'pleas', 'see', 'attach', 'revis', 'effect', 'thank', 'steve', 'holm', 'devon', 'energi', 'corpor', 'steve', 'holm', 'dvn', 'com', 'ei', 'reveffo', 'xls']

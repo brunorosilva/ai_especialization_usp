@@ -1,0 +1,2 @@
+0
+['subject', 'decreas', 'entex', 'rom', 'dth', 'day', 'dth', 'day', 'total']

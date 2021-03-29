@@ -1,0 +1,2 @@
+0
+['subject', 'manag', 'coach', 'program', 'fyi', 'forward', 'brenda', 'f', 'herod', 'hou', 'ect', 'vogelfang', 'jill', 'pm', 'bherod', 'enron', 'com', 'cc', 'cousino', 'lisa', 'dawson', 'dwight', 'subject', 'manag', 'coach', 'program', 'brenda', 'want', 'let', 'know', 'chang', 'coach', 'staff', 'dwight', 'dawson', 'continu', 'coach', 'work', 'daren', 'farmer', 'pleas', 'let', 'daren', 'know', 'receiv', 'call', 'dwight', 'earli', 'next', 'week', 'ani', 'question', 'pleas', 'contact', 'jrv', 'teamlead', 'com', 'take', 'care', 'jill']

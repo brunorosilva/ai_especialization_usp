@@ -1,0 +1,2 @@
+0
+['subject', 'feb', 'th', 'sale', 'aquila', 'fyi', 'daren', 'th', 'sale', 'aquila', 'header', 'system', 'think', 'suppli', 'aec', 'whatev', 'reason', 'aec', 'midcon', 'isnt', 'right', 'becaus', 'market', 'midcon', 'wasnt', 'look', 'aquila', 'deal', 'wgr', 'aquila', 'went', 'ahead', 'chang', 'aec', 'ticket', 'match', 'aquila', 'deal', 'let', 'know', 'think', 'incorrect', 'thank', 'mark']

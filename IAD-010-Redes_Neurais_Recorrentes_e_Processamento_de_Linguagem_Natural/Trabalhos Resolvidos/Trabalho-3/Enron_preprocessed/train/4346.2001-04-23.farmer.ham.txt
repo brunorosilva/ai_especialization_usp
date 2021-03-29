@@ -1,0 +1,2 @@
+0
+['subject', 'oasi', 'transport', 'imbal', 'current', 'mth', 'k', 'due', 'oasi', 'k', 'due', 'hpl', 'cumul', 'k', 'due', 'oasi', 'k', 'due', 'hpl']

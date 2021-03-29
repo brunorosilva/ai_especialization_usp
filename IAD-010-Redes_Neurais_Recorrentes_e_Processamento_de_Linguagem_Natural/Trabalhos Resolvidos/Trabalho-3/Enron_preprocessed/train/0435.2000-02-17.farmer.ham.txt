@@ -1,0 +1,2 @@
+0
+['subject', 'oper', 'expens', 'k', 'midtex', 'pipelin', 'daren', 'sorri', 'complet', 'forgot', 'provid', 'meter', 'total', 'eight', 'pleas', 'let', 'know', 'set', 'thank', 'thu']

@@ -1,0 +1,2 @@
+0
+['subject', 'retroact', 'adjust', 'follow', 'volum', 'adjust', 'enter', 'today', 'retroact', 'deal', 'meter', 'tr', 'zn', 'price', 'gas', 'daili', 'bob']

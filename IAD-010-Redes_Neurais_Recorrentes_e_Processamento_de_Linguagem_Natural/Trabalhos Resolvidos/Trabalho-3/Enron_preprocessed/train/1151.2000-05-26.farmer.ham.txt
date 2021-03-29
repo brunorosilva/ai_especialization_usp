@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'chang', 'effect', 'may', 'sg', 'marshal', 'hpl', 'meter', 'forward', 'tom', 'acton', 'corp', 'enron', 'suzann', 'saldivar', 'eogresourc', 'com', 'pm', 'charlott', 'hawkin', 'enron', 'com', 'cc', 'tacton', 'enron', 'com', 'crodrig', 'enron', 'com', 'subject', 'nom', 'chang', 'effect', 'may', 'sg', 'marshal', 'hpl', 'meter', 'due', 'loss', 'product', 'sg', 'marshal', 'leas', 'nom', 'chang', 'mmbtu', 'hpl', 'meter', 'deliveri', 'hpl', 'thompsonvill', 'pg', 'e', 'meter', 'effect', 'may', 'pleas', 'call', 'ani', 'question', 'thank']

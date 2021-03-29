@@ -1,0 +1,2 @@
+1
+['subject', 'econom', 'recip', 'assist', 'economis', 'cost', 'recip', 'medicin', 'drug', 'worth', 'much', 'less', 'retail', 'apothecari', 'shop', 'altern', 'examin', 'cost']

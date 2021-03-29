@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'nomin', 'mmbtu', 'eastran', 'hpl', 'wed', 'mmbtu', 'redeliv', 'pg', 'e', 'mmbtu', 'redeliv', 'hpl', 'fuel', 'cotton', 'valley', 'mmbtu', 'hpl', 'cartwhel', 'carthag', 'mmbtu', 'mobil', 'beumont', 'hsc', 'mmbtu', 'mobil', 'beaumont', 'hsc', 'sherri', 'got', 'write', 'work', 'thank']

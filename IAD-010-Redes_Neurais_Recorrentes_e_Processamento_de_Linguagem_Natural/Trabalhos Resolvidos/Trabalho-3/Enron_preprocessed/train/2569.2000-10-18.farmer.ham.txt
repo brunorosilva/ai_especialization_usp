@@ -1,0 +1,2 @@
+0
+['subject', 'wacog', 'sale', 'cannon', 'winter', 'accord', 'contract', 'price', 'gas', 'sell', 'back', 'cannon', 'wacog', 'bought', 'summer', 'calcul', 'wacog', 'let', 'know', 'ani', 'question', 'comment', 'dave']

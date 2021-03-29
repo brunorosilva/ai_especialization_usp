@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'robert', 'goerner', 'follow', 'resum', 'robert', 'goerner', 'current', 'reliant', 'pipelin', 'account', 'salari', 'k', 'refer', 'karen', 'lindley']

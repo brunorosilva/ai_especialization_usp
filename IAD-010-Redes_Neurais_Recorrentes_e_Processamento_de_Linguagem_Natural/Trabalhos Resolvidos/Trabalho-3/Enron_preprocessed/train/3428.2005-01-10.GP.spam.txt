@@ -1,0 +1,2 @@
+1
+['subject', 'left', 'watch', 'hous', 'authent', 'reproduct', 'watch', 'offer', 'trademark', 'avail', 'bvlgari', 'chopard', 'glashut', 'origin', 'officin', 'panerai', 'ikepod']

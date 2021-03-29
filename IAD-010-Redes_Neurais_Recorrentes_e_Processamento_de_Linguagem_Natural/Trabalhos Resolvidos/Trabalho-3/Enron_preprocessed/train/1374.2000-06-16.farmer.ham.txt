@@ -1,0 +1,2 @@
+0
+['subject', 'ei', 'smi', 'revis', 'avail', 'effect', 'searobin', 'p', 'l', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'ei', 'smi', 'revis', 'avail', 'effect', 'searobin', 'p', 'l', 'chang', 'garden', 'bank', 'effect', 'send', 'document', 'revis', 'made', 'decreas', 'due', 'sea', 'robin', 'plant', 'come', 'back', 'onlin', 'afternoon', 'thank', 'steve', 'thank', 'way', 'never', 'got', 'ani', 'document', 'gbl', 'chang', 'effect', 'could', 'send', 'someth', 'ami', 'record', 'gbl', 'reveffo', 'xls']

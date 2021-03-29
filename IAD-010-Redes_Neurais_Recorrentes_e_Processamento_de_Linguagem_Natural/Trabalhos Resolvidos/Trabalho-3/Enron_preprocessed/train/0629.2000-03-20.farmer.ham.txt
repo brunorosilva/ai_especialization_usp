@@ -1,0 +1,2 @@
+0
+['subject', 'midtex', 'daren', 'need', 'servic', 'list', 'contract', 'set', 'ena', 'midtex', 'line', 'feb', 'march', 'forward', 'meter', 'deal', 'xprtung', 'doe', 'ena', 'valid', 'contract', 'ship', 'midtexa', 'line', 'volum', 'manag', 'would', 'like', 'done', 'befor', 'close', 'pleas', 'let', 'know', 'aime']

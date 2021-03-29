@@ -1,0 +1,2 @@
+0
+['subject', 'bammel', 'egg', 'hunt', 'bammelyoungfamili', 'listbot', 'sponsor', 'build', 'market', 'databas', 'send', 'target', 'html', 'text', 'e', 'mail', 'newslett', 'custom', 'list', 'builder', 'http', 'www', 'listbuild', 'com', 'unsubscrib', 'write', 'unsubscrib', 'listbot', 'com']

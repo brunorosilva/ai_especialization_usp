@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'eol', 'waha', 'mari', 'pleas', 'care', 'eol', 'deal', 'got', 'call', 'friday', 'even', 'deal', 'chang', 'alreadi', 'left', 'deal', 'aquila', 'volum', 'chang', 'pleas', 'check', 'communic', 'chang', 'daren', 'thank', 'pat']

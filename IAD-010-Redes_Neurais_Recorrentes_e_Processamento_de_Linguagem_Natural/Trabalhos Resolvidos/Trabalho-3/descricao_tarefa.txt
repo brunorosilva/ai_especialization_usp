@@ -1,0 +1,5 @@
+Nesta tarefa, você vai criar um classificador bayesiano ingênuo para classificar mensagens de e-mail da Enron como spam ou ham.
+
+As instruções detalhadas encontram-se no notebook sobre classificadores neste mesmo tópico.
+
+

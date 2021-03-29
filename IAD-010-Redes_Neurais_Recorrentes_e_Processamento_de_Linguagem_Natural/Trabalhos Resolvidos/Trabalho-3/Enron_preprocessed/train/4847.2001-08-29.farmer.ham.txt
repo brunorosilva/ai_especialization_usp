@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'net', 'work', 'e', 'polici', 'enw', 'employe', 'greg', 'piper', 'mark', 'picker', 'pleas', 'print', 'becom', 'familiar', 'updat', 'enw', 'e', 'polici', 'attach', 'chang', 'polici', 'includ', 'busi', 'first', 'travel', 'supervisor', 'approv', 'intern', 'flight', 'hour', 'durat', 'exclud', 'canada', 'mexico', 'supervisor', 'respons', 'make', 'decis', 'bear', 'expens', 'busi', 'first', 'travel', 'ani', 'question', 'polici', 'expens', 'cover', 'polici', 'pleas', 'contact', 'tina', 'spiller', 'lisa', 'costello']

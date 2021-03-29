@@ -1,0 +1,2 @@
+0
+['subject', 'communic', 'effect', 'cours', 'offer', 'daren', 'effect', 'communic', 'cours', 'decemb', 'thursday', 'pm', 'one', 'suggest', 'may', 'attend', 'one', 'pleas', 'let', 'know', 'list', 'erni', 'thank', 'look']

@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'nom', 'eastran', 'revis', 'nom', 'follow', 'due', 'inabl', 'hpl', 'receiv', 'lone', 'star', 'volum', 'redeliveri', 'chang', 'lone', 'star', 'pg', 'e', 'fro', 'fuel', 'cotton', 'valley', 'total', 'receipt', 'stay', 'mmbtu', 'follow', 'receipt', 'nom', 'remain', 'mmbtu', 'redeliveri', 'pg', 'e', 'fcv', 'intern', 'def', 'avail', 'day', 'tailgat']

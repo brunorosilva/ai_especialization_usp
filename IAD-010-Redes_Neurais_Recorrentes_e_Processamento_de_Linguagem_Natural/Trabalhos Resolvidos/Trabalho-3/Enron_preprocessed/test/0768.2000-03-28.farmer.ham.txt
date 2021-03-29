@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'rd', 'rev', 'mar', 'josey', 'ranch', 'nom', 'fyi', 'forward', 'susan', 'trevino', 'hou', 'ect', 'pm', 'bob', 'wither', 'pm', 'susan', 'trevino', 'e', 'mail', 'cc', 'subject', 'fw', 'rd', 'rev', 'mar', 'josey', 'ranch', 'nom', 'sorri', 'leav', 'send', 'list', 'inadvert', 'put', 'smith', 'instead', 'trevino', 'pop', 'chang', 'last', 'two', 'day', 'month', 'march', 'send', 'day', 'earlier', 'normal', 'deadlin', 'becaus', 'get', 'cover', 'april', 'bob', 'wither', 'kcs', 'energi', 'san', 'felip', 'suit', 'houston', 'tx', 'voic', 'mail', 'page']

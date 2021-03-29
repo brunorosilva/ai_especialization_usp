@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'may', 'would', 'assum', 'midcon']

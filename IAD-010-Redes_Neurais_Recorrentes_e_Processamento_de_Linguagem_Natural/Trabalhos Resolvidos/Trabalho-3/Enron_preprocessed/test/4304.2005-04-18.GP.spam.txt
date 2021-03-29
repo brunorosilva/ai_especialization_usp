@@ -1,0 +1,2 @@
+1
+['subject', 'reduc', 'wrinkl', 'tire', 'spend', 'extra', 'everi', 'purchas', 'medic', 'want', 'save', 'extra', 'buck', 'everi', 'purchas', 'whi', 'tri', 'onlinepharmaci', 'enjoy', 'promo', 'freebi', 'compar', 'cost', 'name', 'brand', 'find', 'onlin', 'elsewher', 'see', 'medic', 'clear', 'best', 'choic', 'remov', 'http', 'upz', 'htak', 'com', 'g', 'php']

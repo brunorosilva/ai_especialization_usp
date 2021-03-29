@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'calpin', 'month', 'averag', 'revis', 'darren', 'attach', 'april', 'schedul', 'calpin', 'averag', 'revis', 'thank', 'juli', 'x', 'origin', 'messag', 'ricki', 'archer', 'enron', 'sent', 'tuesday', 'march', 'pm', 'kemp', 'juliann', 'subject', 'calpin', 'month', 'averag', 'revis', 'ricki', 'archer', 'fuel', 'suppli', 'louisiana', 'suit', 'houston', 'texa', 'direct', 'fax', 'calpin', 'month', 'gas', 'nomin', 'doc']

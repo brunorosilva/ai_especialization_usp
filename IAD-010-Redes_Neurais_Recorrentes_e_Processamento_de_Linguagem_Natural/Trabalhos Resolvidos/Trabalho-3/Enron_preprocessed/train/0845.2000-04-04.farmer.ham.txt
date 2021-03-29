@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'methanol', 'meter', 'follow', 'note', 'gave', 'monday', 'preliminari', 'flow', 'data', 'provid', 'daren', 'pleas', 'overrid', 'pop', 'daili', 'volum', 'present', 'zero', 'reflect', 'daili', 'activ', 'obtain', 'gas', 'control', 'chang', 'need', 'asap', 'econom', 'purpos']

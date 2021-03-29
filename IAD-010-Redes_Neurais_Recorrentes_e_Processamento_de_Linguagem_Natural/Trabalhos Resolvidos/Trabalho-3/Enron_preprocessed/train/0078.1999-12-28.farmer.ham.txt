@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'black', 'marlin', 'meter', 'ua', 'revis', 'accord', 'measur', 'flow', 'howev', 'noth', 'indic', 'gas', 'receiv', 'hpl', 'oss', 'check', 'mip', 'measur', 'statement', 'support', 'flow', 'rate', 'mmbtu', 'daren', 'deal', 'cpr', 'may', 'fed', 'oss', 'check', 'oss', 'whole', 'year', 'deal', 'oss', 'doe', 'seem', 'strang', 'onli', 'month', 'flow', 'thank', 'stella']

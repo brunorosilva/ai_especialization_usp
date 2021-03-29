@@ -1,0 +1,2 @@
+0
+['subject', 'day', 'abov', 'referenc', 'day', 'place', 'stranger', 'gas', 'due', 'guess', 'meter', 'turn', 'time', 'day', 'prior', 'day', 'assess', 'stranger', 'gas', 'onli', 'activ', 'k', 'hpl', 'deal', 'roll', 'cover', 'coupl', 'day', 'thank', 'jacki']

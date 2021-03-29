@@ -1,0 +1,2 @@
+0
+['subject', 'april', 'flexibl', 'kati', 'gas', 'fyi', 'show', 'far', 'april', 'baseload', 'term', 'kati', 'flexibl', 'purchas', 'gas', 'oasi', 'meter', 'aquila', 'duke', 'richardson', 'conoco', 'total', 'flexibl', 'lonestar', 'meter', 'duke', 'inflex', 'mitchel', 'crosstex', 'baseload', 'sale', 'total', 'flexibl', 'thank', 'mark', 'x']

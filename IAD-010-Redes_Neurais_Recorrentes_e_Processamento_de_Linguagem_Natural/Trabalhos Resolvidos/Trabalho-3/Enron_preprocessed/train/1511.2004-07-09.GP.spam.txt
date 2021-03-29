@@ -1,0 +1,2 @@
+1
+['subject', 'rememb', 'interest', 'refin', 'anc', 'loan', 'awhil', 'back', 'well', 'got', 'amaz', 'small', 'month', 'repay', 'thought', 'tell', 'take', 'advantag', 'year', 'low', 'rate', 'mean', 'get', 'great', 'bargain', 'site', 'go', 'fill', 'quick', 'form', 'ave', 'ps', 'hope', 'enjoy', 'extra', 'c', 'ash', 'like', 'amestela', 'nomor', 'pleas', 'postal', 'address', 'rua', 'da', 'imprens', 'r', 'c', 'bloco', 'maputo', 'mozambiqu']

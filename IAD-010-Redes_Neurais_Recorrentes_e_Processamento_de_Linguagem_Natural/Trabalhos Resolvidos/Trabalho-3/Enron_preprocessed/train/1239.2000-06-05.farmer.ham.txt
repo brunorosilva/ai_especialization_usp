@@ -1,0 +1,2 @@
+0
+['subject', 'mari', 'poorman', 'interview', 'schedul', 'pleas', 'advis', 'interview', 'mari', 'poorman', 'held', 'today', 'room', 'schedul', 'follow', 'pat', 'clyne', 'lauri', 'allen', 'gari', 'hank', 'daren', 'farmer']

@@ -1,0 +1,2 @@
+0
+['subject', 'juli', 'transport', 'usag', 'ticket', 'input', 'updat', 'transport', 'usag', 'ticket', 'juli', 'updat', 'one', 'demand', 'charg', 'pgev', 'maypearl', 'deliveri', 'one', 'set', 'system', 'ani', 'question', 'pleas', 'let', 'know', 'also', 'pay', 'close', 'attent', 'oasi', 'pg', 'e', 'ticket', 'month', 'yet', 'know', 'baseload', 'rate', 'agre', 'upon', 'need', 'adjust', 'appropri', 'ticket', 'would', 'pleas', 'let', 'know', 'baseload', 'busi', 'rate', 'agre', 'upon', 'pipelin', 'thank', 'heidi']

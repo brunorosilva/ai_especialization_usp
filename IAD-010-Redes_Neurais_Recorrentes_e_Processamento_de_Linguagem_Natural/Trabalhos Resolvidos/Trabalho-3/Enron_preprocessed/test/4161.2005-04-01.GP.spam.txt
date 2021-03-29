@@ -1,0 +1,2 @@
+1
+['subject', 'get', 'ahead', 'life', 'euro']

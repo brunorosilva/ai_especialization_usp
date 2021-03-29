@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'nomin', 'deal', 'revis', 'today', 'effect', 'follow', 'c', 'p', 'meter', 'trade', 'zone', 'cokino', 'bob']

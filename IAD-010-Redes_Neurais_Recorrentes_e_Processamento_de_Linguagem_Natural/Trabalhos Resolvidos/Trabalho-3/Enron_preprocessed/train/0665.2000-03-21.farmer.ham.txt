@@ -1,0 +1,2 @@
+0
+['subject', 'receiv', 'attach', 'hotmail', 'address', 'get', 'juno', 'send', 'one', 'see', 'get', 'send', 'wild', 'thing', 'send', 'someth', 'jake', 'pleas', 'let', 'know', 'everyth', 'ok', 'jake', 'love', 'ya', 'get', 'privat', 'free', 'email', 'http', 'www', 'hotmail', 'com']

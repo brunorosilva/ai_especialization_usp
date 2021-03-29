@@ -1,0 +1,2 @@
+0
+['subject', 'mtbe', 'plant', 'shut', 'mtbe', 'plant', 'went', 'saturday', 'morn', 'may', 'result', 'power', 'failur', 'appar', 'lightn', 'knock', 'power', 'substat', 'oleflex', 'start', 'along', 'mtbe', 'plant', 'butam', 'product', 'expect', 'tonight', 'full', 'rain', 'possibl', 'attain', 'tomorrow']

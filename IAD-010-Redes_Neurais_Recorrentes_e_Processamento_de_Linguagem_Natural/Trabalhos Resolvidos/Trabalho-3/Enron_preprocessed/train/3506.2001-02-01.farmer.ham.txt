@@ -1,0 +1,2 @@
+0
+['subject', 'point', 'chang', 'tagg', 'deal', 'fyi', 'chang', 'meter', 'point', 'deal', 'duke', 'f', 'meter', 'effect', 'lst', 'thank', 'mark']

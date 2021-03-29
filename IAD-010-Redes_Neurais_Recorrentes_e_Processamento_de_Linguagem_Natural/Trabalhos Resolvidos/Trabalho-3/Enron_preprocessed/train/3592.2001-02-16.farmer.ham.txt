@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'actual', 'flow', 'th', 'th', 'liz', 'sorri', 'actual', 'th', 'late', 'receiv', 'today', 'agre', 'forward', 'melissa', 'jone', 'texa', 'util', 'kponton', 'duke', 'energi', 'com', 'david', 'avila', 'lsp', 'enserch', 'us', 'tu', 'charli', 'stone', 'texa', 'util', 'tu', 'melissa', 'jone', 'texa', 'util', 'tu', 'cc', 'dcspencer', 'duke', 'energi', 'com', 'subject', 'nom', 'actual', 'flow', 'th', 'th', 'day', 'nom', 'actual', 'flow', 'volum', 'mmbtu']

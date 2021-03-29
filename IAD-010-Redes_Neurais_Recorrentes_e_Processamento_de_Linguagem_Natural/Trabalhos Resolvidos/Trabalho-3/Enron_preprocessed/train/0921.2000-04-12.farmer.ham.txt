@@ -1,0 +1,2 @@
+0
+['subject', 'brandywin', 'meter', 'march', 'activ', 'attach', 'support', 'indic', 'gas', 'flow', 'zero', 'nomin', 'dure', 'month', 'march', 'deal', 'place', 'alloc', 'gas', 'flow', 'pleas', 'advis', 'want', 'activ', 'alloc']

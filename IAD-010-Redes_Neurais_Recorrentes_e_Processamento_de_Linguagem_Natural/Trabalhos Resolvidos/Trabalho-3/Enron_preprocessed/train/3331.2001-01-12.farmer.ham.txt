@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'texoma', 'p', 'gsu', 'hpl', 'clem', 'record', 'flow', 'mmbtu', 'move', 'stranger', 'gas', 'contract', 'write', 'purpos', 'bob']

@@ -1,0 +1,2 @@
+0
+['subject', 'formosa', 'meter', 'buyback', 'ticket', 'formosa', 'dure', 'august', 'activ', 'deal', 'expir', 'juli']

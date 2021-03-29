@@ -1,0 +1,2 @@
+0
+['subject', 'clear', 'lake', 'methanol', 'forward', 'gari', 'w', 'lamphier', 'hou', 'ect', 'groetzingerp', 'valero', 'com', 'pm', 'gari', 'w', 'lamphier', 'hou', 'ect', 'ect', 'cc', 'subject', 'clear', 'lake', 'methanol', 'peopl', 'tell', 'go', 'plan', 'clmp', 'plan', 'begin', 'start', 'sunday', 'sinc', 'cold', 'startup', 'could', 'take', 'long', 'week', 'get', 'full', 'rate', 'ani', 'event', 'clmp', 'plan', 'begin', 'pull', 'gas', 'reduc', 'rate', 'late', 'sunday']

@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'must', 'chang', 'day', 'shorelin', 'would', 'like', 'chang', 'meter', 'daili', 'meter', 'actual', 'show', 'run', 'lst', 'nd', 'mmbtu', 'rd', 'look', 'like', 'may', 'fall', 'let', 'know', 'daren', 'thank']

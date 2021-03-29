@@ -1,0 +1,2 @@
+0
+['subject', 'attach', 'avail', 'spreadsheet', 'februari', 'ani', 'assist', 'pleas', 'first', 'e', 'mail', 'receiv', 'devon', 'second', 'immedi', 'follow', 'bever', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'victor', 'haley', 'pm', 'cc', 'subject', 'attach', 'avail', 'spreadsheet', 'februari', 'ani', 'assist', 'pleas', 'attach', 'avail', 'spreadsheet', 'februari', 'ani', 'assist', 'pleas', 'call', 'enronavailso', 'xls']

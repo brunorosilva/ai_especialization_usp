@@ -1,0 +1,2 @@
+0
+['subject', 'schedul', 'well', 'season', 'lost', 'mick', 'neal', 'pick', 'daren', 'plove', 'guess', 'court', 'util', 'quick', 'sinc', 'lost', 'coupl', 'guard', 'buy', 'next', 'week', 'open', 'season']

@@ -1,0 +1,2 @@
+0
+['subject', 'bridg', 'error', 'keep', 'eye', 'bridg', 'still', 'error']

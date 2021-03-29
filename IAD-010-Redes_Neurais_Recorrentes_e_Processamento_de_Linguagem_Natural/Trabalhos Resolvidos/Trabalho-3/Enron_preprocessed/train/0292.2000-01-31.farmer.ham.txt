@@ -1,0 +1,2 @@
+0
+['subject', 'devon', 'account', 'contact', 'point', 'person', 'devon', 'account', 'question', 'inform', 'gari', 'wade', 'devon', 'energi', 'corpor', 'revenu', 'account', 'supervisor', 'tel', 'wadeg', 'dvn', 'com', 'north', 'broadway', 'suit', 'oklahoma', 'citi', 'ok', 'fax']

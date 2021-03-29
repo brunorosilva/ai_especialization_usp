@@ -1,0 +1,2 @@
+1
+['subject', 'liff', 'great', 'hello', 'vlsit', 'medsbymail', 'shop', 'save', 'vl', 'raam', 'enl', 'racl', 'ag', 'bi', 'vlt', 'al', 'manyoth', 'pieasant', 'surpris', 'prlces', 'nice', 'day']

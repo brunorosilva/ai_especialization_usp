@@ -1,0 +1,2 @@
+0
+['subject', 'golf', 'brag', 'game', 'seldom', 'afford', 'opportun', 'sunday', 'church', 'tom', 'knox', 'play', 'hole', 'mimosa', 'weather', 'perfect', 'game', 'stunk', 'overal', 'manag', 'par', 'one', 'par', 'two', 'par', 'best', 'yard', 'par', 'drive', 'yard', 'ground', 'flat', 'green', 'three', 'feet', 'pin', 'two', 'put', 'three', 'par', 'howev', 'keep', 'go', 'back', 'rememb', 'wit', 'thank', 'listen', 'brag', 'expect', 'replic', 'feat', 'next', 'outing', 'hope', 'well', 'rememb', 'rachel', 'jake', 'prayer', 'day', 'david']

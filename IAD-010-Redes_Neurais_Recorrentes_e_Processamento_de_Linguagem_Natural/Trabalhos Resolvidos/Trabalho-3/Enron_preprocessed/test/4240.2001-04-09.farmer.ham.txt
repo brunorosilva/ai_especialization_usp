@@ -1,0 +1,2 @@
+0
+['subject', 'gather', 'meter', 'adjust', 'pleas', 'refer', 'attach', 'spreadsheet', 'gather', 'meter', 'nomin', 'adjust', 'volum', 'avg', 'column', 'effect', 'bob']

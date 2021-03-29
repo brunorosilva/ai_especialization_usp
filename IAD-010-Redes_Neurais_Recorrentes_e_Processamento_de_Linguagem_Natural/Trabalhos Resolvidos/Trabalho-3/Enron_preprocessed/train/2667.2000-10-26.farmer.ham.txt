@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'flow', 'meter', 'oct', 'without', 'nom', 'deal', 'contract', 'last', 'month', 'activ', 'counterparti', 'meter', 'hpl', 'sept', 'duke', 'energi', 'trade', 'meter', 'ena', 'nov', 'duke', 'energi', 'trade', 'thank', 'al']

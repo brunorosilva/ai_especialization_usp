@@ -1,0 +1,2 @@
+1
+['subject', 'paramagnet', 'isaac', 'new', 'softwar', 'windowxp', 'photoshop', 'window', 'etcmor', 'gregari', 'gentl']

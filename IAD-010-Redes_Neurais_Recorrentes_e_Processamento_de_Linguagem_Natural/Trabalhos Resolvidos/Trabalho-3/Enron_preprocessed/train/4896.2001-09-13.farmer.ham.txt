@@ -1,0 +1,2 @@
+0
+['subject', 'poem', 'http', 'servep', 'com', 'pictur', 'wtc', 'pps', 'origin', 'messag', 'andersen', 'michael', 'mailto', 'manders', 'tosco', 'com', 'sent', 'thursday', 'septemb', 'pm', 'subject', 'fw', 'poem', 'one', 'littl', 'pleasant', 'sent', 'thought', 'would', 'share', 'easi', 'unsubscrib', 'click', 'http', 'topica', 'com', 'u', 'vnf', 'ivhm', 'send', 'email', 'brcc', 'yf', 'unsubscrib', 'topica', 'com', 'email', 'sent', 'dfarmer', 'enron', 'com', 'p', 'c', 'regist', 'manag', 'mail', 'http', 'www', 'topica', 'com', 'partner', 'tago', 'regist']

@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'sitara', 'desk', 'request', 'need', 'avail', 'product', 'earli', 'afternoon', 'sorri', 'short', 'notic', 'srm', 'x']

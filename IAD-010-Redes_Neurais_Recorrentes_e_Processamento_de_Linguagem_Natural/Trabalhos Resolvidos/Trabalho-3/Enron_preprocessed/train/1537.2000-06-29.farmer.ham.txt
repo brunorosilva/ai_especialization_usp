@@ -1,0 +1,2 @@
+0
+['subject', 'hr', 'generalist', 'group', 'norma', 'villarr', 'hr', 'generalist', 'brent', 'price', 'group', 'hector', 'mcloughlin', 'hr', 'generalist', 'group', 'depart', 'salli', 'beck', 'toni', 'graham', 'recruit', 'salli', 'beck', 'group', 'yvonn', 'la', 'compens', 'specialist', 'salli', 'beck', 'group', 'janet', 'de', 'la', 'paz', 'admin', 'support', 'person', 'hr', 'group', 'hope', 'help', 'direct', 'question', 'need', 'servic', 'futur']

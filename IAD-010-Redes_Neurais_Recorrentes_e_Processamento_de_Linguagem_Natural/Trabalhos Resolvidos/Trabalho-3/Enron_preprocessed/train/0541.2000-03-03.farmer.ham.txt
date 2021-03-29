@@ -1,0 +1,2 @@
+0
+['subject', 'oasi', 'pma', 'stacey', 'need', 'help', 'clear', 'pma', 'oasi', 'lot', 'pma', 'relat', 'rate', 'miss', 'incorrect', 'would', 'help', 'pass', 'inform', 'along', 'jan', 'mar', 'jun', 'aug', 'sep', 'volum', 'manag', 'group', 'rita', 'wynn', 'group', 'want', 'rate', 'clear', 'wednesday', 'next', 'week', 'mean', 'probabl', 'need', 'get', 'someth', 'monday', 'sorri', 'late', 'notic', 'pleas', 'call', 'x', 'ani', 'question', 'heidi']

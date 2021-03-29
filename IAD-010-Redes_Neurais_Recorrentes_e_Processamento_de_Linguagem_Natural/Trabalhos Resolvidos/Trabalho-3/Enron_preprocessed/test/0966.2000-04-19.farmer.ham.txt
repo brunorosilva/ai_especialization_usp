@@ -1,0 +1,2 @@
+0
+['subject', 'union', 'tvill', 'tvill', 'may', 'total', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'enron', 'north', 'america', 'corp', 'ami', 'chokshi', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'southern', 'union', 'may', 'st', 'port', 'arthur', 'estim', 'volum', 'april', 'vill', 'colorado', 'rs', 'either', 'spot', 'april', 'onli', 'janet', 'doe', 'know', 'next', 'month', 'yet', 'total', 'safe', 'assumpt']

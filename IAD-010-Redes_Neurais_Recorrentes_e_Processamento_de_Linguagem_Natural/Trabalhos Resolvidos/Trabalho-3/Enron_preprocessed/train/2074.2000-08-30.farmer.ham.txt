@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'devon', 'co', 'owner', 'avail', 'septemb', 'fyi', 'bever', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'steve', 'holm', 'pm', 'cc', 'subject', 'revis', 'devon', 'co', 'owner', 'avail', 'septemb', 'bever', 'co', 'owner', 'volum', 'updat', 'show', 'volum', 'comet', 'petroleum', 'jame', 'finley', 'burnel', 'n', 'pettus', 'addit', 'devon', 'volum', 'burnel', 'n', 'pettus', 'also', 'increas', 'slight', 'steve', 'co', 'owner', 'volum', 'enron', 'xls', 'enronavailso', 'revo', 'xls']

@@ -1,0 +1,2 @@
+0
+['subject', 'communic', 'rank', 'well', 'juri', 'still', 'communic', 'rank', 'quess', 'right', 'best', 'thing', 'tell', 'anyon', 'rank', 'let', 'know', 'thought', 'bob']

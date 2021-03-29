@@ -1,0 +1,2 @@
+0
+['subject', 'river', 'king', 'ranch', 'hplr', 'liquid', 'identifi', 'addit', 'hplc', 'wellhead', 'purchas', 'made', 'correct', 'interconnect', 'ticket', 'accord', 'jacki', 'still', 'difficulti', 'identifi', 'wellhead', 'purchas', 'feel', 'least', 'meter', 'flow', 'total', 'appox', 'day', 'show', 'hplc', 'purchas', 'hplr', 'transport', 'believ', 'given', 'inform', 'await', 'instruct', 'purchas', 'input', 'reflect', 'proper', 'enron', 'entiti', 'purchas', 'volum', 'work', 'veri', 'hard', 'issu', 'apolog', 'yet', 'entir', 'correct']

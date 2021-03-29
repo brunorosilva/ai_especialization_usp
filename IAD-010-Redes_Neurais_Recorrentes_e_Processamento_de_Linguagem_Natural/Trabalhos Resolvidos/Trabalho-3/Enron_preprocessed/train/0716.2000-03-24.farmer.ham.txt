@@ -1,0 +1,2 @@
+0
+['subject', 'februari', 'report', 'final', 'februari', 'budget', 'number', 'attach', 'forward', 'yvett', 'g', 'connevey', 'corp', 'enron', 'enron', 'north', 'america', 'corp', 'jennif', 'blay', 'ect', 'pm', 'brenda', 'f', 'herod', 'hou', 'ect', 'ect', 'cc', 'yvett', 'g', 'connevey', 'corp', 'enron', 'enron', 'subject', 'februari', 'report', 'attach', 'final', 'februari', 'report', 'pleas', 'call', 'ani', 'question', 'thank', 'jennif']

@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'number', 'hi', 'darrin', 'rita', 'ask', 'provid', 'deal', 'number', 'associ', 'cornhusk', 'tenaska', 'iv', 'texa', 'partner', 'deal', 'get', 'chanc', 'would', 'pleas', 'send', 'deal', 'number', 'even', 'though', 'print', 'report', 'deal', 'volum', 'track', 'report', 'retriev', 'deal', 'number', 'rita', 'concern', 'might', 'deal', 'set', 'unifi', 'know', 'thank', 'kathi']

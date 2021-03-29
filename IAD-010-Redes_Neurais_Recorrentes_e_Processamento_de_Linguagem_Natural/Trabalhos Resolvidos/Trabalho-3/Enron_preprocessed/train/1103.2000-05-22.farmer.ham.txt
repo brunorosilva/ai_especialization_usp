@@ -1,0 +1,2 @@
+0
+['subject', 'global', 'octan', 'may', 'attach', 'daili', 'read', 'gas', 'flow', 'meter', 'dure', 'may', 'product', 'data', 'provid', 'inform', 'activ', 'meter', 'hpl', 'onli', 'counterparti', 'busi', 'meter', 'thus', 'sitara', 'ticket', 'take', 'swing']

@@ -1,0 +1,2 @@
+0
+['subject', 'rincon', 'petroleum', 'corp', 'tom', 'follow', 'gas', 'well', 'came', 'line', 'approxim', 'morn', 'counterparti', 'well', 'meter', 'volum', 'price', 'rincon', 'petroleum', 'corpor', 'koontz', 'kutcha', 'gu', 'mmcf', 'gas', 'daili', 'hsc', 'less', 'pleas', 'put', 'ticket', 'sitara', 'reflect', 'aforement', 'inform', 'ani', 'question', 'pleas', 'give', 'call', 'thank', 'vlt', 'x']

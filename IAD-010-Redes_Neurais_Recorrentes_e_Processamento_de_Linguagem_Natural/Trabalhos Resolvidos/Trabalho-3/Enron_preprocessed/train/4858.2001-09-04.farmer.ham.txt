@@ -1,0 +1,2 @@
+0
+['subject', 'password', 'reset', 'generat', 'email', 'repli', 'need', 'assist', 'contact', 'isc', 'help', 'desk', 'password', 'account', 'po', 'reset']

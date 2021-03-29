@@ -1,0 +1,2 @@
+0
+['subject', 'th', 'anniversari', 'celebr', 'thank', 'fantast', 'respons', 'reserv', 'request', 'confus', 'concern', 'dinner', 'onli', 'option', 'plan', 'spend', 'night', 'need', 'respond', 'option', 'list', 'onli', 'plan', 'spend', 'night', 'prepar', 'name', 'tag', 'employe', 'invit', 'hpl', 'anniversari', 'celebr', 'pleas', 'email', 'name', 'would', 'like', 'appear', 'nametag', 'nicknam', 'etc', 'hear', 'wednesday', 'august', 'use', 'name', 'appear', 'list', 'acquir', 'hr', 'pleas', 'print', 'memo', 'ani', 'employe', 'access', 'email', 'thank', 'much', 'help']

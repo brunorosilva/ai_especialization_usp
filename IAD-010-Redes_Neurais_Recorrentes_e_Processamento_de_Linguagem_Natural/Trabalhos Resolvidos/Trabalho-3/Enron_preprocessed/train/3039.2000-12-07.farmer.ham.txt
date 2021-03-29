@@ -1,0 +1,2 @@
+0
+['subject', 'daren', 'wonder', 'would', 'ok', 'sit', 'one', 'day', 'get', 'general', 'feel', 'end', 'process', 'pat', 'told', 'befor', 'left', 'would', 'help', 'better', 'grasp', 'process', 'whole', 'understand', 'immin', 'cold', 'weather', 'make', 'thing', 'crazi', 'may', 'best', 'time', 'way', 'let', 'know', 'spend', 'day', 'morn', 'even', 'afternoon', 'whenev', 'good', 'time', 'think', 'help', 'veri', 'much', 'role', 'thank', 'mike']

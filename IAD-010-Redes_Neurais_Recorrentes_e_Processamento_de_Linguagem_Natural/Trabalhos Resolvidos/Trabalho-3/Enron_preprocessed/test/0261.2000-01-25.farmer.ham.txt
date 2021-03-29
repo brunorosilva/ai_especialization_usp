@@ -1,0 +1,2 @@
+0
+['subject', 'ces', 'duke', 'en', 'field', 'servic', 'purchas', 'sale', 'felmont', 'point', 'sale', 'termin', 'agreement', 'feb', 'last', 'month']

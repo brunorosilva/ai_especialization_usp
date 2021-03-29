@@ -1,0 +1,2 @@
+0
+['subject', 'logist', 'train', 'daren', 'thank', 'sitara', 'train', 'class', 'taught', 'logist', 'group', 'extrem', 'valuabl', 'rest', 'group', 'appreci', 'time', 'effort', 'put', 'set', 'handout', 'great', 'refer', 'materi', 'us', 'futur', 'alreadi', 'heard', 'veri', 'posit', 'feedback', 'group', 'veri', 'much', 'appreci', 'thank', 'pat', 'clyne']

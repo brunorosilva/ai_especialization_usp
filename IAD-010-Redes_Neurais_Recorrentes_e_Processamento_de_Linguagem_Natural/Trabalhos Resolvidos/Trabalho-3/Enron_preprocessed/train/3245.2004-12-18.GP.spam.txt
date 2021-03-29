@@ -1,0 +1,2 @@
+1
+['subject', 'whi', 'b', 'u', 'world', 'wide', 'med', 'prescript', 'requir', 'discret', 'confidenti', 'packag', 'n', 'g', 'world', 'wide', 'ship', 'qualiti', 'generic', 'medi', 'c', 'ation', 'money', 'back', 'guarant', 'e', 'e', 'remov']

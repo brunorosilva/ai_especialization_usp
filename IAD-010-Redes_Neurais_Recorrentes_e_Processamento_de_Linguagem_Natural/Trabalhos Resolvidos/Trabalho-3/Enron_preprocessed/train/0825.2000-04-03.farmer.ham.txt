@@ -1,0 +1,2 @@
+0
+['subject', 'king', 'ranch', 'stella', 'veri', 'import', 'king', 'ranch', 'accur', 'schedul', 'system', 'sitara', 'updat', 'ani', 'chang', 'daren', 'proper', 'manag', 'texa', 'desk', 'posit', 'hope', 'move', 'enough', 'desk', 'allow', 'concentr', 'king', 'ranch', 'mani', 'discrep', 'made', 'veri', 'cost', 'desk', 'robert', 'assist', 'need', 'thank', 'pat']

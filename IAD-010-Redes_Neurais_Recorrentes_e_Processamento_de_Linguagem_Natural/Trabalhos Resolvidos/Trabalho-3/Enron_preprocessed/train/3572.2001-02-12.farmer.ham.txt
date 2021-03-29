@@ -1,0 +1,2 @@
+0
+['subject', 'first', 'deliveri', 'codi', 'see', 'attach', 'letter', 'eb']

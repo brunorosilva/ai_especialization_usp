@@ -1,0 +1,2 @@
+0
+['subject', 'june', 'avail', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'june', 'avail', 'ami', 'attach', 'list', 'june', 'avail', 'enron', 'sell', 'list', 'pipelin', 'besid', 'offshor', 'volum', 'process', 'onshor', 'still', 'wait', 'coupl', 'volum', 'outsid', 'oper', 'properti', 'estim', 'avail', 'properti', 'addit', 'pvr', 'factor', 'estim', 'also', 'provid', 'becom', 'avail', 'pleas', 'feel', 'free', 'call', 'ani', 'question', 'thank', 'steve', 'enronavailso', 'xls']

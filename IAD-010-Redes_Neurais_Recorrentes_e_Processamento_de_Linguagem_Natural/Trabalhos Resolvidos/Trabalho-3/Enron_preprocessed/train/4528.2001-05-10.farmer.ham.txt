@@ -1,0 +1,2 @@
+0
+['subject', 'pictur', 'pictur', 'daddi', 'littl', 'girl', 'guess', 'one', 'like', 'best', 'dsco', 'jpg', 'dsco', 'jpg', 'dsco', 'jpg', 'dsco', 'jpg', 'dsco', 'jpg', 'dsco', 'jpg']

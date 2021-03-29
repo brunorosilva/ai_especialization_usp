@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'chnage', 'eastran', 'pleas', 'increas', 'deliveri', 'eastran', 'mmbtu', 'redeliveri', 'fuel', 'cotton', 'valley', 'pg', 'e', 'hpl', 'cartwheel', 'carthag', 'mobil', 'beaumont', 'detm', 'mmbtu', 'sell', 'carthag']

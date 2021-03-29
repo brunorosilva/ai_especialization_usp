@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'effect', 'friday', 'nom', 'eastran', 'revert', 'mmbtu', 'pg', 'e', 'fuel', 'cotton', 'valley', 'purchas', 'sale', 'also', 'sell', 'mmbtu', 'fcv', 'zero', 'nom', 'hpl', 'eastran', 'due', 'forc', 'majeur', 'breakdown', 'compressor', 'sold', 'mmbtud', 'gas', 'daili', 'mid', 'mmbtud', 'insid', 'ferc', 'month', 'index']

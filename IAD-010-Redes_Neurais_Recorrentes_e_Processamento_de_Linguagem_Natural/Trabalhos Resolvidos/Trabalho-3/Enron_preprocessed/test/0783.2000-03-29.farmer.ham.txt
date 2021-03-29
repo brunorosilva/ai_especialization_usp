@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'attach', 'liz', 'mit', 'graduat', 'current', 'exxon', 'veri', 'interest', 'job', 'enron', 'would', 'take', 'group', 'neighbor', 'want', 'mix', 'work', 'pat', 'carl', 'liz', 'fortin', 'cc', 'subject', 'resum', 'attach', 'doc']

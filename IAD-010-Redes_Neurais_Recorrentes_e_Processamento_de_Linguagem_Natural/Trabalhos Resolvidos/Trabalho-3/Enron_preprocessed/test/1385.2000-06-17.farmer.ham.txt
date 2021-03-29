@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'liz', 'bellami', 'follow', 'resum', 'liz', 'bellami', 'liz', 'current', 'txu', 'power', 'group', 'gas', 'experi', 'also', 'decid', 'whether', 'want', 'reloc', 'txu', 'dalla', 'would', 'interest', 'talk', 'enron', 'possibl', 'opportun', 'current', 'salari', 'k', 'pleas', 'let', 'know', 'would', 'like', 'interview']

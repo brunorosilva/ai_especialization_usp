@@ -1,0 +1,2 @@
+0
+['subject', 'eex', 'corpor', 'meter', 'sitara', 'deal', 'ticket', 'creat', 'enter', 'juli', 'follow', 'ifhsc', 'minus', 'bob']

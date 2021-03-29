@@ -1,0 +1,2 @@
+0
+['subject', 'unfin', 'sale', 'invoic', 'spreadsheet', 'unfin', 'invoic', 'prior', 'may', 'pleas', 'notifi', 'ani', 'discrep', 'send', 'unfin', 'purchas', 'next', 'week', 'thank']

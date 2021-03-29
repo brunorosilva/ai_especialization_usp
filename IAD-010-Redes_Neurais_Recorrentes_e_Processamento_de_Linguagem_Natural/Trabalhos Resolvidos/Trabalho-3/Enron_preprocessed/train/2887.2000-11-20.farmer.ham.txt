@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'avail', 'spreadsheet', 'decemb', 'normal', 'get', 'steve', 'holm', 'forward', 'bever', 'beati', 'hou', 'ect', 'pm', 'enron', 'capit', 'trade', 'resourc', 'corp', 'victor', 'haley', 'pm', 'cc', 'subject', 'enron', 'avail', 'spreadsheet', 'decemb', 'normal', 'get', 'steve', 'holm', 'enron', 'avail', 'spreadsheet', 'decemb', 'normal', 'get', 'steve', 'holm', 'hand', 'pleas', 'feel', 'free', 'call', 'ani', 'question', 'enronavailsl', 'pool', 'xls']

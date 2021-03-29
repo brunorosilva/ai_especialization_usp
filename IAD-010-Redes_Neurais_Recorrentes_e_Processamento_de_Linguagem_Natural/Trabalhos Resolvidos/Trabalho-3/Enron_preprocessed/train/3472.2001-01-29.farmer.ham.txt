@@ -1,0 +1,2 @@
+0
+['subject', 'global', 'octan', 'meter', 'fyi', 'meter', 'tri', 'come', 'back', 'sinc', 'sat', 'sam', 'gas', 'control', 'said', 'might', 'back', 'wed', 'current', 'nom', 'day', 'al']

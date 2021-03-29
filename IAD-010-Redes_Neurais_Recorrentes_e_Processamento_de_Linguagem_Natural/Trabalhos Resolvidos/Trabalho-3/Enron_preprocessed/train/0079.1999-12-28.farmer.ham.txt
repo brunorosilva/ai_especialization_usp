@@ -1,0 +1,2 @@
+0
+['subject', 'k', 'deal', 'detail', 'deal', 'enter', 'jan', 'buy', 'sell', 'buy', 'ctpti', 'aquila', 'energi', 'market', 'corpor', 'zone', 'agua', 'dulc', 'volum', 'price', 'hsc', 'period', 'deal', 'second', 'part', 'sitara', 'deal', 'pleas', 'let', 'know', 'ani', 'question', 'concern', 'dave']

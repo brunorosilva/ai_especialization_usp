@@ -1,0 +1,2 @@
+1
+['subject', 'look', 'cheap', 'high', 'qualiti', 'softwar', 'teeth', 'minus', 'avert', 'mutter', 'profan', 'altruism', 'oleomargarin', 'decad', 'commune', 'heritag', 'singer', 'affirm', 'domin', 'comedian', 'underground', 'parallel', 'conjectur', 'choos', 'penc', 'town', 'blank', 'relay', 'rushmor', 'bath', 'authent', 'china', 'iranian', 'digger', 'beguil', 'splendor', 'secretari', 'injur', 'maya', 'tipto', 'fulmin']

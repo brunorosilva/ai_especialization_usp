@@ -1,0 +1,2 @@
+1
+['subject', 'multipl', 'way', 'get', 'home', 'loan']

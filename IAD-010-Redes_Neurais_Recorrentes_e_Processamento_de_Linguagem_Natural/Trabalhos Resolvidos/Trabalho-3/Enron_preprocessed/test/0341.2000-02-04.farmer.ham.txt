@@ -1,0 +1,2 @@
+0
+['subject', 'ram', 'tackett', 'pictur', 'daren', 'let', 'look', 'weekend', 'love', 'begin', 'forward', 'messag', 'ram', 'tackett', 'subject', 'pictur', 'date', 'fri', 'feb', 'messag', 'id', 'pictur', 'hunter', 'cole', 'pictur', 'jill', 'susan', 'tonya', 'pictur', 'ram', 'jill', 'hunter', 'pictur', 'new', 'hous', 'end', 'forward', 'messag', 'pay', 'much', 'internet', 'juno', 'offer', 'free', 'internet', 'access', 'tri', 'today', 'risk', 'free', 'softwar', 'visit', 'http', 'dl', 'www', 'juno', 'com', 'get', 'tagj']

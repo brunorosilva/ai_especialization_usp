@@ -1,0 +1,2 @@
+1
+['subject', 'ambien', 'sleep', 'med', 'c', 'u', 'n', 'generic', 'http', 'www', 'cleat', 'pirr', 'com', 'f', 'p', 'http', 'www', 'cleat', 'pirr', 'com']

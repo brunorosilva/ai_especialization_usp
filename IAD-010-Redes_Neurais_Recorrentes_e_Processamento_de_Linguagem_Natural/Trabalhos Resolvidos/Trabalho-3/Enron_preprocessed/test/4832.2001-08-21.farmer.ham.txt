@@ -1,0 +1,2 @@
+0
+['subject', 'texa', 'general', 'darren', 'abl', 'find', 'juli', 'deal', 'tglo', 'system', 'look', 'see', 'deal', 'number', 'month', 'thank', 'joy']

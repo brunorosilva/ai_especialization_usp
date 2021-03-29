@@ -1,0 +1,2 @@
+0
+['subject', 'train', 'sabra', 'would', 'like', 'set', 'half', 'day', 'train', 'session', 'sabra', 'zajac', 'start', 'next', 'week', 'would', 'like', 'spend', 'time', 'volum', 'manag', 'transport', 'gas', 'control', 'trade', 'support', 'first', 'week', 'pleas', 'let', 'know', 'group', 'avail', 'best', 'time', 'day', 'start', 'next', 'week', 'monday', 'april', 'th', 'thank', 'pat']

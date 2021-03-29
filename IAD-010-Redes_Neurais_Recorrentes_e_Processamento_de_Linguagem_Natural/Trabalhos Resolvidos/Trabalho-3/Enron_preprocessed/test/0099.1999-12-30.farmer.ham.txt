@@ -1,0 +1,2 @@
+0
+['subject', 'transco', 'bammel', 'meter', 'decemb', 'daren', 'elsa', 'deliv', 'transco', 'txu', 'cut', 'pipelin', 'capac', 'constraint', 'transco', 'gas', 'control', 'left', 'messag', 'late', 'yesterday', 'even', 'pick', 'morn', 'question', 'call', 'charlott']

@@ -1,0 +1,2 @@
+0
+['subject', 'equistar', 'nom', 'darren', 'got', 'sorri', 'late', 'wait', 'equistar', 'give', 'give', 'deal', 'number', 'confirm', 'thank', 'juli', 'equistar', 'channel', 'greater', 'channel', 'greater', 'channel', 'greater', 'bayport', 'polym', 'greater', 'matagorda', 'polymar', 'greater', 'qel', 'laport', 'greater', 'qel', 'laport', 'greater', 'port', 'arthur', 'greater', 'chocol', 'bayou', 'greater', 'subtot', 'third', 'parti', 'phllip', 'sempra', 'n', 'e', 'morgan', 'stanley', 'sub', 'total', 'grand', 'total']

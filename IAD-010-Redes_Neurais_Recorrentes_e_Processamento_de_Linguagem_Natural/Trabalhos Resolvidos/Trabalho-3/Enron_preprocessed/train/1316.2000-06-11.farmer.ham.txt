@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'deal', 'daren', 'rememb', 'alreadi', 'sent', 'request', 'pleas', 'roll', 'abov', 'deal', 'cover', 'flow', 'th', 'th', 'may', 'thank', 'jacki']

@@ -1,0 +1,2 @@
+0
+['subject', 'april', 'aspect', 'volum', 'texa', 'citi', 'april', 'cross', 'media', 'mmbtu', 'tnct', 'mmbtu', 'ani', 'question', 'call', 'thank', 'charlott', 'hawkin']

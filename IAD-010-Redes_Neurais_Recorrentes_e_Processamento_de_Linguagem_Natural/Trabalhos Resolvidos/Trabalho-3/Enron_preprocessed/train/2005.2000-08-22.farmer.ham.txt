@@ -1,0 +1,2 @@
+0
+['subject', 'organiz', 'announc', 'pleas', 'see', 'attach', 'memo']

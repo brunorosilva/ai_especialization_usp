@@ -1,0 +1,2 @@
+0
+['subject', 'tenaska', 'iv', 'gas', 'manag', 'agreement', 'initi', 'draft', 'sandi', 'braband', 'attach', 'initi', 'draft', 'gas', 'manag', 'servic', 'agenc', 'agreement', 'tenaska', 'iv', 'review', 'intern', 'onli', 'forward', 'beyond', 'abov', 'distribut', 'list', 'without', 'first', 'check', 'barbara', 'gray', 'pat', 'radford', 'assist', 'make', 'arrang', 'meet', 'next', 'week', 'discuss', 'agreement', 'well', 'cornhusk', 'structur', 'general', 'town', 'th', 'urgent', 'issu', 'need', 'resolut', 'befor', 'return', 'pleas', 'contact', 'barbara', 'gray']

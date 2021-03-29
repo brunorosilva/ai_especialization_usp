@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'yep', 'right', 'except', 'june', 'pleas', 'let', 'know', 'tomorrow', 'get', 'done', 'let', 'carlo', 'know', 'get', 'set', 'pop', 'aime', 'daren', 'j', 'farmer', 'pm', 'aime', 'lannou', 'hou', 'ect', 'ect', 'cc', 'subject', 'meter', 'deal', 'alreadi', 'june', 'aime', 'lannou', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'meter', 'daren', 'need', 'deal', 'set', 'meter', 'june', 'flow', 'day', 'last', 'deal', 'number', 'use', 'ena', 'pleas', 'let', 'know', 'set', 'thank', 'aime']

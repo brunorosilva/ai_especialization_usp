@@ -1,0 +1,2 @@
+0
+['subject', 'natur', 'gas', 'ceo', 'contact', 'david', 'gardner', 'presid', 'gardner', 'energi', 'houston', 'regard', 'five', 'year', 'packag', 'gas', 'spoke', 'onli', 'briefli', 'get', 'good', 'feel', 'deal', 'know', 'firm', 'unabl', 'pull', 'anyth', 'internet', 'suspect', 'market', 'spend', 'ani', 'time', 'curious', 'whether', 'know', 'firm', 'thank']

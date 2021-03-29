@@ -1,0 +1,2 @@
+0
+['subject', 'deliveri', 'channel', 'gulf', 'plain', 'duke', 'call', 'regard', 'volum', 'deliv', 'channel', 'gulf', 'plain', 'plant', 'appar', 'half', 'volum', 'deliv', 'meter', 'channel', 'pressur', 'plant', 'back', 'duke', 'ask', 'take', 'addit', 'gas', 'undeliver', 'think', 'may', 'need', 'move', 'market', 'anoth', 'meter', 'ie', 'hpl', 'agua', 'pleas', 'advis', 'mari']

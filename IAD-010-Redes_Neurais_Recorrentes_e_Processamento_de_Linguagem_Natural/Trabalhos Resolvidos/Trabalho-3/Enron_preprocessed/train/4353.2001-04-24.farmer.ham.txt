@@ -1,0 +1,2 @@
+0
+['subject', 'aspect', 'resourc', 'confirm', 'rgds', 'ellen', 'x']

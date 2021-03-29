@@ -1,0 +1,2 @@
+0
+['subject', 'half', 'day', 'vac', 'dentist', 'appt']

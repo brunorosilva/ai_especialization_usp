@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'updat', 'buyback', 'two', 'addit', 'airproduct', 'petrofina']

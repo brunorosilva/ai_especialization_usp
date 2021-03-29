@@ -1,0 +1,2 @@
+0
+['subject', 'desk', 'desk', 'deal', 'need', 'meter', 'februari', 'aime', 'need', 'desk', 'desk', 'deal', 'set', 'meter', 'februari', 'ena', 'sale', 'deliveri', 'contract', 'hpl', 'buy', 'receipt', 'hpl', 'contract', 'veri', 'high', 'prioriti', 'becaus', 'bridg', 'close', 'today', 'possibl', 'would', 'complet', 'noon', 'today', 'thank', 'fred']

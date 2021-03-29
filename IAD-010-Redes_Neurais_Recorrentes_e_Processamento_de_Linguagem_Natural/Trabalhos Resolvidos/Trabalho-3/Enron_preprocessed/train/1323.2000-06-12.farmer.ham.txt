@@ -1,0 +1,2 @@
+0
+['subject', 'ec', 'sp', 'wc', 'revis', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'ec', 'sp', 'wc', 'revis', 'clarissa', 'per', 'convers', 'last', 'week', 'unabl', 'increas', 'ec', 'sp', 'wc', 'due', 'tennesse', 'seal', 'leg', 'shall', 'confirm', 'volum', 'remain', 'first', 'month', 'level', 'seal', 'lift', 'time', 'recalcul', 'chang', 'notifi', 'ani', 'chang', 'time', 'thank', 'steve']

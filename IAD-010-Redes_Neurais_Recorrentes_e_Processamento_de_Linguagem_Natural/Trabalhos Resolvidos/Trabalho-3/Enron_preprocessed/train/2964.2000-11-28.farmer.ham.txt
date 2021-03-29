@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'month', 'nomin', 'forward', 'aime', 'lannou', 'hou', 'ect', 'ricki', 'archer', 'pm', 'aime', 'lannou', 'enron', 'com', 'cc', 'subject', 'calpin', 'month', 'nomin', 'aime', 'includ', 'transport', 'decemb', 'thank', 'ricki', 'archer', 'fuel', 'suppli', 'louisiana', 'suit', 'houston', 'texa', 'direct', 'fax', 'calpin', 'month', 'gas', 'nomin', 'doc']

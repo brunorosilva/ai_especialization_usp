@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'ticket', 'daren', 'three', 'meter', 'flow', 'feb', 'deal', 'meter', 'flow', 'whole', 'month', 'ol', 'friend', 'pawne', 'gas', 'plant', 'fuel', 'last', 'deal', 'use', 'could', 'extend', 'meter', 'flow', 'southern', 'union', 'lockhart', 'last', 'deal', 'use', 'hpl', 'ena', 'meter', 'flow', 'whole', 'month', 'mt', 'enterpris', 'c', 'g', 'panther', 'last', 'deal', 'use', 'get', 'account', 'arrang', 'let', 'know', 'deal', 'status', 'get', 'clear', 'thank']

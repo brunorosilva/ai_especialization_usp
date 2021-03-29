@@ -1,0 +1,2 @@
+0
+['subject', 'pg', 'e', 'texa', 'pipelin', 'kelli', 'pg', 'e', 'probabl', 'tri', 'bill', 'us', 'park', 'volum', 'august', 'mmbtu', 'day', 'pleas', 'pay', 'charg', 'receiv', 'invoic', 'pg', 'e', 'unabl', 'make', 'deliveri', 'el', 'paso', 'becaus', 'high', 'sulfur', 'content', 'gas', 'tri', 'charg', 'us', 'park', 'charg', 'gas', 'could', 'deliv', 'pleas', 'let', 'know', 'need', 'ani', 'addit', 'inform', 'thank']

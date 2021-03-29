@@ -1,0 +1,2 @@
+0
+['subject', 'hillari', 'take', 'minut', 'call', 'listen', 'greet', 'brown', 'williamson', 'tobacco', 'compani', 'point', 'ask', 'select', 'extens', 'hang', 'david', 'heinek', 'dheinek', 'tsteel', 'com']

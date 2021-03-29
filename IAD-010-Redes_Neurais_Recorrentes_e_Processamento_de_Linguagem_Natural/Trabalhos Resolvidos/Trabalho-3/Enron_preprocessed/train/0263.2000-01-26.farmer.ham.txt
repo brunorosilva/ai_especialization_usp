@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'febo', 'ani', 'gas', 'taken', 'global', 'octan', 'price', 'gas', 'daili', 'rather', 'chang', 'sitara', 'ticket', 'one', 'gentlemen', 'need', 'take', 'care', 'risk', 'assign', 'impact', 'lee']

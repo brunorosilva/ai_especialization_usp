@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'train', 'give', 'train', 'session', 'wed', 'c', 'pm', 'would', 'like', 'send', 'class', 'ani', 'new', 'logist', 'personnel', 'might', 'think', 'could', 'use', 'sitara', 'overview', 'someon', 'make', 'time', 'let', 'know', 'name', 'tri', 'schedul', 'someth', 'later', 'time', 'possibl', 'pleas', 'send', 'note', 'might', 'attend', 'get', 'approxim', 'head', 'count', 'call', 'e', 'mail', 'ani', 'question', 'russ', 'x']

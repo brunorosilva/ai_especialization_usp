@@ -1,0 +1,2 @@
+0
+['subject', 'extend', 'deal', 'dure', 'month', 'june', 'flow', 'meter', 'deal', 'deal', 'may', 'deal', 'could', 'extend', 'deal', 'month', 'june']

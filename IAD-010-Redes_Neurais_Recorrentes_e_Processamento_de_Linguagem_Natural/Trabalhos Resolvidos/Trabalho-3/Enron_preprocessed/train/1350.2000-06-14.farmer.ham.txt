@@ -1,0 +1,2 @@
+0
+['subject', 'yate', 'energi', 'corp', 'revis', 'nomin', 'daren', 'yate', 'energi', 'revis', 'nomin', 'eff', 'meter', 'deal', 'want', 'adjust', 'bob']

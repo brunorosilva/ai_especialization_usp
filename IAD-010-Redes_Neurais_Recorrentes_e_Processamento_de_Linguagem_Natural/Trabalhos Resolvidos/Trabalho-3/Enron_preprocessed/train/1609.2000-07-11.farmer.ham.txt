@@ -1,0 +1,2 @@
+0
+['subject', 'brandywin', 'meter', 'swing', 'ticket', 'beaumont', 'methanol', 'meter', 'expir', 'june', 'th', 'bob', 'dorcheus', 'indic', 'hpl', 'take', 'swing', 'dure', 'juli', 'expect', 'anoth', 'swing', 'ticket', 'negoti', 'juli', 'present', 'swing', 'activ', 'hit', 'baseload', 'ticket', 'day']

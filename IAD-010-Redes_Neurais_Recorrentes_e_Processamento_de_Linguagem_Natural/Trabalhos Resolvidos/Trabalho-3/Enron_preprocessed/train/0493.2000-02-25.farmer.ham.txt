@@ -1,0 +1,2 @@
+0
+['subject', 'wrong', 'daren', 'right', 'first', 'time', 'gave', 'need', 'sorri', 'inconveni']

@@ -1,0 +1,2 @@
+0
+['subject', 'incom', 'tax', 'hey', 'tonya', 'said', 'stapl', 'copi', 'b', 'w', 'tax', 'return', 'one', 'camp', 'say', 'copi', 'c', 'payer', 'state', 'copi', 'copi', 'b', 'recipi', 'keep', 'record', 'one', 'send', 'one', 'school', 'say', 'send', 'b', 'confus', 'one', 'doctor', 'say', 'tonya', 'due', 'date', 'love', 'get', 'privat', 'free', 'email', 'http', 'www', 'hotmail', 'com']

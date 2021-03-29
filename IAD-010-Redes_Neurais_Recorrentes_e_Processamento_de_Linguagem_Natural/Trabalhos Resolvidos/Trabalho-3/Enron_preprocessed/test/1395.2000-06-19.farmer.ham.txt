@@ -1,0 +1,2 @@
+0
+['subject', 'devon', 'transit', 'effect', 'juli', 'avail', 'bever', 'beati', 'enron', 'lead', 'oper', 'contact', 'devon', 'product', 'pleas', 'assembl', 'inform', 'contact', 'personnel', 'necessari', 'make', 'transit', 'smooth', 'possibl', 'elimin', 'unnecesari', 'e', 'mail', 'pleas', 'design', 'one', 'main', 'contact', 'desk', 'backup', 'central', 'desk', 'west', 'desk', 'texa', 'desk', 'receiv', 'distribut', 'nom', 'chang', 'oper', 'inform', 'desk', 'proper', 'schedul', 'ani', 'question', 'pleas', 'let', 'know', 'thank']

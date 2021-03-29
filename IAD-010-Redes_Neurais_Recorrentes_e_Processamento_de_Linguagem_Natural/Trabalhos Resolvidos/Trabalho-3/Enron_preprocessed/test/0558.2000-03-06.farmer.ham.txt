@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'eastran', 'nomin', 'eastran', 'mmbtu', 'redeliveri', 'mmbtu', 'fcv', 'pg', 'e', 'carthag', 'mobil', 'beaumont', 'per', 'brian', 'riley', 'price', 'increment', 'abov', 'per', 'transact', 'agreement', 'e', 'panenergi', 'purchas', 'mmbtu', 'lst', 'month', 'hsc', 'sell', 'hpl', 'month', 'hsc', 'pleas', 'confirm', 'increment', 'transact', 'thank']

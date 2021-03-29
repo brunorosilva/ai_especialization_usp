@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'calpin', 'daili', 'gas', 'nomin', 'revis', 'origin', 'messag', 'ricki', 'archer', 'sent', 'wednesday', 'februari', 'rlloyd', 'enron', 'com', 'cc', 'dfarmer', 'enron', 'com', 'jyoung', 'enron', 'com', 'subject', 'calpin', 'daili', 'gas', 'nomin', 'calpin', 'daili', 'gas', 'nomin', 'doc']

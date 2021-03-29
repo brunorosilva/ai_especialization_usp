@@ -1,0 +1,2 @@
+0
+['subject', 'william', 'energi', 'market', 'request', 'ena', 'settlement', 'group', 'william', 'energi', 'bill', 'hpl', 'purchas', 'deal', 'ena', 'invoic', 'account', 'william', 'say', 'request', 'hpl', 'trader', 'deal', 'bill', 'ena', 'would', 'like', 'texa', 'deal', 'bill', 'direct', 'hpl', 'problem', 'ask', 'counterpart', 'william', 'split', 'deal', 'hpl', 'ena', 'would', 'make', 'payment', 'process', 'much', 'easier', 'thank', 'megan', 'x']

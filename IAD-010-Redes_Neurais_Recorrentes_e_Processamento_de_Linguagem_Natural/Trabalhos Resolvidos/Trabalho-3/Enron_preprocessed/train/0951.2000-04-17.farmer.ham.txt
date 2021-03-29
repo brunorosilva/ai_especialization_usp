@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'forc', 'majeur', 'attach', 'summari', 'day', 'calpin', 'claim', 'forc', 'majeur', 'begin', 'file', 'locat', 'calpin', 'directori', 'logist', 'wish', 'make', 'chang', 'left', 'cell', 'blank', 'could', 'locat', 'inform', 'pleas', 'let', 'know', 'ani', 'question', 'thank', 'kris']

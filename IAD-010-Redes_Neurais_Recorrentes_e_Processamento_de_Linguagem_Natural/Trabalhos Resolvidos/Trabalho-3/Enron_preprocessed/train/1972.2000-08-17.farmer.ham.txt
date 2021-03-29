@@ -1,0 +1,2 @@
+0
+['subject', 'equistar', 'sold', 'day', 'today', 'gas', 'equistar', 'meter', 'whatev', 'flow', 'gas', 'day', 'price', 'pleas', 'enter', 'sitara', 'thank', 'lee']

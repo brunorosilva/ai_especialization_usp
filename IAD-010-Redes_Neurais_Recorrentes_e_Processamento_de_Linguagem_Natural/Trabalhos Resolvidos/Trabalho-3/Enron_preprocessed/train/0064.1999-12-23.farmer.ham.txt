@@ -1,0 +1,2 @@
+0
+['subject', 'jan', 'net', 'posit', 'revis', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'north', 'america', 'corp', 'ami', 'chokshi', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'bryan', 'hull', 'hou', 'ect', 'ect', 'neal', 'winfre', 'hou', 'ect', 'ect', 'cc', 'subject', 'jan', 'net', 'posit']

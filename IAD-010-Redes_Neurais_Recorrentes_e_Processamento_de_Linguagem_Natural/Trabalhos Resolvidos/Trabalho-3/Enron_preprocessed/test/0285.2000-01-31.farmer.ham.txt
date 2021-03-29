@@ -1,0 +1,2 @@
+0
+['subject', 'purchas', 'sale', 'nomin', 'eastran', 'pipelin', 'carthag', 'fuel', 'cotton', 'valley', 'pleas', 'advis', 'eastran', 'deliveri', 'hpl', 'readi', 'earliest', 'pleas', 'nomin', 'eastran', 'also', 'pleas', 'nomin', 'p', 'g', 'e', 'carthag', 'tailgat', 'mmbtu', 'fuel', 'cotton', 'valley', 'flow', 'lst', 'nd', 'therefor', 'onli', 'nomin', 'place', 'fuel', 'cotton', 'valley', 'sale', 'assum', 'price', 'hsc']

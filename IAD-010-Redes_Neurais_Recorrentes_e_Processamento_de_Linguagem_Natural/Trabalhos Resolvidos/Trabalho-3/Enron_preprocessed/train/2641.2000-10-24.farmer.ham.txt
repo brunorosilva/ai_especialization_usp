@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'roo', 'common', 'point', 'trade', 'zone', 'vanc', 'issu', 'meter', 'termin', 'system', 'per', 'cheryl', 'jone', 'effect', 'therefor', 'ani', 'purchas', 'point', 'forward', 'ua', 'probabl', 'negat', 'impact', 'accrual', 'think', 'perhap', 'deal', 'back', 'wellhead', 'level', 'ani', 'measur', 'volum', 'sinc', 'termin', 'know', 'exact', 'term', 'calpin', 'deal', 'physic', 'assist', 'clear', 'great', 'appreci', 'mari']

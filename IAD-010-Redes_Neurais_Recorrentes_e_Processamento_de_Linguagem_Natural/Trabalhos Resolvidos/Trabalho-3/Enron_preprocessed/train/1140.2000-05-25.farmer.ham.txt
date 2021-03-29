@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'xport', 'ta', 'prod', 'lorain', 'sent', 'alloc', 'fuel', 'schedul', 'schedul', 'fuel', 'day', 'flow', 'day', 'fuel', 'let', 'know', 'need', 'book', 'fuel', 'contract', 'need', 'done', 'day', 'flow', 'call', 'lorain', 'told', 'us', 'contact', 'sinc', 'awar', 'thank']

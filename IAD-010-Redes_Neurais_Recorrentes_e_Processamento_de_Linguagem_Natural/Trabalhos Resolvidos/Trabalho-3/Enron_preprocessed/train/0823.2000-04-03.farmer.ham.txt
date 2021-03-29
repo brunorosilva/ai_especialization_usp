@@ -1,0 +1,2 @@
+0
+['subject', 'transact', 'confirm', 'sheet', 'jennif', 'darren', 'would', 'pleas', 'forward', 'lisa', 'maillet', 'fax', 'copi', 'transact', 'confirm', 'sheet', 'regard', 'gas', 'mmbtu', 'lsp', 'interconnect', 'oasi', 'waha', 'mmbtu', 'lsp', 'interconnect', 'pg', 'e', 'ntp', 'maypearl', 'melp', 'limit', 'agent', 'abb', 'alstom', 'power', 'inc', 'purchas', 'houston', 'pipe', 'line', 'past', 'wednesday', 'thank', 'trey']

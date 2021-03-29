@@ -1,0 +1,2 @@
+0
+['subject', 'potenti', 'list', 'novemb', 'daren', 'list', 'potenti', 'deal', 'novemb', 'brigham', 'oil', 'gas', 'lopez', 'miner', 'trust', 'meter', 'mcfd', 'phoenix', 'gas', 'pipelin', 'phoenix', 'taylor', 'meter', 'unknown', 'mcfd', 'pressler', 'petroleum', 'pressler', 'stoval', 'meter', 'mcfd', 'superior', 'natur', 'gas', 'walter', 'hamilton', 'meter', 'unknown', 'mcfd', 'number', 'includ', 'vanc', 'nomin', 'let', 'know', 'need', 'ani', 'addit', 'inform', 'thank', 'susan', 'smith', 'x']

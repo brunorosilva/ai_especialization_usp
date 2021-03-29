@@ -1,0 +1,2 @@
+0
+['subject', 'panenergi', 'market', 'compani', 'becaus', 'time', 'issu', 'client', 'servic', 'fix', 'deal', 'separ', 'carthag', 'meter', 'new', 'ticket', 'ticket', 'price', 'carthag', 'suppos', 'hsc', 'staci', 'need', 'feb', 'path', 'asap', 'volum', 'mgmt', 'get', 'volum', 'move', 'client', 'servic', 'need', 'get', 'invoic', 'today', 'problem', 'among', 'exchang', 'deal', 'current', 'massiv', 'r', 'issu', 'tri', 'get', 'cleanup', 'befor', 'end', 'month', 'ani', 'question', 'pleas', 'feel', 'free', 'call']

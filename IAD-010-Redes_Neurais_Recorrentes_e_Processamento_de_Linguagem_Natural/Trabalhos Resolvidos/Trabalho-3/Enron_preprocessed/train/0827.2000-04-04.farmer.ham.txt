@@ -1,0 +1,2 @@
+0
+['subject', 'correct', 'nomin', 'eastran', 'bruce', 'mcmill', 'absenc', 'send', 'follow', 'correct', 'eastran', 'nomin', 'bruce', 'confirm', 'correct', 'darren', 'farmer', 'correct', 'nomin', 'deliveri', 'mmbtu', 'eastran', 'redeliveri', 'pg', 'e', 'fuel', 'cotton', 'valley', 'hpl', 'hpl', 'carwheel', 'carthag', 'mobil', 'beaumont', 'hsc', 'mobil', 'beaumont', 'hsc']

@@ -1,0 +1,2 @@
+0
+['subject', 'follow', 'day', 'site', 'pleas', 'hold', 'thursday', 'march', 'th', 'pm', 'tentat', 'follow', 'meet', 'site', 'soon', 'concret', 'inform', 'let', 'know', 'note', 'manag', 'calendar', 'updat', 'thank', 'yvett', 'x']

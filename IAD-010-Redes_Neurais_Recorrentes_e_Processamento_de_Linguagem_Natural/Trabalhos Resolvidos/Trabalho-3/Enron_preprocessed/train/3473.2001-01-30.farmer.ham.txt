@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'daren', 'look', 'deal', 'volum', 'deal', 'januari', 'deal', 'volum', 'never', 'schedul', 'volum', 'howev', 'januari', 'receiv', 'flow', 'due', 'rank', 'pop', 'taken', 'zero', 'onc', 'actual', 'came', 'pleas', 'let', 'know', 'intend', 'volum', 'deal', 'jan', 'thank']

@@ -1,0 +1,2 @@
+0
+['subject', 'june', 'co', 'owner', 'volum', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'steve', 'holm', 'pm', 'cc', 'subject', 'june', 'co', 'owner', 'volum', 'pleas', 'see', 'attach', 'list', 'co', 'owner', 'volum', 'june', 'steve', 'co', 'owner', 'volum', 'enronl', 'xls', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'jacquelin', 'blanchard', 'pm', 'cc', 'subject', 'quarantin', 'bay', 'text', 'htm']

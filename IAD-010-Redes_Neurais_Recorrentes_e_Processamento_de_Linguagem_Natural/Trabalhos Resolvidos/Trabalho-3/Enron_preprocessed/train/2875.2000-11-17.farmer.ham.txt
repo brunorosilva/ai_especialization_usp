@@ -1,0 +1,2 @@
+0
+['subject', 'summari', 'prc', 'meet', 'upcom', 'meet', 'ad', 'calendar', 'expect', 'attend', 'prc', 'process', 'gas', 'logist', 'pre', 'prc', 'meet', 'novemb', 'hyatt', 'regenc', 'pecan', 'room', 'lpm', 'lunch', 'duck', 'co', 'logist', 'volum', 'mgmt', 'prc', 'review', 'meet', 'novemb', 'eb', 'c', 'lpm', 'pm', 'gas', 'pulp', 'paper', 'trade', 'oper', 'decemb', 'eb', 'c', 'heather', 'choat', 'x']

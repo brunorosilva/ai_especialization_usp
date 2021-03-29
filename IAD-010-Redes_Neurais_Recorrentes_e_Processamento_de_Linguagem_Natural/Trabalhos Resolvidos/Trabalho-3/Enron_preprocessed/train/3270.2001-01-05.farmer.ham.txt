@@ -1,0 +1,2 @@
+0
+['subject', 'martin', 'luther', 'king', 'day', 'tom', 'inform', 'work', 'monday', 'januari', 'th', 'martin', 'luther', 'king', 'day', 'enron', 'holiday', 'nymex', 'holiday', 'nice', 'day', 'weekend', 'laura']

@@ -1,0 +1,2 @@
+0
+['subject', 'sap', 'timekeep', 'receiv', 'logon', 'id', 'password', 'sap', 'morn', 'hold', 'learn', 'lunch', 'earli', 'next', 'week', 'walk', 'new', 'hr', 'onlin', 'system', 'timekeep', 'system', 'know', 'key', 'time', 'keep', 'post', 'detail', 'learn', 'lunch']

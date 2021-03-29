@@ -1,0 +1,2 @@
+0
+['subject', 'updat', 'union', 'carbid', 'safeti', 'net', 'gas', 'got', 'call', 'last', 'night', 'carbid', 'rescind', 'chang', 'rate', 'rate', 'safeti', 'net', 'gas', 'due', 'morn', 'carbid', 'seadrift', 'saftey', 'net', 'baseload', 'deal', 'texa', 'citi', 'term', 'deal', 'plus', 'safeti', 'net', 'total', 'call', 'question', 'lee']

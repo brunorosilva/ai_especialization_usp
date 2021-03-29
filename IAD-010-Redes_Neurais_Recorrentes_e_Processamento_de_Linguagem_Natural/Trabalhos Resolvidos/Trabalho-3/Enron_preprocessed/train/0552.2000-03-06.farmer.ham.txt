@@ -1,0 +1,2 @@
+0
+['subject', 'lower', 'colorado', 'river', 'vol', 'stacey', 'new', 'deal', 'miss', 'day', 'pleas', 'let', 'know', 'correct', 'thank', 'thu', 'forward', 'thu', 'nguyen', 'hou', 'ect', 'tina', 'valadez', 'thu', 'nguyen', 'hou', 'ect', 'ect', 'cc', 'subject', 'lower', 'colorado', 'river', 'vol', 'could', 'let', 'know', 'chanc', 'look', 'lcra', 'volum', 'thank', 'tina', 'valadez']

@@ -1,0 +1,2 @@
+0
+['subject', 'oto', 'offic', 'thru', 'vacat', 'ani', 'question', 'mike', 'olsen', 'ext', 'point', 'person', 'desk', 'handl', 'bob', 'c', 'bmar', 'creat', 'send', 'nom', 'bridg', 'back', 'hpl', 'hpl', 'ena', 'mike', 'carhtag', 'hub', 'devon', 'bmar', 'back', 'hpl', 'pool', 'bp', 'amoco', 'centana', 'storag', 'hpl', 'meter', 'tom', 'tufco', 'path', 'hpl', 'ena']

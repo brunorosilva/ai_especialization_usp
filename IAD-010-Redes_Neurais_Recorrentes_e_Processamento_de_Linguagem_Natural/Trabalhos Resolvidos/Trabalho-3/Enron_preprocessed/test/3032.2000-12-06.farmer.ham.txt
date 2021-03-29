@@ -1,0 +1,2 @@
+0
+['subject', 'inclement', 'weather', 'plan', 'bob', 'bob', 'fyi', 'daren', 'let', 'know', 'accord', 'next', 'week', 'weather', 'report', 'get', 'cold', 'possibl', 'ici', 'wednesday', 'thursday', 'next', 'week', 'texa', 'desk', 'reserv', 'room', 'hyatt', 'prepar', 'inclement', 'weather', 'pleas', 'let', 'know', 'think', 'region', 'prepar', 'way', 'well', 'wednesday', 'high', 'low', 'thursday', 'high', 'low', 'thank', 'heather']

@@ -1,0 +1,2 @@
+0
+['subject', 'midtex', 'compar', 'hpl', 'number', 'pg', 'e', 'number', 'found', 'discrep', 'tufco', 'volum', 'hpl', 'pg', 'e', 'day', 'small', 'discrep', 'got', 'carlo', 'discrep', 'check', 'number', 'sent', 'tufco', 'verifi', 'also', 'check', 'steve', 'gas', 'control', 'regard', 'flow', 'tufco', 'steve', 'told', 'gone', 'back', 'mop', 'correct', 'volum', 'impact', 'ua', 'number', 'also', 'decreas', 'midtexa', 'cumul', 'imbal', 'pg', 'e', 'owe', 'hpl', 'ani', 'question', 'pleas', 'let', 'know', 'aime']

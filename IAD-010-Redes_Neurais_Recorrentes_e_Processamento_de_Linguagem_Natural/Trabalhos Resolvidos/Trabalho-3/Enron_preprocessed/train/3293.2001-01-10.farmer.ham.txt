@@ -1,0 +1,2 @@
+0
+['subject', 'dec', 'prod', 'panther', 'pipelin', 'demand', 'charg', 'pleas', 'let', 'know', 'vaild', 'demand', 'charg', 'deal', 'gtc', 'contract', 'daren', 'indic', 'awar', 'deal', 'unless', 'someth', 'entex', 'fyi', 'volum', 'flow', 'meter', 'dec', 'zero', 'pleas', 'advis', 'katherin']

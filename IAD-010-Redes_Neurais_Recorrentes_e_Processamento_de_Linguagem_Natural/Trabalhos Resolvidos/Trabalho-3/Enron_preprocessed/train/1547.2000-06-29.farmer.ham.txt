@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'avail', 'even', 'due', 'emerg', 'repair', 'sitara', 'cpr', 'unavail', 'pm', 'even', 'addit', 'repair', 'made', 'server', 'room', 'outag', 'impact', 'system', 'anticip', 'sitara', 'avail', 'begin', 'tomorrow', 'morn', 'ani', 'question', 'concern', 'pleas', 'contact', 'sitara', 'hotlin', 'x', 'scott', 'mill']

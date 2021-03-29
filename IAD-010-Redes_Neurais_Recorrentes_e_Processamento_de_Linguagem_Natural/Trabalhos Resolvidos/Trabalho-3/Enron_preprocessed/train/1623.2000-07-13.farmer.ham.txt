@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'extend', 'deal', 'end', 'june', 'addit', 'flow', 'meter', 'th', 'thru', 'th', 'could', 'extend', 'deal', 'thru', 'th', 'vol', 'manag', 'creat', 'account', 'arrang', 'person', 'need', 'contact', 'could', 'let', 'know', 'need', 'talk']

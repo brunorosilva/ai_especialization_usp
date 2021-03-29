@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'nomin', 'mmbtu', 'hpl', 'eastran', 'interconnect', 'equat', 'mcf', 'like', 'mmbtu', 'redeliv', 'fuel', 'cotton', 'valley', 'p', 'g', 'e', 'carthag', 'tailgat', 'mmbtu']

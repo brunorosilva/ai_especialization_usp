@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'contact', 'list', 'per', 'request', 'rita', 'wynn', 'x', 'pleas', 'see', 'attach', 'note', 'joani', 'ngo', 'ad', 'list', 'mani', 'thank', 'pamela', 'chamber', 'thompson', 'x']

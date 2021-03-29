@@ -1,0 +1,2 @@
+1
+['subject', 'account', 'ln', 'hi', 'sent', 'email', 'last', 'week', 'want', 'confirm', 'everyth', 'pleas', 'review', 'info', 'let', 'know', 'ani', 'question', 'happi', 'inform', 'accept', 'mo', 'rtgage', 'applic', 'bad', 'cr', 'edit', 'ok', 'readi', 'give', 'loa', 'n', 'month', 'payment', 'appr', 'oval', 'process', 'take', 'minut', 'visit', 'link', 'fill', 'short', 'form', 'thank', 'http', 'www', 'buttonbasket', 'com', 'mn', 'num', 'best', 'regard', 'ceo', 'kimber', 'wheeler', 'lst', 'mor', 'tga', 'ge', 'group']

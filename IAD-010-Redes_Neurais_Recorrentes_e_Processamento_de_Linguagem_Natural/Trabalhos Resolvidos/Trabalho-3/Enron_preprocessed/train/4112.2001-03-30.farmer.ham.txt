@@ -1,0 +1,2 @@
+0
+['subject', 'cp', 'l', 'thank', 'help', 'rebecca', 'forward', 'rebecca', 'griffin', 'na', 'enron', 'pm', 'janet', 'h', 'walli', 'ect', 'rebecca', 'griffin', 'na', 'enron', 'enron', 'cc', 'subject', 'cp', 'l', 'pleas', 'add', 'spot', 'sale', 'feb', 'k', 'thank', 'janet']

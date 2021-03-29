@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'lamay', 'gaslift', 'aime', 'pleas', 'check', 'meter', 'lamay', 'gas', 'lift', 'appear', 'veri', 'much', 'flow', 'bav', 'show', 'nom', 'volum', 'could', 'advers', 'affect', 'risk', 'number', 'pat']

@@ -1,0 +1,2 @@
+1
+['subject', 'doubl', 'penetr', 'blast', 'peacemak', 'appeas', 'cesar', 'bouquet', 'artistri', 'dentistri', 'lustrous', 'crusti', 'garnet', 'aristotelian', 'roundhous', 'sud', 'baltimorean', 'belch', 'middlemen', 'breezi', 'bernini', 'bratwurst', 'parliamentarian', 'casbah', 'bocklog', 'juri', 'restaurateur', 'piedmont', 'gather', 'somebodi', 'millenarian', 'parabola', 'blizzard', 'intrins', 'brother', 'charlottesvill', 'hostil', 'antiqu', 'vigilant']

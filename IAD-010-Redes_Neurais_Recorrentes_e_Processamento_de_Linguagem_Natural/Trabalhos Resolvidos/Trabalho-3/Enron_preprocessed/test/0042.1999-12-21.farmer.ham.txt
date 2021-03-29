@@ -1,0 +1,2 @@
+0
+['subject', 'hl', 'p', 'daren', 'sorri', 'forgot', 'includ', 'forward', 'kimber', 'vaughn', 'hou', 'ect', 'pm', 'kimber', 'vaughn', 'pm', 'janet', 'h', 'walli', 'hou', 'ect', 'ect', 'cc', 'howard', 'b', 'camp', 'hou', 'ect', 'ect', 'subject', 'hl', 'p', 'janet', 'back', 'vacat', 'updat', 'hl', 'p', 'flow', 'mtd', 'jill', 'told', 'th', 'th', 'th', 'san', 'jac', 'nom', 'correct', 'need', 'chang', 'sitara', 'scada', 'problem', 'meter', 'gas', 'control', 'given', 'verbal', 'th', 'monitor', 'scada', 'adjust', 'necessari', 'let', 'know', 'anyth', 'els', 'thank']

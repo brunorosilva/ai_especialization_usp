@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'thompsonvill', 'shut', 'gas', 'daren', 'fyi', 'saxet', 'thompsonvill', 'meter', 'shut', 'hour', 'bob']

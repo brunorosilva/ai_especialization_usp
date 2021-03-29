@@ -1,0 +1,2 @@
+0
+['subject', 'industri', 'daili', 'transact', 'spreadsheet', 'address', 'daili', 'transact', 'account', 'taccount', 'industri', 'term', 'swing', 'buyback', 'deal', 'logist', 'hadix', 'hadix', 'taccount', 'octo', 'also', 'includ', 'hardi', 'st', 'meter', 'daili', 'balanc', 'monitor', 'deal', 'separ', 'shipper', 'e', 'houston', 'pipelin', 'ena', 'sheet', 'password', 'protect', 'must', 'view', 'read', 'onli', 'pleas', 'let', 'know', 'ani', 'question', 'suggest', 'susan']

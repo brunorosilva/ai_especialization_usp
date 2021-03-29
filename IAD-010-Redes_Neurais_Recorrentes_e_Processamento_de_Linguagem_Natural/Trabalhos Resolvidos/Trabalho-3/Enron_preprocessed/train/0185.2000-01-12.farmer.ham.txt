@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'dec', 'day', 'discrep', 'pg', 'e', 'pleas', 'let', 'know', 'number', 'good', 'thank', 'thu', 'day', 'pg', 'e', 'hpl']

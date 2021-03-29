@@ -1,0 +1,2 @@
+0
+['subject', 'pleas', 'print', 'hi', 'honey', 'could', 'pleas', 'print', 'roster', 'much', 'troubl', 'worri', 'thank', 'love', 'xblue', 'xls', 'xgold', 'xls', 'xgreen', 'xls', 'xred', 'xls']

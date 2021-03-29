@@ -1,0 +1,2 @@
+0
+['subject', 'black', 'marlin', 'mike', 'show', 'path', 'deal', 'product', 'month', 'januari', 'februari', 'deal', 'expir', 'late', 'path', 'caus', 'bridgeback', 'error', 'januari', 'februari']

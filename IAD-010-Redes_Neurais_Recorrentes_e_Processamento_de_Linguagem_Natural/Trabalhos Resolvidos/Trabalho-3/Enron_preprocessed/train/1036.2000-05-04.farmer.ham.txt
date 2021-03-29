@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'eastran', 'nomin', 'follow', 'friday', 'mmbtu', 'eastran', 'redeliveri', 'mmbtu', 'redeliv', 'lone', 'star', 'hpl', 'interconnect', 'rusk', 'counti', 'texa', 'mmbtu', 'pg', 'e', 'carthag', 'fuel', 'cotton', 'valley', 'hpl', 'price', 'lsg', 'hpl', 'interconnect', 'volum', 'hsc', 'volum', 'residu', 'avail', 'sale', 'intern', 'duke', 'x', 'mmbtu']

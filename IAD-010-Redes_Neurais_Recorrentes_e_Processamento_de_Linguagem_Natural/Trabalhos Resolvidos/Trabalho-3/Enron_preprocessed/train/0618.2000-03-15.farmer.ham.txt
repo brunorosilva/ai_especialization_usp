@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'eastran', 'reciept', 'follow', 'discuss', 'due', 'weather', 'decid', 'reschedul', 'mainten', 'nom', 'return', 'mmbtu', 'effect', 'today', 'follow', 'notic', 'mmbtu', 'come', 'cipco', 'mobil', 'beaumont', 'pg', 'e', 'fuel', 'cotton', 'valley', 'hpl', 'unless', 'problem', 'aris', 'plan', 'stay', 'level', 'tuesday', 'go', 'day', 'onli']

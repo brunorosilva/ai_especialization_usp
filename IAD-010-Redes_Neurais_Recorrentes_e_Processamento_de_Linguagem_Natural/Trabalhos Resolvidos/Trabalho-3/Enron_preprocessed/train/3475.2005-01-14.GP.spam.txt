@@ -1,0 +1,2 @@
+1
+['subject', 'bu', 'cia', 'lis', 'soft', 'tab', 'day', 'sale', 'new', 'clall', 'softtab', 'lnstant', 'rockhard', 'erectlon', 'simpli', 'disolv', 'half', 'plll', 'tongu', 'min', 'befor', 'action', 'result', 'last', 'weekend', 'normal', 'retail', 'plll', 'order', 'us', 'today', 'price', 'interest', 'pt', 'ut']

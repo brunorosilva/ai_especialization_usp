@@ -1,0 +1,2 @@
+1
+['subject', 'match', 'pri', 'ces', 'smeg', 'lowest', 'price', 'med', 'vicodin', 'onli', 'via', 'gra', 'onli', 'vaiium', 'onli', 'hydrocodon', 'onli', 'phen', 'termin', 'onli', 'st', 'avail', 'nowaday', 'time', 'mai', 'ing', 'moval', 'quir']

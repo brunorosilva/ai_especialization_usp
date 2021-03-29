@@ -1,0 +1,2 @@
+0
+['subject', 'june', 'vacat', 'pleas', 'submit', 'june', 'vacat', 'asap', 'thank', 'yvett', 'x']

@@ -1,0 +1,2 @@
+0
+['subject', 'pc', 'instal', 'p', 'daren', 'work', 'pc', 'request', 'provid', 'follow', 'inform', 'start', 'imag', 'pc', 'imag', 'window', 'unless', 'need', 'nt', 'user', 'id', 'password', 'lotus', 'note', 'password', 'outlook', 'palm', 'pilot', 'printer', 'locat', 'monitor', 'let', 'know', 'tommi', 'c', 'garza', 'enron', 'network']

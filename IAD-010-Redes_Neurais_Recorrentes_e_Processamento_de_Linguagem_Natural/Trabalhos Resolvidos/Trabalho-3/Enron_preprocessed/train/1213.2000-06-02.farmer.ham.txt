@@ -1,0 +1,2 @@
+0
+['subject', 'pleas', 'extend', 'sale', 'lockhart', 'southern', 'union', 'two', 'extra', 'day', 'price', 'thank', 'janet', 'forward', 'janet', 'h', 'walli', 'hou', 'ect', 'jacki', 'young', 'janet', 'h', 'walli', 'hou', 'ect', 'ect', 'cc', 'subject', 'pleas', 'extend', 'deal', 'cover', 'flow', 'th', 'decatherm', 'flow', 'st', 'decatherm', 'flow', 'thank', 'jacki']

@@ -1,0 +1,2 @@
+0
+['subject', 'ces', 'chang', 'eff', 'fyi', 'ces', 'chang', 'effecti', 'lonestar', 'total', 'receipt', 'deliv', 'hpl', 'kati', 'fuel', 'midcon', 'kindermorgan', 'total', 'receipt', 'chang', 'greta', 'toc']

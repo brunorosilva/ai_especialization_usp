@@ -1,0 +1,2 @@
+0
+['subject', 'sap', 'timelin', 'awar', 'sap', 'financi', 'system', 'implement', 'enron', 'north', 'america', 'compani', 'juli', 'attach', 'file', 'contain', 'timelin', 'transact']

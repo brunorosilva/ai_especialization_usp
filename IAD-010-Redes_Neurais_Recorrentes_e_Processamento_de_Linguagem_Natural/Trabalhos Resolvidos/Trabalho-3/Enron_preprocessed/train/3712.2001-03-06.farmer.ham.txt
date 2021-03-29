@@ -1,0 +1,2 @@
+0
+['subject', 'exxon', 'bid', 'eric', 'daren', 'suggest', 'forward', 'request', 'per', 'voic', 'mail', 'attach', 'pleas', 'find', 'spreadsheet', 'detail', 'locat', 'deliveri', 'point', 'meter', 'number', 'avail', 'volum', 'packag', 'gas', 'texa', 'gulf', 'coast', 'waha', 'area', 'pleas', 'provid', 'firm', 'gas', 'bid', 'packag', 'period', 'april', 'octob', 'april', 'march', 'avail', 'column', 'b', 'c', 'spreadsheet', 'complet', 'spreadsheet', 'pleas', 'return', 'via', 'e', 'mail', 'thank', 'melissa', 'grave', 'x']

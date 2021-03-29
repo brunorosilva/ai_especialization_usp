@@ -1,0 +1,2 @@
+0
+['subject', 'christma', 'tree', 'farm', 'pictur', 'thank', 'ram', 'tackett', 'mailto', 'rtackett', 'abacustech', 'net', 'owner', 'abacus', 'technolog', 'lore', 'lane', 'spring', 'tx', 'voic', 'fax', 'note', 'w', 'houston', 'web', 'http', 'www', 'abacustech', 'net']

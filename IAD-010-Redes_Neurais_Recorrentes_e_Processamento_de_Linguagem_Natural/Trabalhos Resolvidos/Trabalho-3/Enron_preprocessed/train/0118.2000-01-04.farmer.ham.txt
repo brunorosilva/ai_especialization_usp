@@ -1,0 +1,2 @@
+0
+['subject', 'industri', 'suggest', 'forward', 'kenneth', 'seaman', 'hou', 'ect', 'pm', 'pat', 'clyne', 'enron', 'pm', 'kenneth', 'seaman', 'hou', 'ect', 'ect', 'robert', 'e', 'lloyd', 'hou', 'ect', 'ect', 'cc', 'subject', 'industri', 'ken', 'robert', 'industri', 'complet', 'transit', 'robert', 'januari', 'pleas', 'let', 'know', 'complet', 'els', 'left', 'transit', 'thank', 'pat']

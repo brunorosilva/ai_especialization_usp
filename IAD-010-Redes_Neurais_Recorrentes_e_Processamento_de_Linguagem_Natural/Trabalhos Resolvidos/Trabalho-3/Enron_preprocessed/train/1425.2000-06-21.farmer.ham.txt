@@ -1,0 +1,2 @@
+0
+['subject', 'desk', 'summari', 'report', 'cpr', 'report', 'name', 'desk', 'summari', 'current', 'review', 'upgrad', 'told', 'report', 'use', 'dure', 'bidweek', 'check', 'posit', 'particular', 'pipe', 'particular', 'zone', 'need', 'addit', 'data', 'report', 'could', 'veri', 'easili', 'ad', 'report', 'select', 'sitara', 'report', 'applic', 'anyon', 'would', 'like', 'see', 'detail', 'inform', 'report', 'pleas', 'let', 'know', 'may', 'report', 'alreadi', 'product', 'access', 'pleas', 'let', 'know', 'format', 'current', 'cpr', 'suffici', 'soon', 'possibl', 'chao']

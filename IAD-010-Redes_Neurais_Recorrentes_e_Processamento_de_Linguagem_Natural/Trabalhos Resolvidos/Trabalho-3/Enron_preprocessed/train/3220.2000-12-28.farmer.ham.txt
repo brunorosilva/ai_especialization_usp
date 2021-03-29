@@ -1,0 +1,2 @@
+0
+['subject', 'januari', 'devon', 'avail', 'pleas', 'call', 'ani', 'question', 'sure', 'guy', 'vacat', 'want', 'make', 'sure', 'got', 'bever', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'victor', 'haley', 'pm', 'cc', 'subject', 'januari', 'devon', 'avail', 'pleas', 'call', 'ani', 'question', 'januari', 'devon', 'avail', 'pleas', 'call', 'ani', 'question', 'enronavailsol', 'xls']

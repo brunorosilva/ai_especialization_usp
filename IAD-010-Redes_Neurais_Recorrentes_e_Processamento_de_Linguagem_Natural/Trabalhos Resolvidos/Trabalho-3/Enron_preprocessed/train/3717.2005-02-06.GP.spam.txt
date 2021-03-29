@@ -1,0 +1,2 @@
+1
+['subject', 'hate', 'red', 'light', 'camera', 'j', 'svs', 'caught', 'red', 'light', 'camera', 'yet', 'yes', 'alreadi', 'paid', 'offens', 'told', 'way', 'avoid', 'fine', 'forev', 'gaurante', 'come', 'find', 'check', 'chang', 'futur', 'prefer']

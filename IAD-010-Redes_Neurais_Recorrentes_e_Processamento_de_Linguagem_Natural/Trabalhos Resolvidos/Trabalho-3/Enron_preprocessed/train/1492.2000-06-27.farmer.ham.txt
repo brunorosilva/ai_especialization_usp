@@ -1,0 +1,2 @@
+0
+['subject', 'june', 'hour', 'survey', 'attach', 'pleas', 'find', 'hour', 'survey', 'instruct', 'month', 'june', 'hour', 'chang', 'last', 'month', 'pleas', 'send', 'us', 'email', 'indic', 'survey', 'doe', 'contain', 'activ', 'team', 'spend', 'time', 'pleas', 'type', 'ani', 'activ', 'survey', 'contact', 'jennif', 'resid', 'discuss', 'proceed', 'ani', 'question', 'relat', 'model', 'survey', 'unabl', 'meet', 'survey', 'due', 'date', 'pleas', 'call', 'x', 'jame', 'scribner', 'regard', 'shari']

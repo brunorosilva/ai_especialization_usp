@@ -1,0 +1,2 @@
+0
+['subject', 'sitara', 'train', 'switch', 'tom', 'way', 'still', 'make', 'appoint', 'guy', 'next', 'class', 'know', 'rowdi', 'get', 'mari']

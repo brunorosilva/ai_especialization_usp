@@ -1,0 +1,2 @@
+0
+['subject', 'go', 'hi', 'hard', 'wait', 'good', 'stuff', 'regard', 'friend', 'hope', 'understand', 'person', 'person', 'way', 'job', 'believ', 'pat', 'left', 'must', 'realli', 'bad', 'meet', 'took', 'place', 'see', 'henri', 'hub', 'close', 'yesterday', 'amaz', 'produc', 'must', 'happi', 'tree', 'ha', 'get', 'choic', 'tree', 'gift', 'market', 'nice', 'court', 'rule', 'nice', 'greenspan', 'soften', 'stanc', 'interest', 'linda', 'shop', 'much', 'prior', 'year', 'look', 'good', 'today', 'later', 'ken']

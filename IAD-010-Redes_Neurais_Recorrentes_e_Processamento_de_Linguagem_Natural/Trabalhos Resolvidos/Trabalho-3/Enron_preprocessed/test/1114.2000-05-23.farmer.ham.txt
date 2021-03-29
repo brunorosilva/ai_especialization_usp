@@ -1,0 +1,2 @@
+0
+['subject', 'sale', 'el', 'paso', 'merchant', 'stacey', 'settlement', 'brought', 'invoic', 'zero', 'sale', 'mmbtu', 'el', 'paso', 'merchant', 'energi', 'pgev', 'packag', 'deal', 'number', 'market', 'side', 'deal', 'suppli', 'side', 'hplc', 'broker', 'deal', 'pgev', 'buy', 'sell', 'el', 'paso', 'merchant', 'energi', 'purchas', 'sale', 'price', 'know', 'intent', 'deal', 'hesit', 'zero', 'volum', 'let', 'know', 'okay']

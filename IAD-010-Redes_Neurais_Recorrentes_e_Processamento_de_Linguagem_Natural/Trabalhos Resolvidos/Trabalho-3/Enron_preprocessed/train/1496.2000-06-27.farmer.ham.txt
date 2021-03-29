@@ -1,0 +1,2 @@
+0
+['subject', 'conoco', 'inc', 'miss', 'deal', 'may', 'product', 'import', 'pleas', 'read', 'daren', 'left', 'messag', 'regard', 'matter', 'day', 'ago', 'wonder', 'time', 'look', 'conoco', 'say', 'miss', 'one', 'day', 'sale', 'mmbtu', 'deal', 'see', 'sitara', 'could', 'pleas', 'confirm', 'custom', 'alreadi', 'call', 'twice', 'ask', 'us', 'invoic', 'thank', 'help', 'joani', 'x']

@@ -1,0 +1,2 @@
+0
+['subject', 'januari', 'meter', 'clear', 'lake', 'citi', 'gate', 'flow', 'without', 'nom', 'day', 'meter', 'lst', 'nd', 'rd', 'th', 'assum', 'entex', 'meter', 'volum', 'captur', 'meter', 'need', 'nom', 'support', 'flow', 'pleas', 'advis', 'thank']

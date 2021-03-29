@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'nomin', 'codi', 'energi', 'daren', 'receiv', 'revis', 'nomin', 'codi', 'energi', 'request', 'volum', 'adjust', 'meter', 'effect', 'want', 'adjust', 'pleas', 'advis', 'thank', 'bob']

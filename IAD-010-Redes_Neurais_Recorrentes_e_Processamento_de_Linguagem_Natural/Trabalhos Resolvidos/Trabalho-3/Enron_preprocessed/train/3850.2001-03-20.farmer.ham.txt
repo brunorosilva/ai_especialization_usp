@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'meter', 'daren', 'yet', 'shown', 'unifi', 'use', 'deal', 'ticket', 'daren', 'j', 'farmer', 'ect', 'michael', 'olsen', 'na', 'enron', 'enron', 'cc', 'subject', 'deal', 'meter', 'done', 'michael', 'olsen', 'enron', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'deal', 'meter', 'abov', 'deal', 'system', 'continu', 'flow', 'follow', 'date', 'total', 'flow', 'deal', 'extend', 'cover', 'januari', 'februari', 'flow']

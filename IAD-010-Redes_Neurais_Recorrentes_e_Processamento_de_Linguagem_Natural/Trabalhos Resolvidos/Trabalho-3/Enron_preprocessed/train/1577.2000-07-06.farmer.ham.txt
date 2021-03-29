@@ -1,0 +1,2 @@
+0
+['subject', 'teja', 'nomin', 'chang', 'effect', 'reason', 'e', 'mail', 'got', 'sorri', 'make', 'late', 'anyth', 'bev', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'cynthia', 'cantrel', 'cc', 'subject', 'teja', 'nomin', 'chang', 'effect', 'attach', 'revis', 'hayn', 'ctp', 'effect', 'pleas', 'advis', 'need', 'addit', 'inform', 'thank', 'cynthia', 'cantrel', 'enronhayn', 'xls']

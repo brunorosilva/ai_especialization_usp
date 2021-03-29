@@ -1,0 +1,2 @@
+0
+['subject', 'put', 'expect', 'volum', 'sale', 'sds', 'tufco', 'sitara']

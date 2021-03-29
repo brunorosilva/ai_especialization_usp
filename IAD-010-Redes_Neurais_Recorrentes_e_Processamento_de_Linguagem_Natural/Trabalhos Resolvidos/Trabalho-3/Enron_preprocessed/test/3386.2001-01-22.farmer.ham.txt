@@ -1,0 +1,2 @@
+0
+['subject', 'pg', 'e', 'texa', 'never', 'mind', 'chang', 'price', 'thank', 'forward', 'megan', 'parker', 'corp', 'enron', 'pm', 'megan', 'parker', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'pg', 'e', 'texa', 'head', 'might', 'get', 'call', 'pg', 'e', 'regard', 'price', 'differ', 'deal', 'trader', 'stay', 'megan']

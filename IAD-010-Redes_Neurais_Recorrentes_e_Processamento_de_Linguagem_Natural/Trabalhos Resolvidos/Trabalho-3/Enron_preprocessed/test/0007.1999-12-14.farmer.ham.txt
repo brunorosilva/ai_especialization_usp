@@ -1,0 +1,2 @@
+0
+['subject', 'mcmullen', 'gas', 'jacki', 'sinc', 'inlet', 'river', 'plant', 'shut', 'last', 'day', 'flow', 'meter', 'mcmullen', 'gas', 'divert', 'meter', 'hpl', 'buy', 'residu', 'gas', 'gas', 'teco', 'vastar', 'vintag', 'tejon', 'swift', 'still', 'see', 'activ', 'deal', 'meter', 'path', 'manag', 'teco', 'vastar', 'vintag', 'tejon', 'swift', 'also', 'see', 'gas', 'schedul', 'pop', 'meter', 'pleas', 'advic', 'need', 'resolv', 'soon', 'possibl', 'settlement', 'send', 'payment', 'thank']

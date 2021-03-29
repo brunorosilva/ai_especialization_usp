@@ -1,0 +1,2 @@
+0
+['subject', 'sanchez', 'oil', 'gas', 'harri', 'counti', 'texa', 'daren', 'sanchez', 'oil', 'gas', 'well', 'highland', 'well', 'connect', 'hpl', 'meter', 'well', 'flow', 'approx', 'sanchez', 'would', 'like', 'bid', 'gas', 'begin', 'decemb', 'year', 'term', 'w', 'hpl', 'get', 'transport', 'bid', 'hpl', 'wherev', 'need', 'gas', 'buy', 'receipt', 'point', 'less', 'transport', 'buy', 'meter', 'know', 'rate', 'pretti', 'reason', 'sanchez', 'may', 'prefer', 'enron', 'buy', 'gas', 'let', 'discuss', 'conveni', 'rush', 'buit', 'like', 'look', 'next', 'month', 'thank']

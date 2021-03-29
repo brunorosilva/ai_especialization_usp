@@ -1,0 +1,2 @@
+0
+['subject', 'txu', 'lonestar', 'kati', 'hey', 'spoke', 'ronni', 'skerrik', 'charli', 'stone', 'morn', 'agre', 'lonestar', 'doe', 'bring', 'gas', 'back', 'hpl', 'nome', 'gas', 'continu', 'sold', 'txu', 'elev', 'ani', 'higher', 'vol', 'deliveri', 'make', 'hpl', 'pleas', 'call', 'ani', 'question', 'janet']

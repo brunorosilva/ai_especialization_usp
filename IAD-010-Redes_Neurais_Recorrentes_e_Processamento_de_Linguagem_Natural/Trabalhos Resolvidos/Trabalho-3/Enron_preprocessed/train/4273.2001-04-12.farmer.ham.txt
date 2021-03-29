@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'conoco', 'teco', 'waha', 'purchas', 'daren', 'conoco', 'invoic', 'hpl', 'pgev', 'waha', 'deal', 'ticket', 'show', 'confirm', 'price', 'thank']

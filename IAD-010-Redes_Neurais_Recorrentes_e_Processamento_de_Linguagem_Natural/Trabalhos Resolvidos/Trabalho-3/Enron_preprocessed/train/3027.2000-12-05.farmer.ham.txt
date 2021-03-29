@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'pretti', 'sure', 'high', 'zero', 'adjust', 'measur', 'disregard', 'spurious', 'volum', 'come', 'across', 'jame']

@@ -1,0 +1,2 @@
+0
+['subject', 'juli', 'iferc', 'nom', 'attach', 'juli', 'nomin', 'take', 'gas', 'sale', 'purchas', 'contract', 'txu', 'fuel', 'previous', 'tufco', 'hpl', 'resourc', 'co', 'txu', 'fuel', 'contr', 'well', 'juli', 'nomin', 'take', 'gas', 'sale', 'purchas', 'contract', 'txu', 'fuel', 'sds', 'pleas', 'advis', 'ani', 'question', 'concern', 'attach', 'thank', 'charli', 'see', 'attach', 'file', 'minhplno', 'xls', 'see', 'attach', 'file', 'sdsnom', 'xls', 'minhplno', 'xls', 'sdsnom', 'xls']

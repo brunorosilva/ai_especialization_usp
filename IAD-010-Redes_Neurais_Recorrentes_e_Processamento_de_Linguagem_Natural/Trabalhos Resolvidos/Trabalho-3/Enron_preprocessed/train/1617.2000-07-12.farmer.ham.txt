@@ -1,0 +1,2 @@
+0
+['subject', 'interview', 'schedul', 'liz', 'bellami', 'today', 'attach', 'pleas', 'find', 'interview', 'packet', 'abov', 'referenc', 'person', 'interview', 'happen', 'thursday', 'juli', 'pleas', 'print', 'three', 'document', 'hard', 'copi', 'ani', 'question', 'conflict', 'schedul', 'pleas', 'hesit', 'contact']

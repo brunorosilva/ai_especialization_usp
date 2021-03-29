@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'head', 'daran', 'volum', 'chang', 'lst', 'march', 'first', 'eog', 'chang', 'volum', 'gas', 'meter', 'ran', 'lauri', 'allen', 'hall', 'said', 'heavi', 'would', 'visit', 'abut', 'second', 'one', 'cokino', 'confirm', 'volum', 'meter', 'want', 'want', 'look', 'nom', 'ask', 'much', 'chang', 'last', 'one', 'fax', 'morn', 'basin', 'explor', 'want', 'drop', 'nom', 'due', 'well', 'problem', 'whole', 'month', 'let', 'know', 'think', 'get', 'tom', 'cat']

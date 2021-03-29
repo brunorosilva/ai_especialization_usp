@@ -1,0 +1,2 @@
+0
+['subject', 'enron', 'keep', 'good', 'work', 'home', 'love', 'ken']

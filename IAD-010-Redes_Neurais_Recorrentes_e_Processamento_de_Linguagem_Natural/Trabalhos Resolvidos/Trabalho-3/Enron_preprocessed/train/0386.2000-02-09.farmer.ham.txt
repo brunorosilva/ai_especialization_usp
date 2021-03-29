@@ -1,0 +1,2 @@
+0
+['subject', 'mmbtu', 'nom', 'remain', 'place', 'mmbtu', 'fuel', 'cotton', 'valley', 'mmbtu', 'valeroi', 'nom', 'chang', 'purchas', 'sale', 'eastran', 'see', 'refer', 'reduc', 'sale', 'mmbtu', 'fuel', 'cotton', 'valley']

@@ -1,0 +1,2 @@
+0
+['subject', 'cut', 'fyi', 'latest', 'cut', 'richardson', 'oasi', 'el', 'paso', 'j', 'cut', 'burlington', 'oasi', 'el', 'paso', 'j', 'nowl', 'cut', 'exxon', 'oasi', 'el', 'paso', 'j', 'cut', 'k', 'cut', 'oasi', 'pg', 'e', 'waha', 'cut', 'k', 'cut', 'oasi', 'pg', 'e', 'w', 'cut']

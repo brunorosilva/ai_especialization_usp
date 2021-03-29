@@ -1,0 +1,2 @@
+0
+['subject', 'hplc', 'four', 'squar', 'darren', 'anoth', 'hplc', 'issu', 'receiv', 'invoic', 'four', 'squar', 'gas', 'compani', 'today', 'may', 'gas', 'never', 'paid', 'invoic', 'hsc', 'meter', 'see', 'deal', 'unifi', 'went', 'pop', 'find', 'meter', 'found', 'gas', 'path', 'stranger', 'gas', 'contract', 'histor', 'hplc', 'alway', 'purchas', 'gas', 'meter', 'four', 'squar', 'look', 'like', 'deal', 'ever', 'enter', 'may', 'april', 'deal', 'number', 'hplc', 'purchas', 'gas', 'may', 'megan']

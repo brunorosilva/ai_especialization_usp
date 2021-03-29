@@ -1,0 +1,2 @@
+1
+['subject', 'best', 'price', 'impot', 'drug', 'one', 'time', 'discount', 'order', 'vl', 'gra', 'clal', 'vl', 'gra', 'discount', 'order', 'today', 'onli', 'per', 'dose', 'new', 'product', 'generic', 'viagra', 'soft', 'tab', 'soft', 'tab', 'onli', 'per', 'dose', 'new', 'product', 'generic', 'clal', 'soft', 'tab', 'soft', 'clal', 'onli', 'special', 'offer', 'vl', 'gra', 'discount', 'order']

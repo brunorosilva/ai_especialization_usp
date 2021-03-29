@@ -1,0 +1,2 @@
+0
+['subject', 'fyi', 'want', 'let', 'know', 'ani', 'entex', 'inform', 'put', 'togeth', 'follow', 'directori', 'logist', 'entex', 'refer', 'tab', 'also', 'histor', 'volum', 'found', 'risk', 'folder', 'erm', 'intra', 'texa', 'entex', 'databas', 'let', 'know', 'think', 'anyth', 'els', 'need', 'ac']

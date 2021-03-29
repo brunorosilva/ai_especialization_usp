@@ -1,0 +1,2 @@
+0
+['subject', 'k', 'texa', 'log', 'name', 'home', 'pager', 'georg', 'grant', 'charlott', 'hawkin', 'aime', 'lannou', 'robert', 'lloyd', 'stella', 'morri', 'susan', 'trevino', 'kim', 'vaughn', 'jacki', 'young', 'carlo', 'rodriguez', 'mandi', 'allen']

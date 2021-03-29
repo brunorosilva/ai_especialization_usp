@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'georg', 'afternoon', 'meet', 'produc', 'servic', 'jill', 'mention', 'referenc', 'well', 'reperf', 'mean', 'shot', 'hole', 'well', 'pipe', 'allow', 'gas', 'flow', 'well', 'produc', 'approxim', 'day', 'per', 'jill', 'mdq', 'well', 'day', 'may', 'want', 'look', 'get', 'nom', 'revis', 'rest', 'month', 'mari', 'could', 'get', 'heidi', 'lisa', 'check', 'transport', 'rate', 'current', 'show', 'purchas', 'sc', 'flow', 'king', 'ranch', 'thank']

@@ -1,0 +1,2 @@
+0
+['subject', 'nomin', 'written', 'record', 'nom', 'follow', 'nomin', 'eastran', 'mmbtu', 'sinc', 'pg', 'e', 'cut', 'hpl', 'contract', 'effect', 'redeliveri', 'follow', 'pg', 'e', 'mobil', 'beaumont', 'int', 'cartwheel', 'carthag']

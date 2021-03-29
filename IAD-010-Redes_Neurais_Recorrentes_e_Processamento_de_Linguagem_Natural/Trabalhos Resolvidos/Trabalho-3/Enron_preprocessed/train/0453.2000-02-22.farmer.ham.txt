@@ -1,0 +1,2 @@
+0
+['subject', 'texa', 'hplc', 'deal', 'end', 'f', 'forward', 'carlo', 'j', 'rodriguez', 'hou', 'ect', 'pm', 'bryan', 'hull', 'carlo', 'j', 'rodriguez', 'hou', 'ect', 'ect', 'cc', 'subject', 'texa', 'hplc', 'deal', 'end', 'carlo', 'ad', 'line', 'deal', 'includ', 'th', 'februari', 'want', 'let', 'ani', 'question', 'need', 'anyth', 'let', 'know', 'bryan', 'follow', 'deal', 'end', 'date', 'like', 'take', 'look', 'chang', 'necessari', 'note', 'financi', 'deal', 'associ', 'deal', 'like', 'need', 'also', 'chang', 'hplc', 'texa']

@@ -1,0 +1,2 @@
+0
+['subject', 'cornshuck', 'point', 'gas', 'nomint', 'septemb', 'supplier', 'william', 'el', 'paso', 'lomax', 'sterl', 'delhi', 'cayanosa', 'apach', 'cynergi', 'delhi', 'lomax', 'sterl', 'per', 'nanci', 'stiver', 'send', 'nomin', 'onc', 'complet', 'thank', 'mark', 'x']

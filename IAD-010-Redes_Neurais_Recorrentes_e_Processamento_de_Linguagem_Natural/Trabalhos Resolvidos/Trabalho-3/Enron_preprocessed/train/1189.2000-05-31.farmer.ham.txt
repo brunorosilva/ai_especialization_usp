@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'june', 'avail', 'gb', 'sea', 'robin', 'p', 'l', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'revis', 'june', 'avail', 'gb', 'sea', 'robin', 'p', 'l', 'forgot', 'includ', 'garden', 'bank', 'sea', 'robin', 'pvr', 'revis', 'steve', 'enronavailso', 'revis', 'xls', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'ei', 'revis', 'effect', 'tennesse', 'gas', 'p', 'l', 'pleas', 'see', 'attach', 'chang', 'effect', 'ami', 'gas', 'price', 'excess', 'price', 'steve', 'ei', 'reveffo', 'xls']

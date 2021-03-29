@@ -1,0 +1,2 @@
+0
+['subject', 'hplr', 'liquid', 'humbl', 'gas', 'pipelin', 'need', 'get', 'togeth', 'afternoon', 'pm', 'room', 'discuss', 'schedul', 'alloc', 'hplr', 'liquid', 'come', 'humbl', 'gas', 'pipelin', 'meter', 'karri', 'understand', 'want', 'intercompani', 'sale', 'hplr', 'liquid', 'hplc', 'point', 'plan', 'get', 'gas', 'king', 'ranch', 'sinc', 'hplr', 'liquid', 'doe', 'transport', 'humbl', 'daren', 'intercompani', 'hplc', 'purchas', 'set', 'current', 'mop', 'robert', 'sinc', 'stella', 'need', 'someon', 'repres', 'logist', 'hc']

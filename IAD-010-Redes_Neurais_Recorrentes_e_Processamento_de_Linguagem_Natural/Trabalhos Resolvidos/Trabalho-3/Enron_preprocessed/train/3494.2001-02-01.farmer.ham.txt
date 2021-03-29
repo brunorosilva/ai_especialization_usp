@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'decemb', 'either', 'verifi', 'forward', 'gari', 'w', 'lamphier', 'hou', 'ect', 'paul', 'couvillon', 'enron', 'pm', 'gari', 'w', 'lamphier', 'hou', 'ect', 'ect', 'cc', 'janet', 'h', 'walli', 'hou', 'ect', 'ect', 'joani', 'h', 'ngo', 'hou', 'ect', 'ect', 'mari', 'poorman', 'na', 'enron', 'enron', 'subject', 'deal', 'decemb', 'gari', 'compani', 'could', 'pleas', 'put', 'buy', 'back', 'reliant', 'energi', 'hl', 'lower', 'kati', 'mid', 'day', 'flow', 'day', 'price', 'kati', 'mid', 'sale', 'counter', 'part', 'purchas', 'go', 'deal']

@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'daili', 'gas', 'nomin', 'aime', 'offic', 'friday', 'monday', 'absenc', 'pleas', 'call', 'aron', 'childer', 'ani', 'question', 'thank', 'ricki', 'archer', 'fuel', 'suppli', 'louisiana', 'suit', 'houston', 'texa', 'direct', 'fax', 'calpin', 'daili', 'gas', 'nomin', 'doc']

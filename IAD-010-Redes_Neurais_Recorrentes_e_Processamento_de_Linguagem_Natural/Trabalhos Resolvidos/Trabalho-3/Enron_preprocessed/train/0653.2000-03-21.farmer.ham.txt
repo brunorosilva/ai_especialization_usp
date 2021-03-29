@@ -1,0 +1,2 @@
+0
+['subject', 'transport', 'contract', 'oasi', 'contract', 'pg', 'e', 'contract', 'pg', 'e', 'park', 'lend', 'contract', 'await', 'approv', 'pleo', 'plao']

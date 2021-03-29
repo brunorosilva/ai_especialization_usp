@@ -1,0 +1,2 @@
+0
+['subject', 'shell', 'houston', 'open', 'first', 'come', 'first', 'serv', 'shell', 'houston', 'open', 'badg', 'avail', 'let', 'tri', 'share', 'best', 'one', 'day', 'pass', 'invit', 'tonight', 'mardi', 'gras', 'parti', 'ticket', 'saturday', 'beauti', 'n', 'blue', 'concert', 'might', 'good', 'time', 'remind', 'week', 'secretari', 'week', 'sinc', 'hold', 'goodi', 'joke', 'brenda', 'yvett', 'x']

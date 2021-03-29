@@ -1,0 +1,2 @@
+1
+['subject', 'send', 'five', 'motor', 'att', 'client', 'id', 'refer', 'case', 'number', 'mon', 'nov', 'recent', 'receiv', 'mor', 'gage', 'applic', 'request', 'p', 'p', 'rove', 'percent', 'applic', 'wait', 'confirm', 'author', 'process', 'pleas', 'enter', 'addit', 'info', 'continu', 'http', 'www', 'nlcomp', 'com', 'thank', 'fidel']

@@ -1,0 +1,2 @@
+1
+['subject', 'perfect', 'gift', 'buy', 'piaget', 'watch', 'indulg', 'buy', 'tag', 'heuer', 'watch', 'watch', 'arriv', 'luxuri', 'gift', 'box', 'perfect', 'gift', 'stock', 'watch', 'like', 'breguet', 'bmw', 'dior', 'pleas', 'r', 'e', 'r', 'http', 'edvanlcedwanow', 'right', 'com', 'q', 'u', 'http', 'edva', 'ncedwanow', 'right', 'com', 'rm']

@@ -1,0 +1,2 @@
+0
+['subject', 'tuesday', 'decemb', 'th', 'daren', 'follow', 'logist', 'personnel', 'offic', 'tuesday', 'mari', 'poorman', 'mark', 'mccoy', 'eddi', 'janzen', 'tom', 'acton', 'aime', 'lannou', 'think', 'need', 'less', 'peopl', 'pleas', 'let', 'know', 'keep', 'group', 'inform', 'thank', 'mari']

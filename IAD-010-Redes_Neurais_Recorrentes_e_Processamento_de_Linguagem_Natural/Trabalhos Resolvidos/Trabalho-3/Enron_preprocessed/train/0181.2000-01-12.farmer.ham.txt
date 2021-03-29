@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'meter', 'sweeni', 'phillip', 'realloc', 'ani', 'question', 'let', 'know', 'aime']

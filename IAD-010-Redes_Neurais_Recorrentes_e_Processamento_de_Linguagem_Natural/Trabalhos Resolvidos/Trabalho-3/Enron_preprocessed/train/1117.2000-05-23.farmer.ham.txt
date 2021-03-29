@@ -1,0 +1,2 @@
+0
+['subject', 'conoco', 'suppli', 'cut', 'oasi', 'conoco', 'suppli', 'el', 'paso', 'dwe', 'cut', 'oasi', 'nom', 'cut', 'cut', 'nom', 'cut', 'cut', 'deliveri', 'hpl', 'oasi', 'kati', 'kept', 'whole', 'enter', 'cut', 'estim', 'column', 'mop', 'oasi', 'hpl', 'oasi', 'ena', 'pleas', 'verifi', 'correct', 'thank', 'mark']

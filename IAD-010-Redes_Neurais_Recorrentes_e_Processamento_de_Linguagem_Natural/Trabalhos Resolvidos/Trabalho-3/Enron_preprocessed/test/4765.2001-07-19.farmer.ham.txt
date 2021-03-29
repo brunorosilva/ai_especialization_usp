@@ -1,0 +1,2 @@
+0
+['subject', 'txu', 'fuel', 'compani', 'enter', 'contract', 'txu', 'requir', 'ena', 'warrant', 'gas', 'sold', 'intrast', 'gas', 'obvious', 'reason', 'possibl', 'pleas', 'give', 'call', 'wish', 'discuss', 'dp', 'debra', 'perlingier', 'enron', 'north', 'america', 'legal', 'smith', 'street', 'eb', 'houston', 'texa', 'dperlin', 'enron', 'fax']

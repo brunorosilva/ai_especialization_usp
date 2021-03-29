@@ -1,0 +1,2 @@
+0
+['subject', 'offic', 'offic', 'start', 'afternoon', 'back', 'monday', 'aime', 'point', 'person', 'ani', 'question', 'follow', 'peopl', 'desk', 'thank', 'mark', 'hpl', 'pool', 'bob', 'c', 'daili', 'nom', 'path', 'ene', 'bridg', 'back', 'tom', 'tufco', 'sabra', 'bp', 'transport', 'nngb', 'carthag', 'ani', 'question', 'pleas', 'let', 'aime', 'know', 'thank', 'carlo']

@@ -1,0 +1,2 @@
+0
+['subject', 'natur', 'gas', 'nomin', 'enron', 'methanol', 'nomin', 'follow', 'natur', 'gas', 'requir', 'methanol', 'plant', 'august', 'mmbtu', 'per', 'day', 'egpfc', 'nomin', 'follow', 'natur', 'gas', 'requir', 'mtbe', 'plant', 'morgan', 'point', 'august', 'mmbtu', 'per', 'day']

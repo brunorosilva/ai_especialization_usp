@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'dure', 'saxet', 'thompsonvill', 'outag', 'may', 'may', 'meter', 'flow', 'small', 'volum', 'nom', 'set', 'deal', 'day', 'flow', 'aime']

@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'vacat', 'friday', 'june', 'monday', 'june', 'absenc', 'pleas', 'direct', 'ani', 'question', 'issu', 'peopl', 'bammel', 'storag', 'georg', 'grant', 'texaco', 'stella', 'midtexa', 'carlo', 'cp', 'l', 'charlott', 'hl', 'p', 'charlott', 'confirm', 'meter', 'robert', 'error', 'report', 'sabra', 'ani', 'question', 'befor', 'leav', 'let', 'know', 'aime']

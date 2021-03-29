@@ -1,0 +1,2 @@
+0
+['subject', 'job', 'hello', 'jerri', 'would', 'like', 'refer', 'friend', 'mine', 'realli', 'interest', 'join', 'enron', 'sr', 'specialist', 'posit', 'group', 'mba', 'degre', 'mexico', 'lead', 'busi', 'school', 'extens', 'trade', 'risk', 'manag', 'experi', 'enclos', 'resum', 'refer', 'feel', 'free', 'contact', 'direct', 'thank', 'attent', 'catherin', 'simo']

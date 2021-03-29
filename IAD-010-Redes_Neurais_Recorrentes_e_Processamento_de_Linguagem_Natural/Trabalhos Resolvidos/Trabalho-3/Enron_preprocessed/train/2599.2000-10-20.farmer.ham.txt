@@ -1,0 +1,2 @@
+0
+['subject', 'novemb', 'avail', 'first', 'devon', 'number', 'nov', 'advis', 'chang', 'bev', 'forward', 'bever', 'beati', 'hou', 'ect', 'pm', 'enron', 'capit', 'trade', 'resourc', 'corp', 'steve', 'holm', 'pm', 'cc', 'cynthia', 'cantrel', 'subject', 'novemb', 'avail', 'attach', 'estim', 'avail', 'devon', 'energi', 'product', 'compani', 'l', 'c', 'pass', 'along', 'ani', 'revis', 'number', 'receiv', 'pleas', 'let', 'know', 'ani', 'question', 'may', 'thank', 'steve', 'enronavailsl', 'xls']

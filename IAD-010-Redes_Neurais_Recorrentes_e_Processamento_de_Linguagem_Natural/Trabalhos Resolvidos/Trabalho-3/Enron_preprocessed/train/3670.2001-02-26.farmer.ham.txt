@@ -1,0 +1,2 @@
+0
+['subject', 'deal', 'deal', 'made', 'el', 'paso', 'last', 'friday', 'replac', 'deal', 'teco', 'juli', 'meyer', 'need', 'price', 'ad', 'deal', 'price', 'add']

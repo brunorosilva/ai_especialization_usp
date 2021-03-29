@@ -1,0 +1,2 @@
+0
+['subject', 'fw', 'fw', 'fw', 'danc', 'select', 'next', 'presid', 'origin', 'messag', 'cindi', 'roger', 'mailto', 'cindyrl', 'hotmail', 'com', 'sent', 'wednesday', 'novemb', 'pm', 'vbergl', 'jcpenney', 'com', 'sdmotsi', 'aol', 'com', 'kimscott', 'hotmail', 'com', 'cc', 'patti', 'hot', 'yahoo', 'com', 'vlotspeich', 'texoma', 'net', 'witchproctor', 'yahoo', 'com', 'subject', 'fwd', 'fw', 'fw', 'danc', 'select', 'next', 'presid', 'danceoff', 'exe']

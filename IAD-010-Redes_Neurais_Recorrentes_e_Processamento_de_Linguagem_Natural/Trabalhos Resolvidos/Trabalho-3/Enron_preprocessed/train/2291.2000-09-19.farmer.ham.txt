@@ -1,0 +1,2 @@
+0
+['subject', 'equistar', 'nomin', 'schedul', 'chang', 'janic', 'berk', 'davi', 'equistar', 'ask', 'move', 'around', 'firm', 'deal', 'month', 'would', 'like', 'chang', 'effect', 'today', 'septemb', 'sitara', 'describ', 'packag', 'volum', 'price', 'packag', 'meter', 'price', 'greater', 'ifhsc', 'want', 'packag', 'gas', 'move', 'meter', 'packag', 'meter', 'price', 'greater', 'ifhsc', 'want', 'packag', 'gas', 'move', 'meter', 'leav', 'meter', 'ani', 'question', 'pleas', 'call', 'direct', 'thank', 'lee']

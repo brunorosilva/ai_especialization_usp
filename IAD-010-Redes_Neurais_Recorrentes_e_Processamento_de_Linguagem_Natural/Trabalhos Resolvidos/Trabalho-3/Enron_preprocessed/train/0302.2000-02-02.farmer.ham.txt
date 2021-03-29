@@ -1,0 +1,2 @@
+0
+['subject', 'saxet', 'thompsonvill', 'receiv', 'nom', 'tom', 'pleas', 'seek', 'daren', 'advis', 'nom', 'adjust', 'aforement', 'meter', 'due', 'meter', 'receiv', 'mmbtu', 'nom', 'daren', 'two', 'sitara', 'deal', 'number', 'associ', 'w', 'receipt', 'meter', 'gather', 'wellhead', 'gas', 'thank', 'jacki']

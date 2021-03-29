@@ -1,0 +1,2 @@
+0
+['subject', 'valero', 'gas', 'market', 'meter', 'sitara', 'ticket', 'effect', 'march', 'th', 'valero', 'pull', 'ani', 'gas', 'day', 'nomin', 'want', 'arrang', 'buyback', 'activ', 'buyback', 'ticket', 'avail', 'handl', 'ani', 'underag', 'told', 'interconnect', 'week', 'effect', 'march', 'th']

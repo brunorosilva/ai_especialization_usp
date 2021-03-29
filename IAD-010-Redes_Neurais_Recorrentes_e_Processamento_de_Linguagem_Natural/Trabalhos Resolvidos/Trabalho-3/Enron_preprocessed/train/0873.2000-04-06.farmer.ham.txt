@@ -1,0 +1,2 @@
+0
+['subject', 'produc', 'connect', 'contract', 'april', 'thank', 'info', 'heidi', 'alway', 'good', 'second', 'pair', 'eye', 'well', 'done', 'research', 'one', 'hplc', 'deal', 'put', 'gather', 'contract', 'run', 'daren', 'make', 'chang', 'need', 'pleas', 'let', 'know', 'see', 'anyth', 'els', 'take', 'minut', 'check']

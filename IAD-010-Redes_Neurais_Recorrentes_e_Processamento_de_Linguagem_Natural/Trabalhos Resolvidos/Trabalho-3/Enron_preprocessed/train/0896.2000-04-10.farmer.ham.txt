@@ -1,0 +1,2 @@
+0
+['subject', 'call', 'note', 'weekend', 'april', 'th', 'thru', 'april', 'th', 'attach', 'note', 'weekend', 'date', 'april', 'th', 'thru', 'april', 'th', 'texa', 'desk']

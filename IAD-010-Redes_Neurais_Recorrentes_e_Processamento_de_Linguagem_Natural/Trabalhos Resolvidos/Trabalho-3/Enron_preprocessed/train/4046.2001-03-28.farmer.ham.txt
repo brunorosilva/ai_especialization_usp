@@ -1,0 +1,2 @@
+0
+['subject', 'duke', 'nomin', 'track', 'balanc', 'mari']

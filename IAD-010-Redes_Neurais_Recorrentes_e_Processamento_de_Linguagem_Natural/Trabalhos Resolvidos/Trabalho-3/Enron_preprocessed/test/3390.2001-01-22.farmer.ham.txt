@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'bad', 'scada', 'feedback', 'sitara', 'begin', 'januari', 'th', 'meter', 'unit', 'salt', 'bav', 'feed', 'pop', 'show', 'excess', 'flow', 'day', 'begin', 'th', 'neal', 'brought', 'attent', 'even', 'issu', 'blow', 'ua', 'number', 'probabl', 'p', 'l', 'phone', 'lee', 'gas', 'control', 'make', 'sure', 'tech', 'sent', 'check', 'calibr', 'scada', 'feed', 'would', 'like', 'better', 'estim', 'th', 'th', 'asap', 'make', 'correct', 'pertin', 'number', 'thank', 'mari']

@@ -1,0 +1,2 @@
+1
+['subject', 'tue', 'mar', 'r', 'x', 'quit', 'differ', 'w', 'overnight', 'ship', 'pre', 'cription', 'requir', 'w', 'overnight', 'ship', 'order', 'med', 'simpl', 'privat', 'secur', 'p', 'r', 'escript', 'requir', 'thank', 'time', 'dr', 'reuben', 'stringer', 'paliourg', 'u', 'u', 'dislik', 'e', 'c', 'ommerc', 'http', 'reuben', 'pharm', 'sas', 'com', 'html']

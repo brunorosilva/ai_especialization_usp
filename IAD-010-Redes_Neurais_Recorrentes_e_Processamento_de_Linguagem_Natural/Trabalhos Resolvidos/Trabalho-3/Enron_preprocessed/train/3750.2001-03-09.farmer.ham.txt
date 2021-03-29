@@ -1,0 +1,2 @@
+0
+['subject', 'calpin', 'daili', 'gas', 'nomin', 'aime', 'schedul', 'mainten', 'start', 'saturday', 'night', 'midnight', 'continu', 'month', 'per', 'schedul', 'mainten', 'letter', 'sent', 'januari', 'plant', 'burn', 'around', 'saturday', 'begin', 'sunday', 'end', 'mainten', 'period', 'estim', 'offic', 'monday', 'updat', 'volum', 'tuesday', 'question', 'call', 'aron', 'childer', 'thank', 'ricki', 'archer', 'fuel', 'suppli', 'louisiana', 'suit', 'houston', 'texa', 'direct', 'fax']

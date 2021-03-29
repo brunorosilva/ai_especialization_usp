@@ -1,0 +1,2 @@
+0
+['subject', 'autom', 'load', 'schedul', 'quantiti', 'sirpo', 'attach', 'draft', 'enhanc', 'autom', 'load', 'schedul', 'quantiti', 'pleas', 'review', 'provid', 'input', 'cob', 'need', 'discuss', 'document', 'let', 'know', 'make', 'arrang', 'meet', 'onc', 'get', 'input', 'issu', 'updat', 'document', 'meet', 'priorit', 'thank', 'tammi']

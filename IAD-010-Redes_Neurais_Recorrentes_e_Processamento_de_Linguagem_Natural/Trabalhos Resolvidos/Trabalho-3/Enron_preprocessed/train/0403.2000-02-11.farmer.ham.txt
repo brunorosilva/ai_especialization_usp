@@ -1,0 +1,2 @@
+0
+['subject', 'gather', 'contract', 'volum', 'feb', 'look', 'daili', 'volum', 'gather', 'contract', 'analyz', 'produc', 'servic', 'portion', 'p', 'l', 'look', 'daili', 'volum', 'contract', 'pop', 'show', 'daili', 'bav', 'approxim', 'mop', 'show', 'daili', 'bav', 'approxim', 'want', 'confirm', 'volum', 'sound', 'reason', 'way', 'also', 'look', 'like', 'nom', 'gather', 'contract', 'lot', 'higher', 'around', 'per', 'day', 'pleas', 'advis', 'feel', 'bav', 'come', 'compar', 'expect', 'thank', 'heidi']

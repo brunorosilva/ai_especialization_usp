@@ -1,0 +1,2 @@
+0
+['subject', 'southern', 'union', 'combin', 'ticket', 'southern', 'union', 'plant', 'port', 'arthur', 'galveston', 'april', 'forward', 'accur', 'reflect', 'contract', 'new', 'sitara', 'number', 'old', 'number', 'andl', 'chang', 'allow', 'accur', 'estim', 'p', 'l', 'well', 'accur', 'invoic', 'believ', 'chang', 'reduc', 'month', 'varianc', 'due', 'deal', 'ani', 'question', 'concern', 'pleas', 'feel', 'free', 'give', 'call', 'bryan']

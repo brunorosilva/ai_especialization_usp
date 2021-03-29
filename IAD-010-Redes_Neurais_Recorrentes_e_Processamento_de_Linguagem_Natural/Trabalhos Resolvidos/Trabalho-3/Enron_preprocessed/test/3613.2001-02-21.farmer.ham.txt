@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'get', 'sever', 'phone', 'call', 'alpin', 'resourc', 'demand', 'paid', 'meter', 'noth', 'paid', 'person', 'name', 'request', 'john', 'childer', 'said', 'spoke', 'daren', 'farmer', 'look', 'mmbtu', 'decemb', 'mmbtu', 'januari', 'kati', 'gas', 'unit', 'anyon', 'would', 'like', 'talk', 'john', 'phone', 'number', 'charlen', 'x']

@@ -1,0 +1,2 @@
+0
+['subject', 'spot', 'deal', 'creat', 'enter', 'follow', 'deal', 'sitara', 'hplc', 'im', 'wellhead', 'purchas', 'novemb', 'product', 'deal', 'counterparti', 'meter', 'volum', 'cokino', 'nat', 'gas', 'kill', 'crosstex', 'energi', 'cummin', 'walker', 'kill', 'duke', 'energi', 'trad', 'coastal', 'merchant', 'coastal', 'merchant', 'heatherloch', 'mun', 'pringl', 'resourc', 'shorelin', 'gas', 'suemaur', 'explor', 'swift', 'energi', 'tri', 'union', 'devel', 'vintag', 'gas', 'inc', 'white', 'petroleum', 'bob']

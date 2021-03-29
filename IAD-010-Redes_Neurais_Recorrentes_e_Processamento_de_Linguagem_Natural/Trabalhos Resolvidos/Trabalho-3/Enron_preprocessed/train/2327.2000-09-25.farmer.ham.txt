@@ -1,0 +1,2 @@
+0
+['subject', 'eastran', 'nomin', 'chang', 'effect', 'deliveri', 'eastran', 'continu', 'mmbtu', 'dy', 'redeliveri', 'fuel', 'cotton', 'valley', 'pg', 'e']

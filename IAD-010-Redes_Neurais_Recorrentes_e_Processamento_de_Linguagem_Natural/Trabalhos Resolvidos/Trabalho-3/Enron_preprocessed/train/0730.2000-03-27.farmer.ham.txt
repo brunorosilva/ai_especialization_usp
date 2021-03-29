@@ -1,0 +1,2 @@
+0
+['subject', 'fyi', 'daren', 'hey', 'sorri', 'call', 'last', 'thur', 'fri', 'sick', 'think', 'go', 'play', 'assist', 'thing', 'day', 'day', 'basi', 'know', 'catch', 'miss', 'day', 'need', 'get', 'thing', 'order', 'week', 'new', 'guy', 'start', 'next', 'week', 'call', 'spare', 'time', 'sorri', 'ani', 'inconveni', 'may', 'caus', 'thank', 'kyle']

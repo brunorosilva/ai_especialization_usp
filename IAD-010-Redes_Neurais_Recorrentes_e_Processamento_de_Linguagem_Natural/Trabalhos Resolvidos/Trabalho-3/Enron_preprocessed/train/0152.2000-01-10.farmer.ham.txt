@@ -1,0 +1,2 @@
+0
+['subject', 'valero', 'meter', 'treat', 'seper', 'ticket', 'creat', 'accord', 'meter', 'base', 'swing', 'buyback', 'meter', 'base', 'swing', 'buyback', 'meter', 'base', 'swing', 'buyback', 'volum', 'manag', 'need', 'set', 'account', 'arrang', 'cover', 'novemb', 'decemb', 'schedul', 'repath', 'renom', 'unifi', 'realloc', 'pop', 'januari', 'anyon', 'anyth', 'add', 'pleas', 'let', 'know', 'ken']

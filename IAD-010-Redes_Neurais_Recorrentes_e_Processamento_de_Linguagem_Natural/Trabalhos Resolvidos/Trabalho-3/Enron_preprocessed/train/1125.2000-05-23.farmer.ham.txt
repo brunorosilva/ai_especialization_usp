@@ -1,0 +1,2 @@
+0
+['subject', 'hey', 'guy', 'great', 'job', 'janet', 'deal', 'price', 'done', 'correct', 'swing', 'awar', 'per', 'month', 'big', 'deal', 'problem', 'offer', 'get', 'stood']

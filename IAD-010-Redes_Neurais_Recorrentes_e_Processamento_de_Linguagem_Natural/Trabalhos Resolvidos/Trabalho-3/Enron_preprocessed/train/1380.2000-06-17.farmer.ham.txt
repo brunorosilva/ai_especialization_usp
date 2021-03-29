@@ -1,0 +1,2 @@
+0
+['subject', 'resum', 'dart', 'arnaez', 'intern', 'candid', 'respons', 'job', 'talk']

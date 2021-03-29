@@ -1,0 +1,2 @@
+0
+['subject', 'new', 'employe', 'pleas', 'announc', 'sabra', 'zajac', 'join', 'texa', 'desk', 'logist', 'group', 'next', 'week', 'april', 'th', 'join', 'us', 'ena', 'offsystem', 'settlement', 'group', 'previous', 'koch', 'industri', 'reach', 'ext', 'thank', 'pat']

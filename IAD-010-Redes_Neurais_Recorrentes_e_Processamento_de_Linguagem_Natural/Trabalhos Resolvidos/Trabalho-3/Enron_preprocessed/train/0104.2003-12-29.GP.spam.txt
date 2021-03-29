@@ -1,0 +1,2 @@
+1
+['subject', 'iso', 'q', 'b', 'f', 'fwd', 'day', 'sale', 'gener', 'edc', 'vlagra']

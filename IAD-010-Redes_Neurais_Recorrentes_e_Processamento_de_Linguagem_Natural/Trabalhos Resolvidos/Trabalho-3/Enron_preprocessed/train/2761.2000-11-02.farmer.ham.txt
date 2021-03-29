@@ -1,0 +1,2 @@
+0
+['subject', 'seac', 'hpl', 'freeport', 'meter', 'follow', 'deal', 'creat', 'enter', 'sitara', 'effect', 'meter', 'counterparti', 'deal', 'nom', 'price', 'ifhsc', 'less', 'amerada', 'hess', 'anadarko', 'petroleum', 'apach', 'corp', 'barrett', 'resourc', 'crosstex', 'energi', 'svcs', 'marin', 'energi', 'ocean', 'energi', 'seneca', 'resourc', 'st', 'mari', 'land', 'expl', 'walter', 'oil', 'gas', 'dummi', 'kill', 'bob']

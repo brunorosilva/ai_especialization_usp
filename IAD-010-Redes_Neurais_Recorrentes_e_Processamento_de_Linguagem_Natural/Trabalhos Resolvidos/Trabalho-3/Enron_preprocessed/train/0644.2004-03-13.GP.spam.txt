@@ -1,0 +1,2 @@
+1
+['subject', 'cheap', 'price', 'valium', 'cheap', 'price', 'valium', 'get', 'medic', 'deliv', 'doorstep', 'us', 'doctor', 'write', 'prescript', 'onlin', 'us', 'licens', 'great', 'price', 'overnight', 'ship', 'veri', 'easi', 'order', 'prior', 'prescript', 'need', 'doctor', 'appoint', 'whi', 'tri', 'us', 'http', 'www', 'thehelp', 'rx', 'biz', 'g']

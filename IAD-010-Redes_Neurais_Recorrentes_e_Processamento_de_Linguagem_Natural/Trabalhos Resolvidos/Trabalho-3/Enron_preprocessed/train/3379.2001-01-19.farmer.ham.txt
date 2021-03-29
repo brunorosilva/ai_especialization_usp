@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'karen', 'determin', 'onli', 'valid', 'deal', 'wellhead', 'purchas', 'texlan', 'meter', 'product', 'pleas', 'realloc', 'meter', 'give', 'volum', 'texlan', 'thank', 'bob']

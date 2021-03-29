@@ -1,0 +1,2 @@
+0
+['subject', 'put', 'ft', 'transport', 'volum', 'decreas', 'contract', 'thank', 'ami', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'royal', 'b', 'edmondson', 'reliantenergi', 'com', 'ami', 'chokshi', 'enron', 'com', 'cc', 'subject', 'put', 'ft', 'see', 'attach', 'file', 'hpl', 'sept', 'xls', 'hpl', 'sept', 'xls']

@@ -1,0 +1,2 @@
+0
+['subject', 'texa', 'ena', 'system', 'rate', 'kim', 'pleas', 'get', 'mari', 'smith', 'trisha', 'hugh', 'texa', 'rate', 'group', 'pick', 'system', 'pipelin', 'rate', 'handl', 'may', 'want', 'visit', 'daren', 'farmer', 'also', 'level', 'activ', 'need', 'transit', 'work', 'team', 'soon', 'possibl', 'thank', 'bob']

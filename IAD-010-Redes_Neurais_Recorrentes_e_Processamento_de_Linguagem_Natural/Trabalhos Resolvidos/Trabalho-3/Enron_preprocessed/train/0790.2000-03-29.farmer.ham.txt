@@ -1,0 +1,2 @@
+0
+['subject', 'wellhead', 'daren', 'monin', 'tweak', 'due', 'late', 'nom', 'revis', 'shipper', 'know', 'tri', 'finalis', 'posit', 'let', 'know', 'want', 'work', 'system', 'four', 'squar', 'meter', 'old', 'new', 'suemaur', 'explor', 'c', 'e', 'oper', 'texaco', 'shorelin', 'yate', 'codi', 'cima', 'oil', 'gas', 'titl', 'phillip']

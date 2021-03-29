@@ -1,0 +1,2 @@
+1
+['subject', 'advic', 'mon', 'dec', 'good', 'day', 'view', 'record', 'unabl', 'p', 'prove', 'mor', 'tga', 'g', 'e', 'r', 'e', 'financ', 'e', 'r', 'e', 'howev', 'give', 'deal', 'satisfi', 'need', 'verifi', 'inform', 'http', 'www', 'checkdr', 'com', 'thank', 'ricki', 'robison']

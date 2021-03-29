@@ -1,0 +1,2 @@
+0
+['subject', 'daren', 'ate', 'show', 'team', 'one', 'specialist', 'januari', 'februari', 'pleas', 'let', 'know', 'ate', 'incorrect', 'month', 'januari', 'februari', 'specialist', 'team', 'receiv', 'survey', 'person', 'lack', 'inform', 'prevent', 'expens', 'alloc', 'commerci', 'team', 'pleas', 'fill', 'follow', 'survey', 'return', 'asap', 'ani', 'question', 'pleas', 'call', 'thank', 'shari']

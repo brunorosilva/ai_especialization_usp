@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'daren', 'eog', 'problem', 'well', 'time', 'compressor', 'problem', 'think', 'least', 'week', 'know', 'goe', 'would', 'like', 'drop', 'volum', 'chang', 'kim', 'imbal', 'meter', 'want', 'let', 'know', 'meter', 'yate', 'would', 'like', 'chang', 'volum', 'vintag', 'produc', 'last', 'month', 'would', 'like', 'increas', 'match', 'real', 'flow', 'know', 'bothersom', 'chang', 'tri', 'get', 'best', 'number', 'vanc', 'come', 'month', 'let', 'know', 'go', 'tom', 'cat']

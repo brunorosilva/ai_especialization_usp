@@ -1,0 +1,2 @@
+0
+['subject', 'thur', 'friday', 'offic', 'thursday', 'friday', 'pager', 'may', 'reach', 'check', 'voic', 'mail', 'pleas', 'call', 'georg', 'grant', 'absenc', 'ext', 'thank', 'pat', 'get', 'today', 'need', 'anyth', 'end', 'week']

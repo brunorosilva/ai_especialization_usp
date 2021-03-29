@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'chang', 'teja', 'garza', 'plant', 'darren', 'chang', 'take', 'duti', 'ami', 'handl', 'effect', 'juli', 'lst', 'coordin', 'chang', 'devon', 'june', 'jan', 'alreadi', 'send', 'chang', 'get', 'afternoon', 'tomorrow', 'let', 'know', 'send', 'chang', 'thank', 'bev', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'jan', 'svajian', 'cc', 'subject', 'nom', 'chang', 'teja', 'garza', 'plant', 'see', 'attach', 'enron', 'nom', 'chang', 'xls']

@@ -1,0 +1,2 @@
+0
+['subject', 'product', 'lower', 'colorado', 'river', 'author', 'sitara', 'daren', 'mari', 'gregg', 'lcra', 'said', 'sitara', 'mmbtu', 'current', 'deal', 'manag', 'sitara', 'price', 'bill', 'pleas', 'verifi', 'price', 'let', 'know', 'find', 'ani', 'question', 'pleas', 'call', 'thank', 'advanc', 'help', 'nicol']

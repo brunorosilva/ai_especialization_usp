@@ -1,0 +1,2 @@
+0
+['subject', 'februari', 'januari', 'industri', 'activ', 'mean', 'communic', 'use', 'becaus', 'trade', 'hour', 'fyi', 'onli', 'link', 'februari', 'true', 'today', 'final', 'end', 'today', 'review', 'januari', 'industri', 'activ', 'alloc', 'link', 'buyback', 'ect', 'end', 'tomorrow', 'tuesday', 'take', 'vacat', 'friday', 'feb', 'th', 'monday', 'feb', 'th']

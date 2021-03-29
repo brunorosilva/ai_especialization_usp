@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'daren', 'sean', 'gas', 'control', 'call', 'said', 'meter', 'flow', 'approx', 'mmbtu', 'day', 'nomin', 'mmbtu', 'day', 'c', 'p', 'costilla', 'energi', 'deal', 'want', 'adjust', 'pleas', 'advis', 'bob']

@@ -1,0 +1,2 @@
+0
+['subject', 'th', 'nom', 'go', 'back', 'midcon', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'pm', 'royal', 'b', 'edmondson', 'reliantenergi', 'com', 'pm', 'janet', 'h', 'walli', 'enron', 'com', 'ami', 'chokshi', 'enron', 'com', 'cc', 'subject', 'th', 'nom', 'go', 'back', 'midcon', 'see', 'attach', 'file', 'hpl', 'oct', 'xls', 'hpl', 'oct', 'xls']

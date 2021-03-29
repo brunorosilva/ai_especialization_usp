@@ -1,0 +1,2 @@
+0
+['subject', 'pictur', 'comput', 'problem', 'today', 'snarf', 'address', 'previous', 'e', 'mail', 'folk', 'none', 'previous', 'http', 'address', 'valid', 'ani', 'look', 'http', 'pictur', 'index', 'htm', 'find', 'tabl', 'content', 'juli', 'pictur', 'tri', 'keep', 'updat', 'new', 'pictur', 'post', 'thank', 'ram', 'tackett', 'mailto', 'rtackett', 'abacustech', 'net', 'owner', 'abacus', 'technolog', 'lore', 'lane', 'spring', 'tx', 'fax', 'web', 'http', 'www', 'abacustech', 'net', 'ram', 'tackett', 'e', 'mail', 'vcf']

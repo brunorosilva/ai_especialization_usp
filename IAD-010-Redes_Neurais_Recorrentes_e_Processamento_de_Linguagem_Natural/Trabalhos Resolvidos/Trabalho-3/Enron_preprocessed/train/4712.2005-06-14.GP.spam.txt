@@ -1,0 +1,2 @@
+1
+['subject', 'word', 'order', 'prescr', 'iption', 'adam', 'gettysburg', 'pertinaciousd', 'rawmnv']

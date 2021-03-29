@@ -1,0 +1,2 @@
+0
+['subject', 'review', 'heather', 'call', 'set', 'time', 'discuss', 'review', 'pleas', 'bring', 'two', 'item', 'plan', 'work', 'dure', 'first', 'six', 'month', 'item', 'improv', 'process', 'around', 'area', 'bring', 'addit', 'incom', 'enron', 'thank', 'bob']

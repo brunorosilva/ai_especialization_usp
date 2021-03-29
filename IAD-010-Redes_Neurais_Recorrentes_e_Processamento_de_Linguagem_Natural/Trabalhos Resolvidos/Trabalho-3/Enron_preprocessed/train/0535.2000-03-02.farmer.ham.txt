@@ -1,0 +1,2 @@
+0
+['subject', 'well', 'dalla', 'meter', 'would', 'like', 'decreas', 'let', 'know']

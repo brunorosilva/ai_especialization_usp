@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'chang', 'new', 'well', 'hayn', 'teja', 'nom', 'chang', 'effect', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'jan', 'svajian', 'cc', 'subject', 'nom', 'chang', 'new', 'well', 'hayn', 'teja', 'see', 'attach', 'enron', 'nom', 'chang', 'xls']

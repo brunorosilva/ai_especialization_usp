@@ -1,0 +1,2 @@
+0
+['subject', 'sale', 'shorelin', 'fyi', 'forward', 'stella', 'l', 'morri', 'hou', 'ect', 'pm', 'sherlyn', 'schumack', 'pm', 'joani', 'h', 'ngo', 'hou', 'ect', 'ect', 'katherin', 'herrera', 'corp', 'enron', 'enron', 'cc', 'stella', 'l', 'morri', 'hou', 'ect', 'ect', 'subject', 'sale', 'shorelin', 'joani', 'logist', 'wait', 'hear', 'daren', 'issu', 'either', 'need', 'extend', 'deal', 'mayb', 'anoth', 'deal', 'place', 'deal', 'valid', 'onli', 'rest', 'volum', 'look', 'schedul', 'day', 'sure', 'price', 'day', 'let', 'know', 'soon', 'hear']

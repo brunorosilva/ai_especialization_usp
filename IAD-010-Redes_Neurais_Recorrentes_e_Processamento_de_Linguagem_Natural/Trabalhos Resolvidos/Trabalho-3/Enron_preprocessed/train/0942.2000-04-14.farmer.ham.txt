@@ -1,0 +1,2 @@
+0
+['subject', 'march', 'busi', 'meter', 'help', 'deal', 'march', 'april', 'flow', 'march', 'total', 'flow', 'deliveri', 'april', 'averag', 'day', 'deliveri', 'februari', 'contract', 'deal', 'receipt', 'deliveri', 'meter', 'deal', 'citi', 'gate', 'sell', 'palacio', 'gas', 'thank', 'charlott']

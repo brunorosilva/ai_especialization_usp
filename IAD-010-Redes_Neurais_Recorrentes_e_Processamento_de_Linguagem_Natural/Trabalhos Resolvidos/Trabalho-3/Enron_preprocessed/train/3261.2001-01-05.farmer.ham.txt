@@ -1,0 +1,2 @@
+0
+['subject', 'tenaska', 'iv', 'transport', 'took', 'look', 'transport', 'txu', 'lone', 'star', 'tenaska', 'iv', 'price', 'differ', 'one', 'deal', 'need', 'day', 'ad', 'let', 'know', 'need', 'copi', 'invoic', 'meter', 'deliveri', 'meter', 'sure', 'receipt', 'meter', 'would', 'deal', 'meter', 'need', 'add', 'day', 'need', 'check', 'rate', 'show', 'bill', 'deal', 'meter', 'need', 'check', 'rate', 'show', 'bill', 'deal', 'meter', 'need', 'check', 'rate', 'show', 'price', 'bill', 'thank', 'megan']

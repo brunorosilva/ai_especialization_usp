@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'juli', 'avail', 'revis', 'juli', 'avail', 'revis', 'garden', 'bank', 'searobin', 'transco', 'texa', 'desk', 'thank', 'bever', 'forward', 'bever', 'beati', 'hou', 'ect', 'enron', 'capit', 'trade', 'resourc', 'corp', 'steve', 'holm', 'cc', 'subject', 'revis', 'juli', 'avail', 'attach', 'reflect', 'final', 'revis', 'avail', 'month', 'juli', 'highlight', 'properti', 'chang', 'let', 'know', 'ani', 'quetion', 'thank', 'steve', 'enronavailso', 'revl', 'xls']

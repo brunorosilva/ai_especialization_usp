@@ -1,0 +1,2 @@
+0
+['subject', 'name', 'chang', 'merger', 'list', 'preliminari', 'spreadsheet', 'juli', 'definit', 'anoth', 'list', 'distribut', 'later', 'friday', 'reason', 'unusu', 'number', 'notic', 'issu', 'work', 'dilig', 'get', 'document', 'line', 'updat', 'record', 'gcp', 'counterparti', 'name', 'chang', 'legal', 'name', 'field', 'updat', 'monday', 'afternoon', 'erm', 'shortnam', 'chang', 'tuesday', 'afternoon']

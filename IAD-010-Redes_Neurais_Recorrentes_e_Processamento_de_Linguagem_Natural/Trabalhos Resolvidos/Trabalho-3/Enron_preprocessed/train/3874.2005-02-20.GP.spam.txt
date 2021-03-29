@@ -1,0 +1,2 @@
+1
+['subject', 'circl', 'friend', 'hi', 'new', 'friend', 'want', 'see', 'photo', 'best', 'n', 'k', 'e', 'photo', 'http', 'soninmoth', 'com', 'home', 'bye', 'bye', 'write', 'think', 'elena']

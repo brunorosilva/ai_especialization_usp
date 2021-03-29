@@ -1,0 +1,2 @@
+1
+['subject', 'canva', 'cabl', 'v', 'de', 'rambler', 'f', 'r', 'e', 'e', 'lock', 'buster', 'earli', 'bird', 'offer', 'great', 'gift', 'holiday', 'give', 'free', 'event', 'movi', 'perfect', 'offer', 'http', 'nicolapax', 'com', 'promo', 'php', 'id', 'part', 'v', 'offer', 'letter', 'follow', 'http', 'nicolapax', 'com', 'nomor', 'php']

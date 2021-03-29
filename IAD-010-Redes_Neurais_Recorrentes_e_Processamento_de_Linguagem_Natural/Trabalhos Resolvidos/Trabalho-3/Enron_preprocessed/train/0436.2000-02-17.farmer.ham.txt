@@ -1,0 +1,2 @@
+0
+['subject', 'shut', 'meter', 'hoff', 'heller', 'unit', 'cdp', 'meter', 'hoff', 'heller', 'unit', 'cdp', 'shut', 'approxim', 'today', 'februari', 'wednesday', 'februari', 'meter', 'found', 'flow', 'lb', 'dew', 'point', 'gas', 'pumper', 'given', 'hour', 'correct', 'problem', 'februari', 'meter', 'found', 'flow', 'lb', 'dew', 'point', 'gas', 'ani', 'question', 'pleas', 'call', 'thank', 'gari', 'h']

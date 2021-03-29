@@ -1,0 +1,2 @@
+0
+['subject', 'duke', 'energi', 'field', 'pleas', 'chang', 'demand', 'fee', 'deal', 'need', 'reduc', 'payment', 'duke', 'adjust', 'deliveri', 'charg', 'day', 'nom', 'demand', 'amount', 'chang', 'wait', 'duke', 'agre', 'befor', 'sent', 'chang', 'thank', 'megan']

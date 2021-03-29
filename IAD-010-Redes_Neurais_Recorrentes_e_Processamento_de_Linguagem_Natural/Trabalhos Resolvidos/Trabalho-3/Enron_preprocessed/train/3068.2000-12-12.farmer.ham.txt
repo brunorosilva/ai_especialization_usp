@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'nov', 'daren', 'need', 'deal', 'set', 'nov', 'per', 'gari', 'hank', 'gas', 'taken', 'south', 'texa', 'put', 'midtex', 'pipelin', 'dewvill', 'taken', 'sheridan', 'hpl', 'mtr', 'midtex', 'mtr', 'let', 'know', 'need', 'inform', 'thank', 'thu']

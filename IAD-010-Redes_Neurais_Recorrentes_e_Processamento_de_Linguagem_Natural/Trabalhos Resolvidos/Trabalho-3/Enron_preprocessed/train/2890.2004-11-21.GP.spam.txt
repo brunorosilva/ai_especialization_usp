@@ -1,0 +1,2 @@
+1
+['subject', 'bkst', 'pknns', 'enlargkmknt', 'pnlls', 'cl', 'ck', 'h', 'r', 'b', 'st', 'p', 'n', 'enlarg', 'nt', 'p', 'lls', 'un', 'subscr', 'b']

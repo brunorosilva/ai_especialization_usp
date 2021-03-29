@@ -1,0 +1,2 @@
+0
+['subject', 'first', 'deliveri', 'comstock', 'oil', 'gas', 'hesco', 'gather', 'compani', 'see', 'attach', 'letter']

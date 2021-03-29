@@ -1,0 +1,2 @@
+0
+['subject', 'exxon', 'compani', 'usa', 'global', 'sitara', 'pleas', 'prepar', 'send', 'termin', 'letter', 'tomorrow', 'march', 'abov', 'referenc', 'deal', 'houston', 'pipe', 'line', 'compani', 'renegoti', 'price', 'interest', 'buy', 'gas', 'evergreen', 'basi', 'understand', 'need', 'notifi', 'within', 'day', 'end', 'deliveri', 'period', 'need', 'ani', 'addit', 'inform', 'ani', 'question', 'pleas', 'contact', 'thank', 'emv']

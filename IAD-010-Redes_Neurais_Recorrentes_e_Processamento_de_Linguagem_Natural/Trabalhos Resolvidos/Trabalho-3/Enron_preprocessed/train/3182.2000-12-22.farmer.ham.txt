@@ -1,0 +1,2 @@
+0
+['subject', 'hpl', 'meter', 'southern', 'union', 'lockhart', 'daren', 'abov', 'meter', 'record', 'flow', 'mmbtus', 'hpl', 'pipelin', 'deal', 'meter', 'prior', 'expir', 'current', 'volum', 'book', 'hpl', 'stranger', 'gas', 'contract', 'logist', 'need', 'either', 'deal', 'extend', 'new', 'deal', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'pleas', 'print', 'sign', 'return', 'origin', 'clem', 'cernosek', 'deal', 'deal', 'ticket', 'custom', 'seller', 'buyer', 'approv', 'writeoff', 'volum', 'unaccount', 'gas', 'loss', 'thank', 'clem']

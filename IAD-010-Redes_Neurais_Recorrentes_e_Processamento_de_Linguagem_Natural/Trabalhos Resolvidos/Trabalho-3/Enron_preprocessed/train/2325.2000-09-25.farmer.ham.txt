@@ -1,0 +1,2 @@
+0
+['subject', 'oasi', 'hpl', 'interconnect', 'cut', 'fyi', 'oasi', 'made', 'cut', 'wgr', 'sale', 'hpl', 'sunday', 'monday', 'day', 'refer', 'deal', 'due', 'loss', 'suppli', 'thank', 'mark', 'x']

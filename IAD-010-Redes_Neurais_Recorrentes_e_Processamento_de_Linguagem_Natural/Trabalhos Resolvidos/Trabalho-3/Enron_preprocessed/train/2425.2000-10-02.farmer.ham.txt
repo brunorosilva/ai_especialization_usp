@@ -1,0 +1,2 @@
+0
+['subject', 'shell', 'meter', 'octob', 'shell', 'made', 'follow', 'adjust', 'net', 'volum', 'still']

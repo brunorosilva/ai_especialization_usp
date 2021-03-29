@@ -1,0 +1,2 @@
+0
+['subject', 'forward', 'david', 'baumbach', 'hou', 'ect', 'pm', 'aorr', 'dynegi', 'com', 'pm', 'david', 'baumbach', 'enron', 'com', 'cc', 'subject', 'neal', 'resum', 'knoxvill', 'address', 'phone', 'next', 'coupl', 'week', 'go', 'come', 'stay', 'around', 'june', 'home', 'number', 'hy', 'home', 'address', 'w', 'nd', 'street', 'houston', 'work', 'number', 'see', 'attach', 'file', 'norrr', 'doc', 'norrr', 'doc']

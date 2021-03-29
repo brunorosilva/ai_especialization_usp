@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'estim', 'attach', 'two', 'spreadsheet', 'show', 'entex', 'data', 'dec', 'jano', 'factor', 'show', 'differ', 'estim', 'fed', 'pop', 'actual', 'meter', 'meter', 'set', 'actual', 'vidor', 'cg', 'yet', 'estim', 'volum', 'actual', 'mmcf', 'use', 'vidor', 'cg', 'estim', 'estim', 'mmcf', 'differ', 'mmcf', 'jano', 'scada', 'show', 'correct', 'inform', 'hempstead', 'cg', 'rtu', 'differ', 'would', 'mmcf', 'ani', 'question', 'pleas', 'call', 'gari']

@@ -1,0 +1,2 @@
+0
+['subject', 'licens', 'well', 'let', 'tell', 'like', 'never', 'ever', 'ever', 'studi', 'anoth', 'fricken', 'exam', 'hell', 'yes', 'pass', 'b', 'die', 'open', 'envelop', 'b', 'c', 'believ', 'rusti', 'r', 'glover', 'p', 'e', 'probabl', 'know', 'next', 'time', 'see', 'head', 'big', 'morn', 'could', 'bare', 'make', 'door', 'later', 'rusti', 'r', 'glover', 'p', 'e', 'origin', 'messag', 'camill', 'davi', 'mailto', 'kcdavi', 'pdq', 'net', 'sent', 'monday', 'januari', 'pm', 'glover', 'rusti', 'subject', 'licens', 'past', 'test', 'camill', 'attl', 'htm']

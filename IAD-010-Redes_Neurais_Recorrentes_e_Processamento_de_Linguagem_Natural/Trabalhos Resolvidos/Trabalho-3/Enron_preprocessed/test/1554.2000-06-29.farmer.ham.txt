@@ -1,0 +1,2 @@
+0
+['subject', 'revis', 'nom', 'kcs', 'resourc', 'daren', 'kcs', 'orig', 'nom', 'meter', 'revis', 'kcs', 'want', 'revis', 'want', 'adjust', 'bob']

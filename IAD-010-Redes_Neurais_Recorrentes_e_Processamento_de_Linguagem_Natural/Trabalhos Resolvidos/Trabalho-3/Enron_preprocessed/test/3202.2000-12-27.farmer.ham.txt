@@ -1,0 +1,2 @@
+0
+['subject', 'jan', 'nom', 'forward', 'tom', 'acton', 'corp', 'enron', 'pm', 'royal', 'b', 'edmondson', 'reliantenergi', 'com', 'pm', 'tacton', 'enron', 'com', 'lbellami', 'enron', 'com', 'janet', 'h', 'walli', 'enron', 'com', 'cc', 'subject', 'jan', 'nom', 'see', 'attach', 'file', 'hpl', 'jan', 'xls', 'hpl', 'jan', 'xls']

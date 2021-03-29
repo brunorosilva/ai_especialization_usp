@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'revis', 'eastran', 'understand', 'cut', 'lst', 'hpl', 'transport', 'mmbtu', 'therefor', 'reduc', 'nom', 'follow', 'mmbtu', 'redeliveri', 'follow', 'fuel', 'cotton', 'valley', 'pg', 'e', 'hpl', 'cartwheel', 'agreement', 'carthag', 'def', 'info', 'mmbtu', 'avail', 'tailgat', 'carthag', 'sale']

@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'actual', 'flow', 'thru', 'agre', 'nomin', 'total', 'eileen', 'ponton', 'david', 'avila', 'lsp', 'enserch', 'us', 'tu', 'charli', 'stone', 'texa', 'util', 'tu', 'melissa', 'jone', 'texa', 'util', 'tu', 'hpl', 'schedul', 'enron', 'com', 'liz', 'bellami', 'enron', 'com', 'cc', 'subject', 'nom', 'actual', 'flow', 'thru', 'date', 'nom', 'flow', 'mcf', 'flow', 'mmbtu', 'btu']

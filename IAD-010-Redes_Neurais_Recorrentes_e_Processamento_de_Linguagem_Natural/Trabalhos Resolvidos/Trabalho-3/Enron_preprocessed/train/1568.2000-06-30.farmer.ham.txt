@@ -1,0 +1,2 @@
+0
+['subject', 'maynard', 'oil', 'revis', 'nom', 'daren', 'deal', 'updat', 'bob', 'daren', 'j', 'farmer', 'robert', 'cotten', 'hou', 'ect', 'ect', 'cc', 'subject', 'maynard', 'oil', 'revis', 'nom', 'bob', 'updat', 'nom', 'sitara', 'agre', 'enron', 'north', 'america', 'corp', 'robert', 'cotten', 'pm', 'daren', 'j', 'farmer', 'hou', 'ect', 'ect', 'cc', 'subject', 'maynard', 'oil', 'revis', 'nom', 'daren', 'maynard', 'oil', 'meter', 'revis', 'nom', 'juli', 'bob']

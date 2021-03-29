@@ -1,0 +1,2 @@
+1
+['subject', 'complimentari', 'comput', 'soni', 'vaio', 'laptop']

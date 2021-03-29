@@ -1,0 +1,2 @@
+1
+['subject', 'david', 'triplett', 'new', 'softwar', 'windowxp', 'profession', 'window', 'offic', 'profession', 'photoshop', 'good', 'product', 'whi', 'buy', 'retailpric', 'district', 'almost', 'everi']

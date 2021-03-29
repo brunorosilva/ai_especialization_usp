@@ -1,0 +1,2 @@
+0
+['subject', 'hl', 'p', 'aime', 'confirm', 'volum', 'hl', 'p', 'special', 'deal', 'green', 'bayou', 'hl', 'p', 'dealmak', 'call', 'find', 'volum', 'think', 'communic', 'schedul', 'case', 'anyway', 'need', 'agre', 'hl', 'p', 'volum', 'flow', 'special', 'day', 'get', 'system', 'bill', 'correct', 'aime', 'lannou', 'pm', 'edward', 'gottlob', 'hou', 'ect', 'ect', 'pat', 'clyne', 'corp', 'enron', 'enron', 'cc', 'subject', 'hl', 'p', 'ed', 'chanc', 'would', 'like', 'go', 'aime']

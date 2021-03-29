@@ -1,0 +1,2 @@
+0
+['subject', 'februari', 'wellhead', 'product', 'estim', 'bob', 'pleas', 'see', 'attach', 'file', 'estim', 'wellhead', 'product', 'month', 'februari', 'pleas', 'advis', 'preliminari', 'estim', 'date', 'receiv', 'one', 'nom', 'februari', 'updat', 'ani', 'revis', 'occur', 'offic', 'tomorrow', 'howev', 'return', 'offic', 'thursday', 'thank', 'vlt', 'x']

@@ -1,0 +1,2 @@
+0
+['subject', 'still', 'friend', 'good', 'day', 'want', 'thank', 'help', 'given', 'dure', 'last', 'month', 'also', 'great', 'time', 'work', 'laugh', 'togeth', 'bad', 'good', 'news', 'th', 'jan', 'last', 'day', 'except', 'new', 'posit', 'bp', 'amoco', 'great', 'pleasur', 'know', 'beat', 'mark', 'mccoy', 'thank', 'still', 'friend', 'ej']

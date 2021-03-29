@@ -1,0 +1,2 @@
+0
+['subject', 'beaumont', 'methanol', 'confirm', 'need', 'take', 'deliveri', 'hpl', 'meter', 'zero', 'beaumont', 'methanol', 'start', 'control', 'shut', 'last', 'night', 'deco', 'due', 'high', 'gas', 'price', 'becam', 'control', 'shut', 'shut', 'last', 'night', 'take', 'gas', 'dupont', 'header', 'lee']

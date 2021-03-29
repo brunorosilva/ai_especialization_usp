@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'know', 'paid', 'torch', 'would', 'assum', 'octob', 'accord', 'charlen', 'cleco', 'invoic', 'us', 'deal', 'intial', 'deal', 'system']

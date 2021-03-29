@@ -1,0 +1,2 @@
+0
+['subject', 'review', 'texa', 'budget', 'meet', 'pleas', 'plan', 'attend', 'meet', 'tuesday', 'th', 'pm', 'review', 'texa', 'budget', 'receiv', 'hard', 'copi', 'budget', 'tomorrow', 'pleas', 'review', 'hold', 'question', 'concern', 'meet', 'possibl', 'pleas', 'forward', 'question', 'may', 'compil', 'list', 'deliv', 'lisa', 'cousino', 'tuesday', 'morn', 'thank', 'yvett', 'x']

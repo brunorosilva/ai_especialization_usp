@@ -1,0 +1,2 @@
+1
+['subject', 'solid', 'loan', 'made', 'simpl', 'mayb', 'time', 'http', 'taifd', 'lower', 'rate', 'com', 'rem', 'php']

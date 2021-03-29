@@ -1,0 +1,2 @@
+0
+['subject', 'global', 'octan', 'meter', 'juli', 'activ', 'lee', 'inform', 'today', 'th', 'global', 'octan', 'experi', 'oper', 'problem', 'begin', 'last', 'night', 'notic', 'note', 'outag', 'consid', 'forc', 'majeur', 'thus', 'whatev', 'flow', 'dure', 'time', 'period', 'alloc', 'term', 'deal', 'lee', 'veri', 'specif', 'toward', 'issu', 'buyback', 'howard', 'pleas', 'forward', 'inform', 'whomev', 'need', 'settlement', 'thank']

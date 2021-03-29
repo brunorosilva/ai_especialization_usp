@@ -1,0 +1,2 @@
+0
+['subject', 'nom', 'actual', 'vol', 'eileen', 'gas', 'control', 'record', 'indic', 'follow', 'rate', 'chang', 'march', 'flow', 'rate', 'hrs', 'rate', 'hrs', 'nom', 'day', 'mmbtu', 'pleas', 'call', 'see', 'agre', 'total', 'nom', 'reach', 'eileen', 'ponton', 'david', 'avila', 'lsp', 'enserch', 'us', 'tu', 'charli', 'stone', 'texa', 'util', 'tu', 'melissa', 'jone', 'texa', 'util', 'tu', 'hpl', 'schedul', 'enron', 'com', 'liz', 'bellami', 'enron', 'com', 'cc', 'subject', 'nom', 'actual', 'vol', 'nom', 'mcf', 'mmbtu', 'btu', 'note', 'chang', 'flow', 'rate', 'thru']

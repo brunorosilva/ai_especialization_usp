@@ -1,0 +1,2 @@
+0
+['subject', 'pop', 'team', 'temporarili', 'move', 'allen', 'center', 'pleas', 'note', 'pop', 'team', 'temporarili', 'move', 'allen', 'center', 'start', 'monday', 'locat', 'ac', 'till', 'move', 'back', 'enron', 'bldg', 'pop', 'oncal', 'pager', 'pop', 'cellular', 'also', 'note', 'attend', 'class', 'thru', 'whole', 'next', 'week', 'ani', 'pop', 'issu', 'pleas', 'peopl', 'contact', 'follow', 'christin', 'pham', 'x', 'shawn', 'macphail', 'x', 'thank', 'romeo']

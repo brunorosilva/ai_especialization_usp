@@ -1,0 +1,2 @@
+0
+['subject', 'weekend', 'gas', 'want', 'review', 'weekend', 'sale', 'southern', 'union', 'longterm', 'firm', 'sale', 'novemb', 'insid', 'ferc', 'k', 'gas', 'daili', 'k', 'th', 'th', 'gas', 'daili', 'k', 'th', 'nome', 'doe', 'reflect', 'prior', 'gas', 'daili', 'sale', 'spot', 'gas', 'daili', 'hsc', 'tuesday', 'print', 'th', 'k', 'th', 'th', 'firm', 'deal', 'abov', 'first', 'meter', 'call', 'someth', 'look', 'right', 'janet']

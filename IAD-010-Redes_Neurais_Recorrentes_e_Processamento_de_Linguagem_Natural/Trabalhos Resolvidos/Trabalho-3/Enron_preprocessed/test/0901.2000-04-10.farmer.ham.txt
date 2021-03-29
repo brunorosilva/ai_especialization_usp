@@ -1,0 +1,2 @@
+0
+['subject', 'go', 'sitara', 'deal', 'expir', 'flow', 'follow', 'day', 'decatherm', 'meter', 'day', 'chart', 'know', 'volum', 'show', 'later', 'help', 'thank', 'jacki']

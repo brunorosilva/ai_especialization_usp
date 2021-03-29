@@ -1,0 +1,2 @@
+0
+['subject', 'txu', 'nom', 'sure', 'whether', 'melissa', 'lotus', 'note', 'send', 'data', 'proper', 'alreadi', 'receiv', 'copi', 'attach', 'nomin', 'pleas', 'disregard', 'copi', 'thank', 'ccs', 'see', 'attach', 'file', 'hplnl', 'xls', 'hplnl', 'xls']

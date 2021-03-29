@@ -1,0 +1,2 @@
+0
+['subject', 'timelin', 'calendar', 'per', 'manag', 'offsit', 'meet', 'pleas', 'provid', 'month', 'calendar', 'show', 'vital', 'busi', 'day', 'close', 'bid', 'week', 'etc', 'necessari', 'captur', 'day', 'pleas', 'provid', 'month', 'januari', 'februari', 'pleas', 'work', 'assist', 'get', 'accomplish', 'befor', 'next', 'monday', 'without', 'pleas', 'give', 'call', 'set', 'time', 'sit', 'handl', 'calendar', 'thank', 'yvett', 'x']

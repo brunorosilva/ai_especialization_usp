@@ -1,0 +1,2 @@
+0
+['subject', 'entex', 'deal', 'jan', 'liz', 'pleas', 'make', 'note', 'ad', 'meter', 'midcon', 'bammel', 'entex', 'deal', 'januari', 'lst', 'nd', 'flow', 'occur', 'path', 'come', 'across', 'pop', 'follow', 'alloc', 'deal', 'lst', 'nd', 'total', 'actual', 'flow', 'volum', 'patsi', 'midcon', 'kindermorgan', 'awar', 'agre', 'let', 'know', 'ani', 'question', 'thank', 'mark', 'x']

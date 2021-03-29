@@ -1,0 +1,2 @@
+0
+['subject', 'th', 'chang', 'duke', 'air', 'liquid', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'troy', 'benoit', 'reliantenergi', 'com', 'ami', 'chokshi', 'corp', 'enron', 'enron', 'cc', 'subject', 'th', 'chang', 'duke', 'air', 'liquid', 'see', 'attach', 'file', 'egmnom', 'feb', 'xls', 'egmnom', 'feb', 'xls']

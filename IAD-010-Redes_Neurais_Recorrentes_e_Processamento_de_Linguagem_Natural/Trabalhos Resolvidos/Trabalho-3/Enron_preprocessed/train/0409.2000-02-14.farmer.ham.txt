@@ -1,0 +1,2 @@
+0
+['subject', 'meter', 'jan', 'aime', 'georg', 'per', 'daren', 'purchas', 'deal', 'meter', 'alloc', 'nome', 'pg', 'e', 'contract', 'could', 'pleas', 'verifi', 'brian', 'trueli', 'gas', 'thank', 'thu']

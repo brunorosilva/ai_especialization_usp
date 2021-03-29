@@ -1,0 +1,2 @@
+0
+['subject', 'hi', 'hi', 'revis', 'effect', 'hio', 'p', 'l', 'forward', 'ami', 'chokshi', 'corp', 'enron', 'steve', 'holm', 'cc', 'subject', 'hi', 'hi', 'revis', 'effect', 'hio', 'p', 'l', 'pleas', 'see', 'attach', 'revis', 'effect', 'hi', 'hi', 'platform', 'darren', 'probabl', 'make', 'anoth', 'chang', 'hi', 'effect', 'tuesday', 'june', 'onc', 'hear', 'pipelin', 'realloc', 'gas', 'let', 'need', 'chang', 'nom', 'tuesday', 'june', 'pleas', 'let', 'know', 'ani', 'question', 'thank', 'hi', 'reveffo', 'xls', 'hi', 'reveffo', 'xls']

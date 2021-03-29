@@ -1,0 +1,2 @@
+1
+['subject', 'get', 'med', 'sent', 'discret', 'direct', 'hi', 'grade', 'offshor', 'prescript', 'express', 'ship', 'direct', 'resid', 'ciaii', 'vlagra', 'valium', 'mani', 'avail', 'save', 'worldwid', 'deliveri', 'discreet', 'packag', 'prior', 'script', 'requir', 'purchas']

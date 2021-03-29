@@ -1,0 +1,2 @@
+0
+['subject', 'imbal', 'gas', 'case', 'wors', 'come', 'wors', 'forward', 'mari', 'poorman', 'na', 'enron', 'juliann', 'kemp', 'enron', 'enronxg', 'mari', 'poorman', 'na', 'enron', 'enron', 'cc', 'subject', 'imbal', 'gas', 'mari', 'two', 'thank', 'juli', 'contract', 'deliveri', 'meter', 'owe', 'deliveri', 'koch', 'refineri', 'owe']

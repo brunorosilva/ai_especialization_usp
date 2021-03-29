@@ -1,0 +1,2 @@
+0
+['subject', 'vacat', 'offic', 'next', 'week', 'vacat', 'dure', 'juli', 'th', 'juli', 'th', 'bob', 'cotten', 'handl', 'entir', 'desk', 'bob', 'reach', 'extens']

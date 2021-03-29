@@ -1,0 +1,2 @@
+0
+['subject', 'mgi', 'suppli', 'forward', 'elsa', 'villarr', 'hou', 'ect', 'pm', 'nicol', 'vo', 'enron', 'elsa', 'villarr', 'hou', 'ect', 'ect', 'cc', 'subject', 'mgi', 'suppli', 'humbl', 'gas', 'pipelin', 'elsa', 'inform', 'bill', 'anyth', 'hgpl', 'supervisor', 'talk', 'priscilla', 'hamic', 'inform', 'hgpl', 'bill', 'offsystem', 'texa', 'desk', 'deal', 'sitara', 'relat', 'hgpl', 'state', 'texa', 'desk', 'pleas', 'let', 'know', 'bill', 'mgi', 'suppli', 'hgpl', 'volum', 'thank', 'help', 'nicol', 'vo']

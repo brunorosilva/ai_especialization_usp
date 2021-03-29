@@ -1,0 +1,2 @@
+0
+['subject', 'schedul', 'schedul', 'need', 'buck', 'paid', 'yet', 'want', 'tri', 'get', 'togeth', 'weekend', 'get', 'practic', 'let', 'know', 'avail', 'bryan']

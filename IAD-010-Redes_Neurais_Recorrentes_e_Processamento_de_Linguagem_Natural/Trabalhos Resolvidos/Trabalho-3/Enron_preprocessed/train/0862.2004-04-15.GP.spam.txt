@@ -1,0 +1,2 @@
+1
+['subject', 'got', 'school', 'click', 'remov']

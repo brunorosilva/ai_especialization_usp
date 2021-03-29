@@ -1,0 +1,2 @@
+1
+['subject', 'best', 'med', 'around', 'paliourg', 'met', 'somewher', 'befor', 'isol', 'sum', 'total', 'wretched', 'man', 'love', 'like', 'pi', 'natur', 'irrat', 'veri', 'import', 'paliourg', 'highqual', 'medic', 'ship', 'worldwid', 'http', 'summerbird', 'sder', 'f', 'com', 'g', 'index', 'php', 'id', 'g', 'dynamo', 'love', 'like', 'measl', 'wors', 'come', 'late', 'life', 'flatteri', 'corrupt', 'receiv', 'giver', 'men', 'believ', 'wish', 'three', 'great', 'element', 'modern', 'civil', 'gun', 'powder', 'print', 'protest', 'religion']
