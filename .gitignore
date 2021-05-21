@@ -6,3 +6,6 @@ IAD-009-Redes_Neurais_Convolutivas_e_Visão_Computacional/Trabalhos Resolvidos/.
 IAD-009-Redes_Neurais_Convolutivas_e_Visão_Computacional/Trabalhos Resolvidos/.ipynb_checkpoints/A6_Redes_complexas-checkpoint.ipynb
 IAD-009-Redes_Neurais_Convolutivas_e_Visão_Computacional/Trabalhos Resolvidos/data64.h5
 IAD-009-Redes_Neurais_Convolutivas_e_Visão_Computacional/Trabalhos Resolvidos/Figuras_aula6.zip
+IAD-008-Redes_Deep-Learning_e_Plataformas_de_Desenvolvimento_2/Trabalhos Resolvidos/Trabalho4/.ipynb_checkpoints/T4_Processamento_dados_pandas-checkpoint.ipynb
+*.ipynb_checkpoints
+*.html
